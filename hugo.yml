@@ -1,10 +1,10 @@
-baseURL: https://sansoul.netlify.app
+baseURL: https://educamore.es
 buildFuture: true
 theme: [sansoul]
 params:
-  git_url: ''
-  netlify_name: ''
-  netlify_id: ''
-  hook: NjMwMmJjOWExZjZiNGI2Zjk2YmJjMDVh
-  drive_link: ''
-  drive_mails: ''
+  git_url: https://github.com/seacomoseo/educamore.es
+  netlify_name: educamore
+  netlify_id: 02a37668-5d51-4cf5-b5d4-367cecfb871a
+  hook: NjZkNzY0Y2Y2NjgxMjVhZTViMTJkZTZiCg==
+  drive_link: https://drive.google.com/file/d/1X1dAebileXKSb1D4fTe39SB7AuTa_KVJ
+  drive_mails: snows.lafe@gmail.com
