@@ -1,1 +1,10 @@
-_: []
+_:
+
+- base: article
+  name: blog
+  related: true
+
+- base: author
+  relations:
+  - name: blog
+    schema: author

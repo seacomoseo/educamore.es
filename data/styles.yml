@@ -6,7 +6,7 @@ icons:
 fonts:
   google: true
   base:
-    family: Montserrat
+    family: Open Sans
     weight: 400
     bold: 0
     italic: false
@@ -20,8 +20,8 @@ fonts:
     size: 1
     top: 0
   title:
-    family: Montserrat
-    weight: 800
+    family: Lobster
+    weight: 400
     bold: 0
     italic: false
     line_height: 1.25
@@ -30,7 +30,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#cb2e38' #61c9a8
     light: ''
     dark: ''
     contrast: text
@@ -40,27 +40,27 @@ colors:
     dark: ''
     contrast: all
   link:
-    color: '#fe5f55'
+    color: '' #cf4376
     light: ''
     dark: ''
     contrast: text
   base:
     white: '#fff'
-    light: '#eee'
+    light: '#e7e8eb'
     grey: '#767676'
-    dark: '#282525'
+    dark: '#373b3b' #710986 #282525
     black: '#000'
 rounded:
-  radius: 0.33
-  chamfer: true
+  radius: 1.33
+  chamfer: false
 buttons:
   sides_round: false
   icon_circle: false
   deep: true
   outline: false
   font_main:
-    type: base
-    bold: true
+    type: title
+    bold: false
     uppercase: true
   font_alt:
     type: base
