@@ -1,7 +1,7 @@
 ---
 slug: inicio
 title: Inicio
-image: fondo.jpg
+image: snows/pizarra.jpg
 
 seo: ❤️ EducAmore - Blog sobre Educación con Amor
 description: llll➤ En este blog cuento cosas de interés para padres, educadores y cualquier ser humano interesado en la educación con amor.
