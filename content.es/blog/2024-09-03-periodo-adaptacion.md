@@ -141,14 +141,14 @@ Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a tod
 
 **Se trata de educar menores felices, pero que sepan aceptar límites y sean tolerantes a la frustración.**
 
-¿Su hijo no acepta un *no* por respuesta y se instala en el enfado constante cuando no consigue lo que quiere? 
+¿Su hijo no acepta un **no** por respuesta y se instala en el enfado constante cuando no consigue lo que quiere? 
 
 Es posible que su educación esté basada en el consentimiento, la permisividad y la falta de límites o normas. Un niño consentido no nace, se hace y puede crear problemas de convivencia en casa como rabietas, agresividad o enfrentamientos y peleas habituales con personas de su entorno. 
 
 > Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas
 <cite>Gema José Moreno, psicóloga infanto-juvenil</cite>
 
-Cuando nuestra respuesta es un “NO” para establecer un límite, no debemos decir solamente un no, o “no porque yo lo digo”, “no, porque  yo mando”, pues estas respuestas dan más motivos al niño para sentirse frustrado. 
+Cuando nuestra respuesta es un “NO” para establecer un límite, no debemos decir solamente un no, o “no, porque yo lo digo”, “no, porque  yo mando”, pues estas respuestas dan más motivos al niño para sentirse frustrado. 
 
 ## Establezcamos normas (límites) con amor
 
@@ -194,7 +194,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 - **LÍMITES**:
     - https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html
 
-## 💗 Recomendaciones
+## icon:heart Recomendaciones
 
 - Establecer rutinas en casa y dar pequeñas responsabilidades a los niños acorde a su edad.
 - Poner normas y hacerlas cumplir. Papá y mamá deben ser un equipo ante las normas, para que uno no desautorice al otro. (Si uno las hace cumplir y el otro no)

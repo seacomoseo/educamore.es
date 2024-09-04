@@ -21,9 +21,10 @@ names:
 - ❤️ EducAmore
 - Educación con Amor
 - Nieves Lara
-description: En este blog cuento cosas de interés para padres, educadores y cualquier ser humano interesado en la educación con amor.
-legal: null
-nif: null
+summary: En este blog cuento cosas de interés para padres, educadores y cualquier ser humano interesado en la educación con amor.
+legal: María Nieves Lara Férez
+nif: 48423725P
+email: snows.lafe@gmail.com
 logo: base/icon.png
 images:
 - snows/pizarra.jpg

@@ -7,9 +7,3 @@ langs:
     logo: base/icon.png
     title: EducAmore
     subtitle: Educación con Amor
-  legal:
-    name: María Nieves Lara Férez
-    nif: ''
-    email: snows.lafe@gmail.com
-others:
-  development: true
