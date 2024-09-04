@@ -3,6 +3,8 @@ _:
 - base: article
   name: blog
   related: true
+  es:
+    permalinks: ''
 
 - base: author
   relations:
