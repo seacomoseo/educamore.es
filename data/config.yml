@@ -7,3 +7,5 @@ langs:
     logo: base/icon.png
     title: EducAmore
     subtitle: Educación con Amor
+others:
+  development: true
