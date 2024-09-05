@@ -1,6 +1,6 @@
 icons:
   type: solid
-  sharp: true
+  sharp: false
   emojis: ''
   emojis_default: false
 fonts:

@@ -146,7 +146,7 @@ Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a tod
 Es posible que su educación esté basada en el consentimiento, la permisividad y la falta de límites o normas. Un niño consentido no nace, se hace y puede crear problemas de convivencia en casa como rabietas, agresividad o enfrentamientos y peleas habituales con personas de su entorno. 
 
 > Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas
-<cite>Gema José Moreno, psicóloga infanto-juvenil</cite>
+> <cite>Gema José Moreno, psicóloga infanto-juvenil</cite>
 
 Cuando nuestra respuesta es un “NO” para establecer un límite, no debemos decir solamente un no, o “no, porque yo lo digo”, “no, porque  yo mando”, pues estas respuestas dan más motivos al niño para sentirse frustrado. 
 
@@ -176,6 +176,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 - Respetar y cumplir las normas del centro.
 - Saber que cualquiera puede dejar al niño en el colegio, pero solo podrán recogerlo aquellas personas que estén autorizadas, por el bien del niño (NO entregamos a ningún menor, por su seguridad, a ninguna persona desconocida para nosotros)
 
+
 🙏🏽 Gracias por leer hasta el final.
 
 ---
@@ -183,7 +184,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 ## Frase del mes
 
 > No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio
-> <cite>Charles Darwin</cite>
+<cite>Charles Darwin</cite>
 
 ## Reseña bibliográfica
 

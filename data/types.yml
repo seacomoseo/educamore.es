@@ -7,6 +7,6 @@ _:
     permalinks: ''
 
 - base: author
-  relations:
+  taxonomy_of:
   - name: blog
     schema: author

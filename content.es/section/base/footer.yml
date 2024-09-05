@@ -1,6 +1,6 @@
 name: Pie
 divider: curve-side
-description: |
+content: |
   - icon:copyright      {{< internal-link index >}}
   - icon:scale-balanced {{< internal-link legal >}}
   - icon:shield-keyhole {{< internal-link privacy >}}
