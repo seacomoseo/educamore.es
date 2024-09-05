@@ -1,7 +1,6 @@
 ---
 slug: periodo-adaptacion
 title: Periodo de Adaptación
-summary: ''
 image: blog/periodo-adaptacion.jpg
 
 date: 2024-09-03 00:00:00

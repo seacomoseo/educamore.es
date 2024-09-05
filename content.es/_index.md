@@ -3,8 +3,8 @@ slug: inicio
 title: Inicio
 image: snows/pizarra.jpg
 
-seo: ❤️ EducAmore - Blog sobre Educación con Amor
-description: llll➤ En este blog cuento cosas de interés para padres, educadores y cualquier ser humano interesado en la educación con amor.
+seo: EducAmore ❤️ Blog sobre Educación con Amor
+description: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
 
 # section:
 # - underline: true
@@ -19,9 +19,10 @@ types:
 names:
 - EducAmore
 - ❤️ EducAmore
+- EducAmore ❤️
 - Educación con Amor
-- Nieves Lara
-summary: En este blog cuento cosas de interés para padres, educadores y cualquier ser humano interesado en la educación con amor.
+- María Nieves Lara Férez
+summary: ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
 legal: María Nieves Lara Férez
 nif: 48423725P
 email: snows.lafe@gmail.com

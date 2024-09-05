@@ -1,5 +1,6 @@
 name: Pie
-divider: curve-side
+divider: christmas-trees
+# flip_y: true
 content: |
   - icon:copyright      {{< internal-link index >}}
   - icon:scale-balanced {{< internal-link legal >}}
