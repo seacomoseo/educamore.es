@@ -10,3 +10,5 @@ _:
   taxonomy_of:
   - name: blog
     schema: author
+  es:
+    permalinks: ''

@@ -10,7 +10,10 @@ description: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompa
 # - underline: true
 #   uppercase: true
 
+section:
+- size: md
 sections:
+- file: presentacion
 - file: blog
 
 base: organization

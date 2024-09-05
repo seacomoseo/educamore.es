@@ -8,7 +8,7 @@ social: []
 
 toc: false
 draft: false
-noindex: true
+noindex: false
 seo: null # string
 description: null # string
 ---
