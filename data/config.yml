@@ -3,9 +3,5 @@ langs:
   title: EducAmore
   description: Blog sobre Educación con Amor
   google_analytics: G-991Z9FWV1R
-  menu:
-    logo: base/icon.png
-    title: EducAmore
-    subtitle: Educación con Amor
 # others:
 #   development: true

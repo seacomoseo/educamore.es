@@ -6,6 +6,8 @@ image: blog/periodo-adaptacion.jpg
 date: 2024-09-03 00:00:00
 lastmod: ''
 author: nieves
+category:
+- padres
 
 toc: true
 draft: false
@@ -180,8 +182,6 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 
 ---
 
-## Frase del mes
-
 > No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio
 <cite>Charles Darwin</cite>
 
@@ -193,6 +193,8 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
     - López, F. (2009). Amores y desamores: procesos de vinculación y desvinculación sexuales y afectivos. Madrid: Biblioteca Nueva.
 - **LÍMITES**:
     - https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html
+- Imagen del encabezado descargada de: \
+  https://unsplash.com/es/fotos/dos-ninos-corren-por-un-suelo-a-cuadros-7g-FV0VO8dg
 
 ## icon:heart Recomendaciones
 

@@ -6,7 +6,11 @@ menu:
   logo_align: center
   transparent: true
   size: sm
-lists:
+  es:
+    image: base/icon.png
+    title: EducAmore
+    subtitle: Educación con Amor
+list:
   columns: 3
   declive: true
   ratio: 16x9

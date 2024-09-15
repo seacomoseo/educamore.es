@@ -12,3 +12,15 @@ _:
     schema: author
   es:
     permalinks: ''
+
+- base: page
+  name: category
+  taxonomy_of:
+  - name: blog
+    multiple: true
+    breadcrumbs: true
+    schema: articleSection
+  - name: category
+    multiple: true
+    breadcrumbs: true
+
