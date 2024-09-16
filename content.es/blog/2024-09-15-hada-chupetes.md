@@ -26,7 +26,7 @@ Coincidiendo con la entrada al segundo ciclo de Educación Infantil, se producen
 
 Y es en este momento cuando el niño muestra una progresiva autonomía e independencia “relativa”, es buen momento de dar el paso a despedir tetinas (chupetes, biberones y lactancia materna, si fuera el caso)
 
-Retirarlos a tiempo y darles la posibilidad de masticar alimentos, morder, y sorber o succionar va a fortalecer la musculatura del paladar (hueso maxilar superior) y del interior de la boca en general, evitará que se le caiga la baba (el babeo desaparece al año por el aumento de tonicidad en labios, lengua y mandíbula), empezará a tener una buena mordida y dato importante, es fundamental para colocar bien la lengua para hablar bien. Al final, chupetes y biberones no dejan de ser “intrusos” que la deforman.
+Retirarlos a tiempo y darles la posibilidad de masticar alimentos, morder, y sorber o succionar va a fortalecer la musculatura del paladar (hueso maxilar superior) y del interior de la boca en general, evitará que se le caiga la baba (el babeo desaparece al año por el aumento de tonicidad en labios, lengua y mandíbula), empezará a tener una buena mordida y, dato importante, es fundamental para colocar bien la lengua para hablar bien. Al final, chupetes y biberones no dejan de ser “intrusos” que la deforman.
 
 El uso prolongado de tetinas puede provocar un paladar alto y estrecho, que puede afectar al desarrollo del habla y la oclusión correcta -maloclusión-  (la alineación de los dientes inferiores y superiores para una buena mordida) provocando problemas para hablar o deglutir, por ejemplo. 
 
@@ -112,7 +112,7 @@ Que nuestra respuesta no sea el enfado ni el chantaje, que el niño encuentre en
 
 ## El hada de los chupetes
 
-A modo de cierre, os dejo la idea a la que podéis dar forma, a modo de historia, similar a la del ratoncito Pérez, que en este caso es un hada y se encarga de recoger chupetes. Puede ser un duende, un gnomo, algún ser pequeñito que no les de miedo. 
+A modo de cierre, os dejo la idea a la que podéis dar forma, como una historia similar a la del ratoncito Pérez, que en este caso es un hada y se encarga de recoger chupetes. Puede ser un duende, un gnomo, algún ser pequeñito que no les de miedo. 
 
 Podéis dejar el chupete en una cajita junto a la mesita con una nota para el hada, cuando el hada os visite, se lleva el chupete y a cambio os deja una moneda (hay unas monísimas del hada de los dientes que podéis usar para este momentazo), o les deja un diploma con su nombre felicitándole.
 
