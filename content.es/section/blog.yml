@@ -7,16 +7,16 @@ box:
 boxes:
 - icon: person-breastfeeding
   title: Escuela de Padres
-  lists:
-  - type: blog
+  list:
+    type: blog
     category:
     - padres
     max: 12
 - icon: children
   title: Escuela de Niños
   subtitle: Próximamente...
-  lists:
-  - type: blog
+  list:
+    type: blog
     category:
-    - nioos
+    - ninos
     max: 12
