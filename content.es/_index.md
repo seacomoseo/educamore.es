@@ -28,7 +28,7 @@ names:
 summary: ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
 legal: María Nieves Lara Férez
 nif: 48423725P
-email: snows.lafe@gmail.com
+email: info@educamore.es
 logo: base/icon.png
 images:
 - snows/pizarra.jpg

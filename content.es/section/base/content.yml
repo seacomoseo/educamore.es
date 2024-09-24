@@ -4,7 +4,7 @@ if: content
 id: content
 pt: 0
 content: |
-  {{< body >}}
+  {{< content >}}
 
   ---
 

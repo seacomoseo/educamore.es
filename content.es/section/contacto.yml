@@ -13,7 +13,7 @@ contact:
   label: 111 222 333
   button: link
 - type: mail
-  label: info@sansoul.es
+  label: info@educamore.es
   full: true
 inputs:
 - type: text
