@@ -45,7 +45,7 @@ address:
   geo: '{"type":"Point","coordinates":[-1.0786701,37.9690631]}'
   link: null
 areas: []
-open: []
+schedule: []
 prices: null
 services: []
 ---

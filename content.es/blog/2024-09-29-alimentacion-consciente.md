@@ -4,7 +4,7 @@ title: Alimentación Consciente
 image: blog/alimentacion-consciente.jpg
 
 date: 2024-09-29 00:00:00
-lastmod: ''
+# lastmod:
 author: nieves
 category:
 - padres
@@ -15,8 +15,6 @@ noindex: false
 seo: ''
 description: ''
 ---
-
-
 
 ## ¿Qué es la alimentación consciente?
 
@@ -105,23 +103,24 @@ Pero si los niños tienen malos hábitos alimenticios, van a tener un sistema in
 
 ### BLW
 
-#### ¿Qué es el BLW?
-
-El BLW (alimentación guiada o autorregulada por el bebé) o Baby-Led Weaning, es un método innovador desarrollado por Gill Rapley y Tracey Murkett a principios del siglo XXI. 
-
-La idea principal es simple: permitir que el bebé amplíe su dieta con alimentos sólidos, pero que coma por sí mismo y decida qué va a comer de la selección de alimentos disponibles. Este método sigue las recomendaciones actuales sobre la alimentación infantil, en las que **el bebé no debe ser obligado a comer**. De esta manera, el bebé descubrirá nuevos sabores de acuerdo con su propia intuición e instinto.
-
-#### ¿Cuándo está listo el bebé para el BLW?
-
-No existen directrices precisas sobre cuándo iniciar el método BLW. Comienza cuando tú y tu bebé estéis listos y considéralo como una forma de diversificar las comidas diarias. Asegúrate de que tu bebé pueda sentarse firmemente y sostener la comida. Evita que tu bebé coma acostado o medio tumbado. La ausencia de dientes no es un obstáculo, ya que tu bebé morderá y aplastará la comida con las encías. Ofrece alimentos más suaves, como verduras cocidas.
-
-#### ¿Cómo preparar una comida BLW?
-
-- En primer lugar, recuerda siempre que las comidas que siguen el método BLW deben consumirse juntas, celebrando los momentos de unión.
-- Coloca varios alimentos en tazones o platos profundos, como verduras cortadas en palitos, pequeños trozos de fruta y rebanadas de pan.
-- Asegúrate de ofrecer productos con diferentes colores, sabores y texturas para estimular el desarrollo de tu bebé.
-- No apresures ni obligues a tu bebé a comer. Tu bebé es responsable de su alimentación.
-- Mantente cerca para garantizar su seguridad y fomentar su independencia.
+> [!quotes] Blanca García-Orea
+> #### ¿Qué es el BLW?
+> 
+> El BLW (alimentación guiada o autorregulada por el bebé) o Baby-Led Weaning, es un método innovador desarrollado por Gill Rapley y Tracey Murkett a principios del siglo XXI.
+> 
+> La idea principal es simple: permitir que el bebé amplíe su dieta con alimentos sólidos, pero que coma por sí mismo y decida qué va a comer de la selección de alimentos disponibles. Este método sigue las recomendaciones actuales sobre la alimentación infantil, en las que **el bebé no debe ser obligado a comer**. De esta manera, el bebé descubrirá nuevos sabores de acuerdo con su propia intuición e instinto.
+> 
+> #### ¿Cuándo está listo el bebé para el BLW?
+> 
+> No existen directrices precisas sobre cuándo iniciar el método BLW. Comienza cuando tú y tu bebé estéis listos y considéralo como una forma de diversificar las comidas diarias. Asegúrate de que tu bebé pueda sentarse firmemente y sostener la comida. Evita que tu bebé coma acostado o medio tumbado. La ausencia de dientes no es un obstáculo, ya que tu bebé morderá y aplastará la comida con las encías. Ofrece alimentos más suaves, como verduras cocidas.
+> 
+> #### ¿Cómo preparar una comida BLW?
+> 
+> - En primer lugar, recuerda siempre que las comidas que siguen el método BLW deben consumirse juntas, celebrando los momentos de unión.
+> - Coloca varios alimentos en tazones o platos profundos, como verduras cortadas en palitos, pequeños trozos de fruta y rebanadas de pan.
+> - Asegúrate de ofrecer productos con diferentes colores, sabores y texturas para estimular el desarrollo de tu bebé.
+> - No apresures ni obligues a tu bebé a comer. Tu bebé es responsable de su alimentación.
+> - Mantente cerca para garantizar su seguridad y fomentar su independencia.
 
 ### El paladar se educa
 
@@ -153,39 +152,39 @@ Hay un ingrediente esencial en la educación alimenticia: lo que no le ofrezcas 
 
 > **El azúcar es la droga de los niños.**
 
-Mi generación creció con la idea de que el azúcar era energía. El bombardeo de publicidad convirtió en normal que un niño se comiera un chocolate en forma de huevo pero que a sus padres se les viera como irresponsables si le ofrecían unos huevos revueltos para desayunar. 
-
-El gran mérito de la industria ha sido convertir en dogma que los hidratos de carbono deben ser la base de la alimentación a la vez que asociaban el término “hidrato de carbono” con ultaprocesados de alta carga glucémica. Galletas, bollos, cereales de desayuno o snacks de todo tipo se han introducido en la vida diaria poco a poco hasta que su consumo se ha normalizado.
+> [!quotes] Antonio Valenzuela
+> Mi generación creció con la idea de que el azúcar era energía. El bombardeo de publicidad convirtió en normal que un niño se comiera un chocolate en forma de huevo pero que a sus padres se les viera como irresponsables si le ofrecían unos huevos revueltos para desayunar. 
+>
+> El gran mérito de la industria ha sido convertir en dogma que los hidratos de carbono deben ser la base de la alimentación a la vez que asociaban el término “hidrato de carbono” con ultaprocesados de alta carga glucémica. Galletas, bollos, cereales de desayuno o snacks de todo tipo se han introducido en la vida diaria poco a poco hasta que su consumo se ha normalizado.
 La comida real que contiene carbohidratos es la verdura, la fruta, la miel, los cereales, los tubérculos y las legumbres.
-
-#### Consecuencias de tomar azúcar
-
-He aquí los problemas más comunes relacionados con la ingesta de azúcar: 
-
-- Ansiedad / nerviosismo
-- Cansancio / agotamiento / fatiga
-- Desconcentración
-- Dolores de cabeza
-- Depresión / pesimismo
-- Sueño prolongado
-- Retención de líquidos
-- Problemas gastrointestinales (permeabilidad intestinal)
-- Candidiasis y otras levaduras
-- Disminución de la sensibilidad a la insulina o diabetes
-- …
-
-### Consejitos
-
-**¡Cómete el arcoíris!**
-
-Cada color representa una familia diferente de **compuestos curativos**. Dado que trabajan en sinergia, potencian y complementan sus beneficios entre ellos. Lo ideal es que trates de comer fruta y verdura de todos los colores.
-
-- Rojo: remolacha, rábano, tomate, pimiento rojo, manzanas, fresas, granada, cereza, frambuesa, rooibos.
-- Naranja: calabaza, zanahoria, boniato, mango, papaya, nectarina, naranja, cantalupo, melocotón, raíz de cúrcuma.
-- Amarillo: manzana, limón, pimiento amarillo, piña, kiwi amarillo, plátano, calabaza amarilla, jengibre.
-- Verde: espárrago, aguacate, brócoli, coles de bruselas, col, apio, pimiento verde, pepino, kale, lechuga, calabacín, verduras de hojas verdes, guisante, manzana verde, edamame.
-- Azul/morado: arándanos, moras, uvas, ciruelas, berenjenas, versiones moradas de patatay boniato, col, zanahorias, coliflor.
-- Blanco/tostado: cacao, coco, café, ajo, hummus, cebolla, cebolleta, chucrut, puerro, setas, coliflor, frutos secos, semillas, tahini, legumbres.
+>
+> #### Consecuencias de tomar azúcar
+>
+> He aquí los problemas más comunes relacionados con la ingesta de azúcar: 
+> - Ansiedad / nerviosismo
+> - Cansancio / agotamiento / fatiga
+> - Desconcentración
+> - Dolores de cabeza
+> - Depresión / pesimismo
+> - Sueño prolongado
+> - Retención de líquidos
+> - Problemas gastrointestinales (permeabilidad intestinal)
+> - Candidiasis y otras levaduras
+> - Disminución de la sensibilidad a la insulina o diabetes
+> - …
+>
+> ### Consejitos
+>
+> **¡Cómete el arcoíris!**
+>
+> Cada color representa una familia diferente de **compuestos curativos**. Dado que trabajan en sinergia, potencian y complementan sus beneficios entre ellos. Lo ideal es que trates de comer fruta y verdura de todos los colores.
+> 
+> - Rojo: remolacha, rábano, tomate, pimiento rojo, manzanas, fresas, granada, cereza, frambuesa, rooibos.
+> - Naranja: calabaza, zanahoria, boniato, mango, papaya, nectarina, naranja, cantalupo, melocotón, raíz de cúrcuma.
+> - Amarillo: manzana, limón, pimiento amarillo, piña, kiwi amarillo, plátano, calabaza amarilla, jengibre.
+> - Verde: espárrago, aguacate, brócoli, coles de bruselas, col, apio, pimiento verde, pepino, kale, lechuga, calabacín, verduras de hojas verdes, guisante, manzana verde, edamame.
+> - Azul/morado: arándanos, moras, uvas, ciruelas, berenjenas, versiones moradas de patatay boniato, col, zanahorias, coliflor.
+> - Blanco/tostado: cacao, coco, café, ajo, hummus, cebolla, cebolleta, chucrut, puerro, setas, coliflor, frutos secos, semillas, tahini, legumbres.
 
 🙏🏽 Gracias por leer hasta el final.
 

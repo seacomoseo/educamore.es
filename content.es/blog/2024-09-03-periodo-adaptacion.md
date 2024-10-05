@@ -4,7 +4,7 @@ title: Periodo de Adaptación
 image: blog/periodo-adaptacion.jpg
 
 date: 2024-09-03 00:00:00
-lastmod: ''
+# lastmod:
 author: nieves
 category:
 - padres
