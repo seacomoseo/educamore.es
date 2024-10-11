@@ -121,6 +121,7 @@ Pero si los niños tienen malos hábitos alimenticios, van a tener un sistema in
 > - Asegúrate de ofrecer productos con diferentes colores, sabores y texturas para estimular el desarrollo de tu bebé.
 > - No apresures ni obligues a tu bebé a comer. Tu bebé es responsable de su alimentación.
 > - Mantente cerca para garantizar su seguridad y fomentar su independencia.
+<!-- {icon="quote-left"} -->
 
 ### El paladar se educa
 
