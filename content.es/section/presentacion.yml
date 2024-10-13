@@ -8,7 +8,7 @@ boxes:
   box:
     columns: 1
     # align_x: flex-start
-    # align_y: top
+    align_y: center
   boxes:
   - span: .3
     span_min: .8

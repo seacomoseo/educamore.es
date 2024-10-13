@@ -199,8 +199,7 @@ La comida real que contiene carbohidratos es la verdura, la fruta, la miel, los 
 3. Valenzuela, A. (2023) “ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”.* Alienta Editorial, Barcelona. 180, 181, 206, 216
 4. [Alimentación consciente: por qué es importante concentrarnos en lo que comemos y cómo lo comemos](https://theconversation.com/alimentacion-consciente-por-que-es-importante-concentrarnos-en-lo-que-comemos-y-como-lo-comemos-184883).
 5. [¿Cómo la leche materna cambia según la edad del bebé?](https://blog.fundacionexito.org/como-la-leche-materna-cambia-segun-la-edad-del-bebe).
-6. [Baby-Led Weaning: guía para ayudar a tu bebé a descubrir y disfrutar la comida
-](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)
+6. [Baby-Led Weaning: guía para ayudar a tu bebé a descubrir y disfrutar la comida](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)
 7. [Foto principal](https://www.pexels.com/es-es/foto/calma-a-pequenos-hermanos-etnicos-comiendo-deliciosos-espaguetis-durante-el-almuerzo-en-casa-5692230/)
 
 > [!idea] También les puede interesar
@@ -211,6 +210,6 @@ La comida real que contiene carbohidratos es la verdura, la fruta, la miel, los 
 > - [@recetasdeescandalo](https://www.instagram.com/recetasdeescandalo/)
 > - [@paula.bosch.pni](https://www.instagram.com/paula.bosch.pni/)
 
-🎙️ MICROBIOTA Y ALIMENTACIÓN EN NIÑOS, ENTREVISTA A PAULA BOSCH (REGENERA HEALTH):
+🎙️ Microbiota y alimentación en niños, entrevista a **Paula Bosch** (**Regenera Health**):
 
 ![](https://youtu.be/BD33uxIy5fo)

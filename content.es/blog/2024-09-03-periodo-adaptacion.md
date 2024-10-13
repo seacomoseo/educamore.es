@@ -136,6 +136,8 @@ Todo esto es necesario interpretarlo desde un prisma integrador; lo cual implica
 
 Actualmente existen múltiples factores psicosociales **que tienen consecuencias importantes en la formación de vínculos primarios**. Por ejemplo, la falta de conciliación laboral donde los cuidadores (madres/padres) trabajadores se ven obligados a dejar a sus pequeños con otras personas, así como la ausencia de esas otras personas para ayudar con el cuidado de los hijos o de servicios sociales que compensen. Esto deja ver que **la tarea de formar estilos de apegos seguros compete a distintos actores**, no sólo a las madres, los padres o las figuras vinculares cercanas.
 
+<cite>(Bowlby, J. 1977, pp 201-210)</cite>
+
 ## Niños consentidos
 
 Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a todo, ni tengamos que ser complacientes en todo momento a sus caprichos, buscando que no lloren, intentado que no monten su rabieta en púbico (supermercado, centro médico,…) o evitando que se frustren…
