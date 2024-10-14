@@ -49,7 +49,7 @@ Cada día ellos cargan con todo nuestro peso. Se merecen un artículo en este es
 
 ## Conecta con la tierra y cúrate
 
-Tal como señala Valenzuela, experto en terapia ortomolecular, y Psiconeuroinmunología Clinica,  cuando habla de nuestro campo electromagnético comparándolo con la energía electromagnética vital para las reacciones químicas que se dan en nuestro organismo:  
+Tal como señala Valenzuela, experto en terapia ortomolecular, y Psiconeuroinmunología Clínica,  cuando habla de nuestro campo electromagnético comparándolo con la energía electromagnética vital para las reacciones químicas que se dan en nuestro organismo:  
 
 > [!quotes] Conéctate (literalmente) con la Tierra
 > El Físico, ganador de un Nobel Richard Feynman, en sus conferencias sobre electromagnetismo,  explicaba cómo, cuando un cuerpo entra en contacto con la Tierra, su potencial eléctrico se iguala al de ésta, pasando a ser parte del gigantesco sistema electromagnético del planeta. Así, el potencial de la Tierra se convierte en el «agente de trabajo que cancela, reduce o aleja los campos eléctricos del cuerpo». 
@@ -112,10 +112,6 @@ Lo maravilloso de este libro es, que además de invitarte a andar sin zapatos po
 > - Reduce o elimina el **jet lag**.
 > - Protege al organismo contra los campos electromagnéticos del entorno potencialmente nocivos para la salud.
 > - Acelera la recuperación de la actividad deportiva intensa.
-> 
-> El  ganador del Nobel Richard Feynman, en sus conferencias sobre electromagnetismo, explicaba como, cuando un cuerpo entra en contacto con la Tierra, su potencial eléctrico se iguala al de ésta, pasando a ser parte del gigantesco sistema electromagnético del planeta. Así, el potencial de la Tierra se convierte en el “agente de trabajo que cancela, reduce o aleja los campos eléctricos del cuerpo”.
-> 
-> Lo que no sabía el bueno de Richard era que en 1965 estaba sentando las bases de lo que hoy conocemos con el anglicismo de **earthing** o **grounding** (”hacer toma de tierra”).
 > 
 > ## El problema del calzado
 > 
