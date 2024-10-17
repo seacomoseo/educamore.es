@@ -142,6 +142,8 @@ Actualmente existen múltiples factores psicosociales **que tienen consecuencia
 
 Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a todo, ni tengamos que ser complacientes en todo momento a sus caprichos, buscando que no lloren, intentado que no monten su rabieta en púbico (supermercado, centro médico,…) o evitando que se frustren…
 
+<cite>Pinedo, 2018:</cite>
+
 **Se trata de educar menores felices, pero que sepan aceptar límites y sean tolerantes a la frustración.**
 
 ¿Su hijo no acepta un **no** por respuesta y se instala en el enfado constante cuando no consigue lo que quiere? 
@@ -150,6 +152,8 @@ Es posible que su educación esté basada en el consentimiento, la permisividad 
 
 > Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas
 > <cite>Gema José Moreno, psicóloga infanto-juvenil</cite>
+
+<cite>Pinedo, C. (abril 2018): "[Niños consentidos: 9 pautas para educar con sentido](https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html)"</cite>
 
 Cuando nuestra respuesta es un “NO” para establecer un límite, no debemos decir solamente un no, o “no, porque yo lo digo”, “no, porque  yo mando”, pues estas respuestas dan más motivos al niño para sentirse frustrado. 
 
