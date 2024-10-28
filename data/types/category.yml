@@ -1,0 +1,11 @@
+title: Categorías
+order: 2
+base: page
+taxonomy_of:
+- name: blog
+  multiple: true
+  breadcrumbs: true
+  schema: articleSection
+- name: category
+  multiple: true
+  breadcrumbs: true

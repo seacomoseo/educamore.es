@@ -61,7 +61,7 @@ buttons:
   font_main:
     type: title
     bold: false
-    uppercase: true
+    uppercase: false
   font_alt:
     type: base
     bold: false

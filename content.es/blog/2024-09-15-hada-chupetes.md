@@ -2,6 +2,7 @@
 slug: hada-chupetes
 title: El Hada de los Chupetes
 image: blog/hada-chupetes.jpg
+summary: Los chupetes existen desde hace más de mil años y aún tienen un uso muy extendido en nuestros días porque permiten calmar y cesar el lloro del bebé o…
 
 date: 2024-09-15 00:00:00
 # lastmod:
@@ -121,6 +122,8 @@ Que nuestra respuesta no sea el enfado ni el chantaje, que el niño encuentre en
 A modo de cierre, os dejo la idea a la que podéis dar forma, como una historia similar a la del ratoncito Pérez, que en este caso es un hada y se encarga de recoger chupetes. Puede ser un duende, un gnomo, algún ser pequeñito que no les de miedo. 
 
 Podéis dejar el chupete en una cajita junto a la mesita con una nota para el hada, cuando el hada os visite, se lleva el chupete y a cambio os deja una moneda (hay unas monísimas del hada de los dientes que podéis usar para este momentazo), o les deja un diploma con su nombre felicitándole.
+
+[btn icon:file-pdf Descargar diploma](blog/diplomas-hada-y-duende-de-los-chupetes.pdf)
 
 Ánimo y a disfrutar de su cara cuando vea la cajita vacía con lo que ha aparecido en su lugar. 
 

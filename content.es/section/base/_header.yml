@@ -1,0 +1,17 @@
+name: Cabecera
+node: header
+align: left
+boxes:
+- if: breadcrumbs
+  node: nav
+  content: |
+    {{< breadcrumbs >}}
+- title: '{{% param title %}}'
+- tags:
+  - type: type
+  - type: date
+  - type: reading-time
+- if: image
+  params:
+  - page: image
+    box: image

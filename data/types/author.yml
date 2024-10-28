@@ -1,0 +1,8 @@
+title: Autores
+order: 3
+base: author
+taxonomy_of:
+- name: blog
+  schema: author
+es:
+  permalinks: ''

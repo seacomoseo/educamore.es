@@ -2,6 +2,7 @@
 slug: alimentacion-consciente
 title: Alimentación Consciente
 image: blog/alimentacion-consciente.jpg
+summary: En la era de la inmediatez y rodeados de una sociedad con un ritmo frenético y acelerado, surge la necesidad de poner sordina al acto de comer…
 
 date: 2024-09-29 00:00:00
 # lastmod:
@@ -31,7 +32,7 @@ description: ''
 > 
 > ### ¿Cómo lo logramos?
 > 
-> Según la [guía para la alimentación consciente](https://spanish.foodinsight.org/dieta-y-salud/una-guia-para-la-alimentacion-consciente/), publicada este año, el **mindful eating** implica:
+> Según la [guía para la alimentación consciente](https://spanish.foodinsight.org/dieta-y-salud/una-guia-para-la-alimentacion-consciente/), publicada en 2022, el **mindful eating** implica:
 > 
 > - Sentir y percibir los olores, sabores y texturas de la comida que ingerimos y, de esta forma, involucrar a los cinco sentidos en todo su esplendor.
 > - Disminuir la velocidad mientras comemos para lograr una mayor concentración, atención y conexión con nuestro cuerpo.
