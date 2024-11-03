@@ -37,7 +37,7 @@ Si siente dolor (por los dientes, los huesos al crecer…), si está con síntom
 
 La mayoría de veces, una mala noche o una noche en vela, nos altera el estado de ánimo (¿quién no se ha despertado alguna vez con mal humor después de no pegar ojo?), podemos estar más torpes de lo habitual, con el riesgo que eso puede conllevar dependiendo de la tarea que nos toque llevar a cabo al día siguiente, nos puede hacer tomar malas decisiones (se ve afectado nuestro nivel de atención) e incluso pueden bajarnos las defensas…
 
-Siempre puedes probar a caminar un ratito sin zapatos sobre césped o arena (sutil invitación a leer el artículo anterior: *“Andar descalzos”,* si aún no lo has leído) 
+Siempre puedes probar a caminar un ratito sin zapatos sobre césped o arena (sutil invitación a leer el artículo anterior: “[Andar descalzos](/andar-descalzos/)”, si aún no lo has leído) 
 
 ## Cada mañana sale el sol
 
