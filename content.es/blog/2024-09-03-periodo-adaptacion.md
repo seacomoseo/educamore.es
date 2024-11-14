@@ -17,7 +17,7 @@ seo: ''
 description: ''
 ---
 
-## Adaptarse a un nuevo entorno
+## icon:child Adaptarse a un nuevo entorno
 
 **Comienzan las clases.**
 
@@ -64,7 +64,7 @@ Es normal que los niños que se están adaptando no quieran hablar en clase, alg
 
 El niño pasa de sentirse protagonista entre sus familiares a sentirse uno más. No olvidemos que, aunque venga de familia numerosa, no sentirá que tiene que competir con tantos niños por obtener la atención del adulto como cuando asiste al colegio, donde los grupos suelen ser numerosos, grupos de 18, 20 o 23 niños. Y esto también le sacará de su zona segura o su zona de confort. 
 
-## Hablemos de apego
+## icon:hands-holding-heart Hablemos de apego
 
 John Bowlby, Psicoanalista infantil inglés, desarrolló la teoría del apego.
 
@@ -139,7 +139,7 @@ Actualmente existen múltiples factores psicosociales **que tienen consecuencia
 
 <cite>(Bowlby, J. 1977, pp 201-210)</cite>
 
-## Niños consentidos
+## icon:hands-holding-child Niños consentidos
 
 Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a todo, ni tengamos que ser complacientes en todo momento a sus caprichos, buscando que no lloren, intentado que no monten su rabieta en púbico (supermercado, centro médico,…) o evitando que se frustren…
 
@@ -158,7 +158,7 @@ Es posible que su educación esté basada en el consentimiento, la permisividad 
 
 Cuando nuestra respuesta es un “NO” para establecer un límite, no debemos decir solamente un no, o “no, porque yo lo digo”, “no, porque  yo mando”, pues estas respuestas dan más motivos al niño para sentirse frustrado. 
 
-## Establezcamos normas (límites) con amor
+## icon:hand-heart Establezcamos normas (límites) con amor
 
 Debemos buscar que comprendan nuestra negación, explicándoles las cosas con empatía y desde la calma: “no, porque es muy caro”, “no, porque contiene mucho azúcar”, “no, porque es tarde y tenemos que volver a casa”…
 
@@ -166,7 +166,7 @@ Cuando les decimos una frase tipo: “¡eso no se hace!” (debemos añadir lo q
 
 Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. Para una familia portarse bien puede ser hacer caso, para otra familia puede ser no gritar. Cada familia establece unos límites, algunas familias no establecen ninguno. 
 
-## Resumen
+## icon:list-ul Resumen
 
 - Cada niño es diferente. Evitemos las comparaciones.
 - El niño debe adaptarse al nuevo centro (compañeros, aula, maestra,…)
@@ -177,7 +177,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 - Conocer los tipos de apego para poder prever la respuesta del niño ante los cambios. Y responderle con amor y asertividad.
 - Nunca enfadarnos ante sus frustraciones, ni tampoco si se hace pis encima. El niño necesita nuestra comprensión más que nunca. Somos el adulto, no actuemos como otro niño más.
 
-## Importante
+## icon:triangle-exclamation Importante
 
 - Puntualidad.
 - Respetar los turnos en la entrada escalonada del Periodo de adaptación (se han realizado bajo un criterio).
@@ -192,7 +192,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 > No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio
 <cite>Charles Darwin</cite>
 
-## Reseña bibliográfica
+## icon:books Reseña bibliográfica
 
 - **APEGO**:
     - https://www.mentesabiertaspsicologia.com/blog-psicologia/tipos-de-apego-y-sus-implicaciones-psicologicas

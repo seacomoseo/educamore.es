@@ -17,51 +17,53 @@ seo: ''
 description: ''
 ---
 
+{{% bg white %}}
 
-> [!quotes] 
-> ## Chupetes y biberones
-> 
-> Los chupetes existen desde hace más de mil años y aún tienen un uso muy extendido en nuestros días porque permiten calmar y cesar el lloro del bebé o facilitarle el sueño. Sin embargo, las investigaciones también asocian el **uso del chupete** con algunos inconvenientes, por lo que su uso se ha convertido en un asunto controvertido. 
-> 
-> Pero ahora nuestro bebé ha crecido y está rondando los 3 años de vida, y todos los motivos por los que podía ser beneficioso el uso del chupete (reduce el riesgo de **síndrome de muerte** súbita del lactante, por ejemplo) ya van dejando de tener sentido.
-> 
-> Coincidiendo con la entrada al segundo ciclo de Educación Infantil, se producen hitos del desarrollo importantes en los niños, junto con el control de esfínteres (proceso de maduración y aprendizaje del control de la micción y la defecación, que la mayoría de los niños alcanzan entre los dos y los tres años), comienza a usar frases simples y a utilizar oraciones de dos a cuatro palabras, cada vez es más consciente de que es una persona separada de los demás y empieza a querer hacer cosas sin ayuda, entre otros.
-> 
-> Y es en este momento cuando el niño muestra una progresiva autonomía e independencia “relativa”, es buen momento de dar el paso a despedir tetinas (chupetes, biberones y lactancia materna, si fuera el caso)
-> 
-> Retirarlos a tiempo y darles la posibilidad de masticar alimentos, morder, y sorber o succionar va a fortalecer la musculatura del paladar (hueso maxilar superior) y del interior de la boca en general, evitará que se le caiga la baba (el babeo desaparece al año por el aumento de tonicidad en labios, lengua y mandíbula), empezará a tener una buena mordida y, dato importante, es fundamental para colocar bien la lengua para hablar bien. Al final, chupetes y biberones no dejan de ser “intrusos” que la deforman.
-> 
-> El uso prolongado de tetinas puede provocar un paladar alto y estrecho, que puede afectar al desarrollo del habla y la oclusión correcta -maloclusión-  (la alineación de los dientes inferiores y superiores para una buena mordida) provocando problemas para hablar o deglutir, por ejemplo. 
-> 
-> ## Inconvenientes del uso del chupete
-> 
-> - El uso del chupete puede generar cierta **dependencia** en el niño y provocar que sea difícil de retirar a la edad recomendada.
-> - El uso prolongado del chupete más allá de los dos años puede provocar **maloclusiones dentales**, **retracción de encías**, **dientes torcidos**, **protrusión** y cambios en la **forma del paladar,** sobre todo, si se continúa con el chupete después de los cuatro años. Asimismo, los expertos recomiendan limitar el uso del chupete a un máximo de 6 horas por día.
-> - Tener un objeto en la boca continuamente y de forma prolongada no ayuda a que la **lengua** se posicione en los distintos puntos de articulación para un habla correcta. Sin embargo, no hay evidencia de que el uso del chupete produzca retrasos del habla.
-> - El chupete no se recomienda para bebés que sufran **cólicos**, ya que el chupete provoca que se trague más cantidad de aire y se pueda acumular en el intestino.
-> - Posibilidad de aparición de un **afta de Bednar o afta pterigoide** debido a una succión vigorosa del chupete.
-> - **Destete temprano**: algunas investigaciones sugieren que el chupete puede interrumpir la lactancia debido a que la succión del chupete es diferente a amamantar y más fácil, por lo que el niño puede tener preferencia por el chupete. En cambio, otros estudios desmienten que sea la principal causa de finalización de la lactancia.
-> - Mayor frecuencia del uso del chupete en niños que **roncan**, aunque no hay estudios concluyentes.
-> - Algunas investigaciones concluyen que el uso del chupete se relaciona con el **consumo de tabaco**. Algunas investigaciones apuntan que el uso del chupete favorece el tabaquismo.
-> - **Microbios**: el chupete puede contener microbios como cándida y estafilococos. Sin embargo, no se ha probado la relación directa de estos microbios con la aparición de infecciones.
-> 
-> ## Retirada
-> 
-> A partir de los **12-18 meses**, el bebé ya ha adquirido las principales utilidades que ofrecen los chupetes como el tono muscular adecuado, mayor regulación emocional y menor frecuencia del síndrome de muerte súbita del lactante. Por este motivo, los padres deben **ir limitando cada vez más el tiempo** que el niño usa el chupete y, simultáneamente, enseñarle herramientas y recursos para conseguir tranquilidad o recuperar la calma en momentos o situaciones difíciles. **En función de la edad**, se puede recurrir a música, cantar, mecer, masajes, objetos o juguetes por los que el niño siente afecto, relajaciones o cuentos específicos para facilitar la retirada del chupete.  **Lo ideal es que el niño no utilice chupete en su segundo cumpleaños.**
-> 
-> ### Cómo retirar el chupete teniendo en cuenta su temperamento
-> 
-> **La forma de quitar el chupete va a depender de la edad del niño, de su [temperamento](https://pediatragabiruiz.com/temperamento-ninos-importante-padres/) y de su madurez.**
-> 
-> - **En el niño pequeño, de menos de 15 meses**, suele ser más fácil. Simplemente se le quita, **desaparecen los chupetes de la casa**. Cuándo el niño llore, o proteste, se le calma cogiéndolo, hablándole,… Si usaba el chupete para dormir, habrá que cambiar el ritual para dormir.
-> - **En el niño más mayor** (partir de los 18-24 meses), hay que hacerlo de otra manera. La forma de hacerlo puede ser diferente para cada niño, según su carácter y su madurez.
-> - **A grandes rasgos, tenemos dos extremos del temperamento**. En un extremo está el niño apacible, que casi siempre está contento, que se adapta muy fácilmente a las novedades y a los cambios. Y en el otro extremo, el niño inquieto, difícil, que le cuesta aceptar los cambios, lo nuevo, y se frustra con facilidad. **La gran mayoría de niños están en algún punto entre estos dos extremos**, con todas las variantes y matices que se quiera (obviamente cada niño es diferente).
-> - **En el niño adaptable y tranquilo cualquier cosa va a funcionar**. Con cariño, pero con firmeza se le dice que ya no va a usar chupete, porque ya es mayor,… En estos niños suele funcionar muy bien la primera estrategia que explico más abajo.
-> - **En el niño más inquieto** va requerir algo más de habilidad y paciencia. Suelo recomendar dos posibles estrategias para retirar el chupete. No es una mejor que otra; aconsejo una u otra según los padres y el carácter y la madurez del niño. **Los padres sois los que mejor conocéis a vuestro hijo, así que podéis ver que le puede ir mejor a vuestro hijo**.
-    > 1. Primera estrategia: **«convencerlo» de que es mayor**. Bueno, con un poco de «teatro»: hacer una especie de ceremonia de despedida del chupete. Primero explicádselo y poner una fecha con algo de antelación, unos días o unas pocas semanas,… (a los niños les gusta saber que va pasar). Que vuestro hijo pinte una cajita para poner los chupetes, que los ponga dentro, y se hace un **ritual de despedida**,… y se tira a la basura, o se la lleva alguien (los Reyes Magos,…). **Usad la imaginación, pensad que le puede resultar convincente a vuestro hijo**. Cuando pida el chupete (por hábito), recordadle la ceremonia de despedida, que ya es mayor,…
-    > 2. Segunda estrategia: **cortar los chupetes**. Cortar un poco la punta del chupete y cada día ir cortando un poquito más. Cuando pida chupete le dais el chupete cortado. Si protesta de que está roto, le dais otro igualmente cortado,… **La clave es hacer como si no os dieseis cuenta de que los chupetes están cortados**. Si pregunta porque están rotos hay que decirle, que como ya tiene dientes los va rompiendo él sin darse cuenta,…
-> 
-> <cite>(Mateos, J. 2022 [jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/))</cite>
+## icon:map-pin Chupetes y biberones
+
+Los chupetes existen desde hace más de mil años y aún tienen un uso muy extendido en nuestros días porque permiten calmar y cesar el lloro del bebé o facilitarle el sueño. Sin embargo, las investigaciones también asocian el **uso del chupete** con algunos inconvenientes, por lo que su uso se ha convertido en un asunto controvertido. 
+
+Pero ahora nuestro bebé ha crecido y está rondando los 3 años de vida, y todos los motivos por los que podía ser beneficioso el uso del chupete (reduce el riesgo de **síndrome de muerte** súbita del lactante, por ejemplo) ya van dejando de tener sentido.
+
+Coincidiendo con la entrada al segundo ciclo de Educación Infantil, se producen hitos del desarrollo importantes en los niños, junto con el control de esfínteres (proceso de maduración y aprendizaje del control de la micción y la defecación, que la mayoría de los niños alcanzan entre los dos y los tres años), comienza a usar frases simples y a utilizar oraciones de dos a cuatro palabras, cada vez es más consciente de que es una persona separada de los demás y empieza a querer hacer cosas sin ayuda, entre otros.
+
+Y es en este momento cuando el niño muestra una progresiva autonomía e independencia “relativa”, es buen momento de dar el paso a despedir tetinas (chupetes, biberones y lactancia materna, si fuera el caso)
+
+Retirarlos a tiempo y darles la posibilidad de masticar alimentos, morder, y sorber o succionar va a fortalecer la musculatura del paladar (hueso maxilar superior) y del interior de la boca en general, evitará que se le caiga la baba (el babeo desaparece al año por el aumento de tonicidad en labios, lengua y mandíbula), empezará a tener una buena mordida y, dato importante, es fundamental para colocar bien la lengua para hablar bien. Al final, chupetes y biberones no dejan de ser “intrusos” que la deforman.
+
+El uso prolongado de tetinas puede provocar un paladar alto y estrecho, que puede afectar al desarrollo del habla y la oclusión correcta -maloclusión-  (la alineación de los dientes inferiores y superiores para una buena mordida) provocando problemas para hablar o deglutir, por ejemplo. 
+
+## icon:face-tongue-sweat Inconvenientes del uso del chupete
+
+- El uso del chupete puede generar cierta **dependencia** en el niño y provocar que sea difícil de retirar a la edad recomendada.
+- El uso prolongado del chupete más allá de los dos años puede provocar **maloclusiones dentales**, **retracción de encías**, **dientes torcidos**, **protrusión** y cambios en la **forma del paladar,** sobre todo, si se continúa con el chupete después de los cuatro años. Asimismo, los expertos recomiendan limitar el uso del chupete a un máximo de 6 horas por día.
+- Tener un objeto en la boca continuamente y de forma prolongada no ayuda a que la **lengua** se posicione en los distintos puntos de articulación para un habla correcta. Sin embargo, no hay evidencia de que el uso del chupete produzca retrasos del habla.
+- El chupete no se recomienda para bebés que sufran **cólicos**, ya que el chupete provoca que se trague más cantidad de aire y se pueda acumular en el intestino.
+- Posibilidad de aparición de un **afta de Bednar o afta pterigoide** debido a una succión vigorosa del chupete.
+- **Destete temprano**: algunas investigaciones sugieren que el chupete puede interrumpir la lactancia debido a que la succión del chupete es diferente a amamantar y más fácil, por lo que el niño puede tener preferencia por el chupete. En cambio, otros estudios desmienten que sea la principal causa de finalización de la lactancia.
+- Mayor frecuencia del uso del chupete en niños que **roncan**, aunque no hay estudios concluyentes.
+- Algunas investigaciones concluyen que el uso del chupete se relaciona con el **consumo de tabaco**. Algunas investigaciones apuntan que el uso del chupete favorece el tabaquismo.
+- **Microbios**: el chupete puede contener microbios como cándida y estafilococos. Sin embargo, no se ha probado la relación directa de estos microbios con la aparición de infecciones.
+
+## icon:face-smile-tongue Retirada
+
+A partir de los **12-18 meses**, el bebé ya ha adquirido las principales utilidades que ofrecen los chupetes como el tono muscular adecuado, mayor regulación emocional y menor frecuencia del síndrome de muerte súbita del lactante. Por este motivo, los padres deben **ir limitando cada vez más el tiempo** que el niño usa el chupete y, simultáneamente, enseñarle herramientas y recursos para conseguir tranquilidad o recuperar la calma en momentos o situaciones difíciles. **En función de la edad**, se puede recurrir a música, cantar, mecer, masajes, objetos o juguetes por los que el niño siente afecto, relajaciones o cuentos específicos para facilitar la retirada del chupete.  **Lo ideal es que el niño no utilice chupete en su segundo cumpleaños.**
+
+### Cómo retirar el chupete teniendo en cuenta su temperamento
+
+**La forma de quitar el chupete va a depender de la edad del niño, de su [temperamento](https://pediatragabiruiz.com/temperamento-ninos-importante-padres/) y de su madurez.**
+
+- **En el niño pequeño, de menos de 15 meses**, suele ser más fácil. Simplemente se le quita, **desaparecen los chupetes de la casa**. Cuándo el niño llore, o proteste, se le calma cogiéndolo, hablándole,… Si usaba el chupete para dormir, habrá que cambiar el ritual para dormir.
+- **En el niño más mayor** (partir de los 18-24 meses), hay que hacerlo de otra manera. La forma de hacerlo puede ser diferente para cada niño, según su carácter y su madurez.
+- **A grandes rasgos, tenemos dos extremos del temperamento**. En un extremo está el niño apacible, que casi siempre está contento, que se adapta muy fácilmente a las novedades y a los cambios. Y en el otro extremo, el niño inquieto, difícil, que le cuesta aceptar los cambios, lo nuevo, y se frustra con facilidad. **La gran mayoría de niños están en algún punto entre estos dos extremos**, con todas las variantes y matices que se quiera (obviamente cada niño es diferente).
+- **En el niño adaptable y tranquilo cualquier cosa va a funcionar**. Con cariño, pero con firmeza se le dice que ya no va a usar chupete, porque ya es mayor,… En estos niños suele funcionar muy bien la primera estrategia que explico más abajo.
+- **En el niño más inquieto** va requerir algo más de habilidad y paciencia. Suelo recomendar dos posibles estrategias para retirar el chupete. No es una mejor que otra; aconsejo una u otra según los padres y el carácter y la madurez del niño. **Los padres sois los que mejor conocéis a vuestro hijo, así que podéis ver que le puede ir mejor a vuestro hijo**.
+    1. Primera estrategia: **«convencerlo» de que es mayor**. Bueno, con un poco de «teatro»: hacer una especie de ceremonia de despedida del chupete. Primero explicádselo y poner una fecha con algo de antelación, unos días o unas pocas semanas,… (a los niños les gusta saber que va pasar). Que vuestro hijo pinte una cajita para poner los chupetes, que los ponga dentro, y se hace un **ritual de despedida**,… y se tira a la basura, o se la lleva alguien (los Reyes Magos,…). **Usad la imaginación, pensad que le puede resultar convincente a vuestro hijo**. Cuando pida el chupete (por hábito), recordadle la ceremonia de despedida, que ya es mayor,…
+    2. Segunda estrategia: **cortar los chupetes**. Cortar un poco la punta del chupete y cada día ir cortando un poquito más. Cuando pida chupete le dais el chupete cortado. Si protesta de que está roto, le dais otro igualmente cortado,… **La clave es hacer como si no os dieseis cuenta de que los chupetes están cortados**. Si pregunta porque están rotos hay que decirle, que como ya tiene dientes los va rompiendo él sin darse cuenta,…
+
+<cite>(Mateos, J. 2022 [jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/))</cite>
+
+{{% / bg %}}
 
 ### Cómo quitar el chupete al estilo Montessori
 
@@ -117,7 +119,7 @@ Me gustaría, desde este humilde blog, ofrecer una pequeña reflexión al respec
 
 Que nuestra respuesta no sea el enfado ni el chantaje, que el niño encuentre en nosotros comprensión y compasión. 
 
-## El hada de los chupetes
+## icon:person-dress-fairy El hada de los chupetes
 
 A modo de cierre, os dejo la idea a la que podéis dar forma, como una historia similar a la del ratoncito Pérez, que en este caso es un hada y se encarga de recoger chupetes. Puede ser un duende, un gnomo, algún ser pequeñito que no les de miedo. 
 
@@ -134,14 +136,19 @@ Podéis dejar el chupete en una cajita junto a la mesita con una nota para el ha
 > Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil
 > <cite>Albert Einstein</cite>
 
-## 📚 Reseña bibliográfica
+## icon:books Reseña bibliográfica
 
 1. Bartulli, M., Cabrera, P. J. y Periñán, M.C. (2006). *Guía de intervención logopédica. Terapia miofuncional.* Madrid: Síntesis.
 2. Ustrell, J.P. (2015). *Diagnóstico y tratamiento en ortodoncia*. Madrid: Elsevier.
 3. Zambrana, N. y Puyuelo, M. (2017). *Terapia miofuncional orofacial. Actualización y nuevos campos de actuación*. Madrid: EOS.
 4. [Foto principal](https://pixabay.com/es/photos/perro-hunde-chupete-arte-estudio-7205842/)
 
-> [!idea] También les puede interesar
-> - icon:link [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/)
-> - icon:link [Cómo quitar el chupete](https://pediatragabiruiz.com/como-quitar-chupete/)
-> - icon:link [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html)
+{{% bg white %}}
+
+## icon:lightbulb También les puede interesar
+
+- icon:link [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/)
+- icon:link [Cómo quitar el chupete](https://pediatragabiruiz.com/como-quitar-chupete/)
+- icon:link [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html)
+
+{{% / bg %}}
