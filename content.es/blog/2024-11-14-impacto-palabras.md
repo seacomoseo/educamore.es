@@ -85,13 +85,14 @@ Un aspecto clave de esta escala es el nivel 200, que marca la división entre lo
 
 Y tú, ¿en cuál estás?
 
-## Nuestra mente
-
-Con frecuencia, nos sucede que nuestra mente se ve invadida por pensamientos negativos, lo que nos lleva a experimentar emociones como miedo, angustia, ansiedad, ira o tristeza. Cuando nos encontramos atrapados por estas emociones, nuestra energía disminuye. Al hablar de energía, me refiero a nuestra vibración, ya que todos los seres humanos somos energía y esta vibración depende de nuestros pensamientos y emociones. Las vibraciones de mayor frecuencia provienen del amor y la gratitud, y cuando nos sintonizamos con ellas, atraemos a personas y situaciones que están en la misma frecuencia.
-
-Para comenzar a elevar nuestra vibración, es fundamental entender que nuestra mente es una herramienta poderosa, pues a través de ella generamos nuestras emociones y, por ende, nuestra realidad. La energía sigue a nuestra atención, por lo que debemos ser conscientes de cómo la dirigimos, ya que es algo valioso que merece cuidado. En lugar de enfocarnos en lo negativo de una situación, debemos aprender a resaltar lo positivo que ésta nos aporta. Este es un proceso que requiere mucha conciencia y esfuerzo, pues tendemos a enfocarnos en el lado oscuro de las cosas. Por ejemplo, en lugar de lamentarnos por la lluvia, podemos agradecer por el agua que la tierra recibe, ya que esta lleva nutrientes profundos hasta las raíces de las plantas.
-
-[¡Tu mente, tu gran aliada úsala con cuidado!](https://blogespanol.se.com/vida-en-schneider/2021/07/26/tu-mente-tu-gran-aliada-usala-con-cuidado/) Blog de bienestar. Blogespanol. Nuestra Mente. **Rojas Nieto, N.** (Julio 2021)
+> [!quotes]
+> ## Nuestra mente
+> 
+> Con frecuencia, nos sucede que nuestra mente se ve invadida por pensamientos negativos, lo que nos lleva a experimentar emociones como miedo, angustia, ansiedad, ira o tristeza. Cuando nos encontramos atrapados por estas emociones, nuestra energía disminuye. Al hablar de energía, me refiero a nuestra vibración, ya que todos los seres humanos somos energía y esta vibración depende de nuestros pensamientos y emociones. Las vibraciones de mayor frecuencia provienen del amor y la gratitud, y cuando nos sintonizamos con ellas, atraemos a personas y situaciones que están en la misma frecuencia.
+> 
+> Para comenzar a elevar nuestra vibración, es fundamental entender que nuestra mente es una herramienta poderosa, pues a través de ella generamos nuestras emociones y, por ende, nuestra realidad. La energía sigue a nuestra atención, por lo que debemos ser conscientes de cómo la dirigimos, ya que es algo valioso que merece cuidado. En lugar de enfocarnos en lo negativo de una situación, debemos aprender a resaltar lo positivo que ésta nos aporta. Este es un proceso que requiere mucha conciencia y esfuerzo, pues tendemos a enfocarnos en el lado oscuro de las cosas. Por ejemplo, en lugar de lamentarnos por la lluvia, podemos agradecer por el agua que la tierra recibe, ya que esta lleva nutrientes profundos hasta las raíces de las plantas.
+> 
+> [¡Tu mente, tu gran aliada úsala con cuidado!](https://blogespanol.se.com/vida-en-schneider/2021/07/26/tu-mente-tu-gran-aliada-usala-con-cuidado/) Blog de bienestar. Blogespanol. Nuestra Mente. **Rojas Nieto, N.** (Julio 2021)
 
 ## Mensajes del agua
 
@@ -115,7 +116,7 @@ Estas palabras provienen de **Ariana Huffington**, fundadora de **HuffPost** y a
 > 
 > <cite>Eliza Cavazos</cite>
 
-🙏🏽 GRACIAS POR PRESTARTE ESTE MOMENTO DE ATENCIÓN
+🙏🏽 Gracias por prestarte este momento de atención.
 
 ## 📚 Reseña bibliográfica
 

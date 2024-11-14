@@ -104,7 +104,7 @@ De cara a los días de frío, una mezcla de eucalipto y madera de cedro sentará
 
 Establecer una rutina con los más pequeños de la casa es sumamente importante, rutina que establezca que cenen algo dos horas antes de ir a dormir, tomar una ducha de agua calentita, tener las lámparas de casa con luz roja, prescindir del uso de pantallas, contarles un cuento con voz bajita (reducir la actividad física), hacerles un masaje con aceites esenciales en la planta de los pies, darles un buen abrazo y mucho amor. 
 
-🙏🏽 Gracias por leer hasta el final. Gracias por prestarte este momento de atención. 
+🙏🏽 Gracias por leer hasta el final. Gracias por prestarte este momento de atención.
 
 > La mejor manera de predecir el futuro es crearlo
 > 
