@@ -4,6 +4,7 @@ icon: blog
 icon_type: side
 box:
   gap: 2
+  icon_type: side
 boxes:
 - icon: person-breastfeeding
   title: Escuela de Padres
