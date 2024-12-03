@@ -15,7 +15,6 @@ boxes:
     max: 12
 - icon: children
   title: Escuela de Niños
-  subtitle: Próximamente...
   list:
     type: blog
     category:
