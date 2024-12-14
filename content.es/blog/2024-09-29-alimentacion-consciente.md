@@ -5,7 +5,7 @@ image: blog/alimentacion-consciente.jpg
 summary: En la era de la inmediatez y rodeados de una sociedad con un ritmo frenético y acelerado, surge la necesidad de poner sordina al acto de comer…
 
 date: 2024-09-29 00:00:00
-# lastmod:
+lastmod: 2024-12-14 00:00:00
 author: nieves
 category:
 - padres
@@ -268,6 +268,7 @@ Cada color representa una familia diferente de **compuestos curativos**. Dado qu
 - [@drasariarponen](https://www.instagram.com/drasariarponen/)
 - [@recetasdeescandalo](https://www.instagram.com/recetasdeescandalo/)
 - [@paula.bosch.pni](https://www.instagram.com/paula.bosch.pni/)
+- [sinazucar.org](https://sinazucar.org/)
 
 {{% / bg %}}
 

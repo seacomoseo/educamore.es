@@ -6,5 +6,5 @@ content: |
   - icon:shield-keyhole {{< internal-link privacy >}}
   - icon:cookie-bite    {{< internal-link cookies >}}
   - icon:school         [ceipnoguera.es](https://ceipnoguera.es/ "nofollow")
-  - icon:seacomoseo     Hecho con icon:heart por [seacomoseo.com](https://seacomoseo.com/)
+  - icon:seacomoseo     Hecho con icon:heart por [seacomoseo.com](https://seacomoseo.com/ "homefollow")
   {.list-inline}

@@ -68,6 +68,7 @@ buttons:
     uppercase: false
 inputs:
   fill: false
+  labels_out: false
 shadow:
   left: 0.15
   top: 0.15

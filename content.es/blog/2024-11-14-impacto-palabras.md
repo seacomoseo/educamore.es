@@ -5,7 +5,7 @@ image: blog/impacto-palabras.jpg
 summary: Las palabras tienen poder. Un poder transformador. Las palabras que usamos al comunicarnos hablan de cómo estamos por dentro pero también físicamente…
 
 date: 2024-11-14 00:00:00
-# lastmod:
+lastmod: 2024-12-14 00:00:00
 author: nieves
 category:
 - padres
@@ -115,6 +115,25 @@ Desde el aula, cuando surgen conflictos relacionados con cómo se hablan los ni�
 
 Estas palabras provienen de **Ariana Huffington**, fundadora de **HuffPost** y autora de varios libros sobre bienestar y productividad. La cita refleja su enfoque sobre la importancia de vivir en el presente y practicar la **atención plena** (mindfulness) para mejorar la salud mental y emocional. Ariana Huffington ha promovido estos temas especialmente en su libro **"El sueño de la vida"**, donde subraya la importancia de cuidar el bienestar integral y la importancia de vivir en el momento presente para evitar los efectos negativos de estar constantemente atrapados en el pasado o el futuro.
 
+¿Y cuál es el motivo de hablaros sobre la atención plena?
+
+Antes os quiero contar una historia. La protagonista se llama Galatea.
+
+Pigmalión, rey de Chipre, pasó mucho tiempo buscando a una mujer con quien casarse. Deseaba encontrar a la mujer ideal, una mujer perfecta. Al no lograr encontrarla, se sintió desilusionado y optó por renunciar al matrimonio, dedicando su tiempo a esculpir obras de arte para llenar el vacío que sentía. Una de sus esculturas era tan hermosa que Pigmalión se enamoró de ella. A esta figura la nombró Galatea. Mediante la intervención de Afrodita, Galatea se convirtió en humana (mito griego de *Las Metamorfosis* de Ovidio)
+
+El efecto Pigmalión tiene su origen en este mito. El escultor se comportaba con la escultura como si de una mujer real se tratara, superó así sus propias expectativas y, al creer que la estatua estaba viva, logró que esta realmente cobrara vida.
+
+El efecto Pigmalión, también conocido como Profecía Autocumplida, es muy importante, sobre todo, cuando los niños son pequeños. Si un adulto le repite a un niño: “eres muy cansino”, el niño actuará en consecuencia, y resultará cansino (efecto Pigmalión negativo), actúa cómo se espera de él. 
+
+El efecto Pigmalión fue propuesto por los psicólogos Robert Rosenthal y Lenore Jacobson en 1968, a través de un experimento clásico conocido como el "efecto Pigmalión en el aula". Este efecto se refiere a cómo las expectativas de un maestro sobre el rendimiento de un estudiante pueden influir en el desempeño real del estudiante. El concepto está bien documentado en la psicología social y educativa, y se ha estudiado ampliamente en el contexto de la influencia de las expectativas en el rendimiento, tanto a nivel personal como en el entorno laboral y académico.
+
+Hay dos tipos de efectos:
+
+- Efecto Pigmalión positivo: genera un impacto favorable en la persona, reforzando la característica en la que se centra este efecto, lo que lleva a un incremento , la autoestima del individuo y mejora ese rasgo específico. (Carta a la madre de Thomas Edison de su maestro, os dejo el enlace abajo en recomendaciones)
+- Efecto Pigmalión negativo (o efecto Golem): tiene como resultado una disminución de la autoestima de la persona, limita nuestro crecimiento personal.
+
+La atención plena te permite ser consciente de tus pensamientos, emociones y reacciones automáticas. Esta conciencia también puede incluir las expectativas que tienes sobre ti mismo o sobre los demás. Si eres consciente de las expectativas que estás poniendo sobre otras personas (como alumnos, familiares o incluso amigos), puedes modificar esas expectativas para que sean positivas y realistas, lo cual puede promover un mejor rendimiento en ellos. Esto se conecta con el efecto Pigmalión, ya que tus expectativas influyen directamente en el comportamiento de los demás.
+
 > Ser feliz es una conquista de quien sabe viajar hacia dentro de su propio ser
 > 
 > <cite>Eliza Cavazos</cite>
@@ -126,7 +145,8 @@ Estas palabras provienen de **Ariana Huffington**, fundadora de **HuffPost** y a
 1. [marioalonsopuig.com](https://marioalonsopuig.com/)
 2. [Descubre tu nivel energético de consciencia](https://saludkoru.com/test/descubre-tu-nivel-energetico-de-consciencia/). Por **Ser de Luz** (noviembre 2022) Salud Koru.
 3. [¡Tu mente, tu gran aliada úsala con cuidado!](https://blogespanol.se.com/vida-en-schneider/2021/07/26/tu-mente-tu-gran-aliada-usala-con-cuidado/) Blog de bienestar. Blogespanol. Nuestra Mente. **Rojas Nieto, N.** (Julio 2021)
-4. [Foto principal](https://unsplash.com/es/fotos/foto-de-primer-plano-de-papeles-rotos-yu68fUQDvOI)
+4. [Efecto Pigmalión](https://es.wikipedia.org/wiki/Efecto_Pigmalión)
+5. [Foto principal](https://unsplash.com/es/fotos/foto-de-primer-plano-de-papeles-rotos-yu68fUQDvOI)
 
 
 {{% bg white %}}
@@ -135,5 +155,6 @@ Estas palabras provienen de **Ariana Huffington**, fundadora de **HuffPost** y a
 
 - [La Herramienta más Simple y Poderosa para Transformar tu Realidad](https://open.spotify.com/episode/1nZ3tv4Y5puaE3dfDikqN3?si=myksKuNES-KIA0utTjYamQ&utm_source=whatsapp ). Podcast #4 de “**Hoy por mí, mañana también**” en Spotify.
 - [Mensajes del Agua](https://www.youtube.com/watch?v=eB-nwzFzz8Q). Documental del **Dr Masaru Emoto** en Youtube.
+- [La madre de Thomas Edison: el poder de las palabras](https://aishlatino.com/la-madre-de-thomas-edison-el-poder-de-las-palabras/)
 
 {{% / bg %}}
