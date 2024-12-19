@@ -231,6 +231,7 @@ Eso sí, proteger los entornos en pro de la salud de la naturaleza es tarea de t
 - [Varios tipos específicos de fobias al entorno natural (en inglés)](https://www.med.upenn.edu/ctsa/phobias_symptoms.html)
 - Instagram de **Rubens García**: [@rmotioncoach](https://instagram.com/rmotioncoach/), muy recomendable. Ahora ha creado una comunidad: la cofradía del pie sucio.
 - [Calzado Barefoot, calzado respetuoso](https://calzadobarefoot.com/?srsltid=AfmBOoolRxnXyhorjz6zY_GtEgKRe3JMz4pubIj17AQFdeDp7n2jjF4I)
+- [Podología preventiva: niños descalzos igual a niños más inteligentes](https://revistas.ucm.es/index.php/ricp/article/download/ricp0707120027a/18634)
 
 {{% / bg %}}
 
