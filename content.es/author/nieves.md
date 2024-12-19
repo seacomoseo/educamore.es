@@ -1,6 +1,6 @@
 ---
 slug: nieves
-title: María Nieves Lara Férez
+title: Nieves
 image: snows/maestra.jpg
 
 job: Maestra de Educación Infantil
