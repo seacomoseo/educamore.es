@@ -80,11 +80,15 @@ En resumen, su ojo no está madurativamente preparado.
 
 ## icon:face-rolling-eyes Me aburro
 
+{{% bg white %}}
+
 Hoy en día, muchos niños parecen dominar a sus padres o se ven atrapados por todo tipo de estímulos externos, como tabletas, teléfonos móviles o televisión. Ese vacío que podría llenarse con la adicción a la tecnología puede llevar a que, en la adolescencia, busquen consuelo en sustancias como la marihuana, el alcohol o las apuestas. Es crucial permitir que resurjan sus capacidades creativas, que se ven perjudicadas por la falta de fantasía.
 
 Desafortunadamente, muchos niños sufren de saturación y sobreestimulación desde muy pequeños, lo que les hace parecer aburridos incluso a los 2 o 3 años. Ese niño que, a tan corta edad, se adapta para cumplir con tareas y no demanda su espacio para el juego libre debería ser motivo de preocupación.
 
 **Es esencial defender el derecho de los niños a jugar**. En los países en vías de desarrollo, pueden perder la oportunidad de jugar por ser explotados teniendo que trabajar. En los países desarrollados, el riesgo de no jugar es debido a las exigencias académicas. En cualquiera de las circunstancias, se trata de un verdadero “infanticidio”. (Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad](https://tamarachubarovsky.com/mi-hijo-se-aburre)).
+
+{{% / bg %}}
 
 Además del aburrimiento del que habla Tamara Chubarovsky; Catherine L’Ecuyer tiene un artículo donde hace la prueba del aburrimiento. En este artículo cita a Dimitri Christakis, añadiendo un vídeo suyo, en inglés, tratando el tema sobre el impacto de las pantallas.
 
