@@ -195,13 +195,12 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 ## icon:books Reseña bibliográfica
 
 - **APEGO**:
-    - https://www.mentesabiertaspsicologia.com/blog-psicologia/tipos-de-apego-y-sus-implicaciones-psicologicas
+    - [Tipos de Apego y sus implicaciones psicológicas](https://www.mentesabiertaspsicologia.com/blog-psicologia/tipos-de-apego-y-sus-implicaciones-psicologicas)
     - Bowlby, J. (1977). The making and breaking of affectional bonds. The British Journal of Psychiatry, 130(3): 201-210.
     - López, F. (2009). Amores y desamores: procesos de vinculación y desvinculación sexuales y afectivos. Madrid: Biblioteca Nueva.
 - **LÍMITES**:
-    - https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html
-- Imagen del encabezado descargada de: \
-  https://unsplash.com/es/fotos/dos-ninos-corren-por-un-suelo-a-cuadros-7g-FV0VO8dg
+    - [Niños consentidos: 9 pautas para educar con sentido](https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html)
+- [Imagen del encabezado](https://unsplash.com/es/fotos/dos-ninos-corren-por-un-suelo-a-cuadros-7g-FV0VO8dg)
 
 ## icon:heart Recomendaciones
 

@@ -1,2 +1,2 @@
 # comentario
-/qr /
+/blog/periodo-adaptacion/ /periodo-adaptacion/
