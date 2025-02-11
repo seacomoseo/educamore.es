@@ -165,7 +165,7 @@ Y nunca, bajo ningún concepto, obligar a un niño a comer, o recurrir al chanta
 
 Y en cuanto al tema de enmascarar la comida, Paula Bosch, pediatra de PNI, dice:
 
-> Si le tenemos que enmascarar un brócoli a un niño para que se lo coma, no le estamos ofreciendo un alimento real; se lo damos rebozado, empanado, le ponemos tantas cosas, que no puede descubrir el sabor natural del alimento
+> icon:quote-left Si le tenemos que enmascarar un brócoli a un niño para que se lo coma, no le estamos ofreciendo un alimento real; se lo damos rebozado, empanado, le ponemos tantas cosas, que no puede descubrir el sabor natural del alimento icon:quote-right
 
 ### Azúcar
 
@@ -181,7 +181,7 @@ Galletas con actimel, magdalena procesada con zumo, batido de chocolate con tort
 
 Hay un ingrediente esencial en la educación alimenticia: lo que no le ofrezcas a tu hijo en la mesa, difícilmente se lo va a comer. Por eso siempre recomiendo ponerle al niño en edad escolar varias cositas para tomar, si una de ellas es fruta, es ideal, al final acabará probándola. Pero si todos los días lleva galletas, se va a acostumbrar al azúcar, en lugar de al sabor de la fruta (fructosa), y el azúcar es adictivo. Tenemos unas bacterias en el cuerpo que se alimentan de él, y son las que nos piden azúcar a todas horas, cuanto más azúcar tomamos, más azúcar nos piden.
 
-> **El azúcar es la droga de los niños.**
+> icon:quote-left **El azúcar es la droga de los niños.** icon:quote-right
 
 {{% bg white %}}
 
@@ -245,7 +245,7 @@ Cada color representa una familia diferente de **compuestos curativos**. Dado qu
 
 🙏🏽 Gracias por leer hasta el final.
 
-> El límite no es el cielo. El límite es la mente
+> icon:quote-left El límite no es el cielo. El límite es la mente icon:quote-right
 > <cite>Wim Hof, conocido como Iceman</cite>
 
 ## icon:books Reseña bibliográfica

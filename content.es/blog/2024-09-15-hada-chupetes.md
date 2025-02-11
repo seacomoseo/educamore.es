@@ -91,7 +91,7 @@ El enfoque Montessori favorece una **transición gradual al quitar el chupete**.
 
 El refuerzo positivo es una parte importante del método Montessori. Celebra los pequeños logros y avances de tu hijo en el proceso de dejar el chupete. Reconocer y elogiar sus esfuerzos aumenta su autoestima y motivación para continuar avanzando. Evita castigar o mostrar frustración ante retrocesos, y mantén una actitud comprensiva y alentadora.
 
-> El refuerzo positivo mejor que el negativo. 
+> icon:quote-left El refuerzo positivo mejor que el negativo.  icon:quote-right
 
 #### Ser paciente y flexible
 
@@ -101,7 +101,7 @@ Cada niño es diferente y el proceso de dejar el chupete puede variar. Es fundam
 
 Quitar el chupete al estilo Montessori es un **proceso que respeta el ritmo y las necesidades del niño**. Siguiendo estos principios y técnicas, puedes ayudar a tu hijo a dejar el chupete de manera natural y sin estrés. Recuerda que la paciencia y la comprensión son fundamentales para apoyar a tu hijo en este importante hito de su desarrollo.
 
-<cite>(Bonamint 2024 [bonamint.com/blog-montessori/post/quitar-chupete-montessori.html](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html))</cite>
+<cite>(Bonamint 2024 [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html))</cite>
 
 ---
 
@@ -111,9 +111,9 @@ Aquí siempre digo un consejito a papás y mamás, si los niños no piden el chu
 
 Cuando escribía este artículo me encontré con una publicación de <cite>**Mario Alonso Puig**</cite> que os quiero compartir:
 
-> Cuando tratamos bien a alguien, cuando la queremos, esa persona libera una hormona llamada oxitocina que protege el corazón, el sistema cardiovascular y mejora el funcionamiento del sistema inmune. Además, si esa persona siente algún tipo de dolor, ya sea físico o mental, ese dolor se reduce gracias a la liberación de péptidos opiáceos endógenos. Es decir, el propio cerebro libera un potentísimo analgésico capaz de reducir el dolor, a veces a niveles inimaginables.
+> icon:quote-left Cuando tratamos bien a alguien, cuando la queremos, esa persona libera una hormona llamada oxitocina que protege el corazón, el sistema cardiovascular y mejora el funcionamiento del sistema inmune. Además, si esa persona siente algún tipo de dolor, ya sea físico o mental, ese dolor se reduce gracias a la liberación de péptidos opiáceos endógenos. Es decir, el propio cerebro libera un potentísimo analgésico capaz de reducir el dolor, a veces a niveles inimaginables.
 > 
-> Si sentimos que importamos a los demás, que no les somos indiferentes, se alargan los telómeros, que están en los extremos de los cromosomas y predicen la longevidad de una persona
+> Si sentimos que importamos a los demás, que no les somos indiferentes, se alargan los telómeros, que están en los extremos de los cromosomas y predicen la longevidad de una persona icon:quote-right
 
 Me gustaría, desde este humilde blog, ofrecer una pequeña reflexión al respecto, porque siempre hay alternativas a la que creemos que es la única manera de hacer las cosas. Si podemos quitar el chupete, el biberón o el pañal a un niño desde el amor y el respeto, todos salimos ganando. 
 
@@ -133,7 +133,7 @@ Podéis dejar el chupete en una cajita junto a la mesita con una nota para el ha
 
 ---
 
-> Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil
+> icon:quote-left Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil icon:quote-right
 > <cite>Albert Einstein</cite>
 
 ## icon:books Reseña bibliográfica

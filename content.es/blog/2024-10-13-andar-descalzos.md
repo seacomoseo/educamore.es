@@ -212,7 +212,7 @@ Eso sí, proteger los entornos en pro de la salud de la naturaleza es tarea de t
 
 🙏🏽 Gracias por leer hasta el final. 
 
-> ¿Qué sería la vida si no tuviéramos el valor de intentar cosas nuevas?
+> icon:quote-left ¿Qué sería la vida si no tuviéramos el valor de intentar cosas nuevas? icon:quote-right
 > <cite>Vincent Van Gogh</cite>
 
 ## icon:books Reseña bibliográfica

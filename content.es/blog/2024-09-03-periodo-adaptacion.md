@@ -151,7 +151,7 @@ Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a tod
 
 Es posible que su educación esté basada en el consentimiento, la permisividad y la falta de límites o normas. Un niño consentido no nace, se hace y puede crear problemas de convivencia en casa como rabietas, agresividad o enfrentamientos y peleas habituales con personas de su entorno. 
 
-> Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas
+> icon:quote-left Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas icon:quote-right
 > <cite>Gema José Moreno, psicóloga infanto-juvenil</cite>
 
 <cite>Pinedo, C. (abril 2018): "[Niños consentidos: 9 pautas para educar con sentido](https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html)"</cite>
@@ -189,7 +189,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 
 ---
 
-> No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio
+> icon:quote-left No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio icon:quote-right
 <cite>Charles Darwin</cite>
 
 ## icon:books Reseña bibliográfica

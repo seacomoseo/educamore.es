@@ -35,7 +35,7 @@ Si hablamos de “nativo digital” debemos hablar de Mark Prensky, que en 2001 
 
 Si naciste antes de esa era, eres “inmigrante digital”.
 
-> A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado.
+> icon:quote-left A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado. icon:quote-right
 > <cite>Catherine L’Ecuyer</cite>
 
 Está claro que la tecnología tiene un impacto en los niños. Y muy pocos padres se informan realmente sobre ese impacto, sobre las consecuencias.
@@ -113,7 +113,7 @@ Cuando te quejes de que tu hijo “no para”, detente y reflexiona, probablemen
 
 {{% / bg %}}
 
-> “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón”
+> icon:quote-left “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón” icon:quote-right
 > <cite>Maria Montessori</cite>
 
 🙏🏽 Gracias por tu compromiso en el bienestar de tus hijos.

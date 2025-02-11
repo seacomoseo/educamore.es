@@ -8,3 +8,18 @@
 .logo__image {
   animation: heartbeat 3.5s 0s infinite;
 }
+
+// Blog
+.content blockquote:not(.quotes, .dittos) {
+  padding-inline: 0;
+  &:before,
+  &:after {
+    content: none;
+  }
+}
+.content blockquote cite:before {
+  content: none;
+}
+#terrores-nocturnos + p + .alert:not(#aux) {
+  margin-top: 1em;
+}

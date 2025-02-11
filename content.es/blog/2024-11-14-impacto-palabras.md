@@ -25,12 +25,10 @@ Las palabras que usamos al comunicarnos hablan de cómo estamos por dentro pero 
 
 Hoy os hablo de este tema, de este conocimiento que debería extenderse como el sonido en el viento.
 
-> Conectar con nuestra verdadera voz es un camino hacia nosotros mismos que nos facilita expresarnos desde nuestro verdadero ser
-> 
+> icon:quote-left Conectar con nuestra verdadera voz es un camino hacia nosotros mismos que nos facilita expresarnos desde nuestro verdadero ser icon:quote-right
 > <cite>Tamara Chubarovsky, en su libro <br> 'La fuerza curativa de la voz y la palabra'</cite>
 
-> La voz es la expresión más íntima de nuestro ser. Es la melodía del alma, la que habla de lo que vive en nuestras profundidades, expresando quiénes somos y cómo nos sentimos.
-> 
+> icon:quote-left La voz es la expresión más íntima de nuestro ser. Es la melodía del alma, la que habla de lo que vive en nuestras profundidades, expresando quiénes somos y cómo nos sentimos. icon:quote-right
 > <cite>Sofía Pereira</cite>
 
 Las palabras tienen frecuencia, y en esa frecuencia se esboza una energía. Imagina una dedicatoria para un niño que hace la comunión, en ese libro una persona puede escribir: “*sigue luchando, espero que la vida te trate bien*”, y otra expresar: “*sigue disfrutando de cada día, cada día es un regalo y por eso se llama presente*”.
@@ -51,7 +49,7 @@ De modo que hablar y actuar están más relacionados de lo que crees.
 
 ¿Conoces esta frase?
 
-> Lo que haces habla tan fuerte que no puedo escuchar lo que dices
+> icon:quote-left Lo que haces habla tan fuerte que no puedo escuchar lo que dices icon:quote-right
 
 En cuanto a nuestros pequeños, son expertos en ver fisuras, esas incoherencias de los adultos cuando decimos una cosa, pero hacemos otra.
 
@@ -111,7 +109,7 @@ Desde el aula, cuando surgen conflictos relacionados con cómo se hablan los ni�
 
 ## icon:eye Atención plena
 
-> Si vives en el pasado, atraes la depresión; si vives en el futuro, atraes la ansiedad. El mejor ejercicio que puedes practicar cada día, además de la gratitud, es ejercitar la atención plena al momento presente, que es lo único que existe.
+> icon:quote-left Si vives en el pasado, atraes la depresión; si vives en el futuro, atraes la ansiedad. El mejor ejercicio que puedes practicar cada día, además de la gratitud, es ejercitar la atención plena al momento presente, que es lo único que existe. icon:quote-right
 
 Estas palabras provienen de **Ariana Huffington**, fundadora de **HuffPost** y autora de varios libros sobre bienestar y productividad. La cita refleja su enfoque sobre la importancia de vivir en el presente y practicar la **atención plena** (mindfulness) para mejorar la salud mental y emocional. Ariana Huffington ha promovido estos temas especialmente en su libro **"El sueño de la vida"**, donde subraya la importancia de cuidar el bienestar integral y la importancia de vivir en el momento presente para evitar los efectos negativos de estar constantemente atrapados en el pasado o el futuro.
 
@@ -134,8 +132,7 @@ Hay dos tipos de efectos:
 
 La atención plena te permite ser consciente de tus pensamientos, emociones y reacciones automáticas. Esta conciencia también puede incluir las expectativas que tienes sobre ti mismo o sobre los demás. Si eres consciente de las expectativas que estás poniendo sobre otras personas (como alumnos, familiares o incluso amigos), puedes modificar esas expectativas para que sean positivas y realistas, lo cual puede promover un mejor rendimiento en ellos. Esto se conecta con el efecto Pigmalión, ya que tus expectativas influyen directamente en el comportamiento de los demás.
 
-> Ser feliz es una conquista de quien sabe viajar hacia dentro de su propio ser
-> 
+> icon:quote-left Ser feliz es una conquista de quien sabe viajar hacia dentro de su propio ser icon:quote-right
 > <cite>Eliza Cavazos</cite>
 
 🙏🏽 Gracias por prestarte este momento de atención.

@@ -122,8 +122,7 @@ Establecer una rutina con los más pequeños de la casa es sumamente importante,
 
 🙏🏽 Gracias por leer hasta el final. Gracias por prestarte este momento de atención.
 
-> La mejor manera de predecir el futuro es crearlo
-> 
+> icon:quote-left La mejor manera de predecir el futuro es crearlo icon:quote-right
 > <cite>Abraham Lincoln</cite>
 
 ## icon:books Reseña bibliográfica
