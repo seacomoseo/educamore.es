@@ -19,7 +19,6 @@ boxes:
     span_min: 1
     gap_y: .75
     align: left
-    title: '{{% author %}}'
     content: |
       ¡Hola! Soy Nieves, maestra de Educación  Infantil.
 

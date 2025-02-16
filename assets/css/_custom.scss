@@ -20,6 +20,9 @@
 .content blockquote cite:before {
   content: none;
 }
+#cc svg {
+  opacity: 1;
+}
 #terrores-nocturnos + p + .alert:not(#aux) {
   margin-top: 1em;
 }
