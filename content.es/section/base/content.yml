@@ -11,10 +11,12 @@ content: |
   **Contenido bajo** \
   [
     Licencia 
-    icon:cc-logo
-    icon:cc-by
-    icon:cc-nc
-    icon:cc-sa
+    :cc-logo:
+    :cc-by:
+    :cc-nc:
+    :cc-sa:
     4.0
-  ](https://creativecommons.org/licenses/by-nc-sa/4.0/ "nofollow")
+  ](https://creativecommons.org/licenses/by-nc-sa/4.0/ "[nofollow]")
   {#cc .align-center}
+content_nav: true
+content_index: true

@@ -1,7 +1,7 @@
 ---
 slug: pantallas
 title: Pantallas
-image: blog/pantallas.jpg
+image: blog/pantallas.webp
 summary: 'Hoy quiero hablarles sobre un tema que es cada vez más relevante en la vida de nuestros pequeños: el uso de smartphones. Sabemos que estos…'
 
 date: 2025-01-08 00:00:00
@@ -17,7 +17,7 @@ seo: ''
 description: ''
 ---
 
-## icon:mobile-screen Dispositivos en cuarentena
+## :mobile-screen: Dispositivos en cuarentena
 
 Hoy quiero hablarles sobre un tema que es cada vez más relevante en la vida de nuestros pequeños: el uso de smartphones. Sabemos que estos dispositivos se han convertido en herramientas muy comunes en la vida diaria, pero cuando se trata de niños tan pequeños, como los de 3 años, es fundamental reflexionar sobre cómo, cuándo y por qué exponerlos a ellos.
 
@@ -35,7 +35,7 @@ Si hablamos de “nativo digital” debemos hablar de Mark Prensky, que en 2001 
 
 Si naciste antes de esa era, eres “inmigrante digital”.
 
-> icon:quote-left A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado. icon:quote-right
+> :quote-left: A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado. :quote-right:
 > <cite>Catherine L’Ecuyer</cite>
 
 Está claro que la tecnología tiene un impacto en los niños. Y muy pocos padres se informan realmente sobre ese impacto, sobre las consecuencias.
@@ -50,7 +50,7 @@ Hoy quiero resumir algunos aspectos relevantes que deberíais conocer:
 
 En resumen, el uso de smartphones debe ser controlado en esta etapa temprana. Aunque la tecnología puede ofrecer oportunidades de aprendizaje, las interacciones humanas y las experiencias reales siguen siendo esenciales para el desarrollo de nuestros niños.
 
-## icon:heart-crack Flaco favor
+## :heart-crack: Flaco favor
 
 *“Menores de edad, no de derechos digitales”* (Así titula el eslogan de la campaña de Unicef España y la Fundación Atresmedia), y parece que si nos hablan de derechos, lo tienen todo ganado. Pero hay una cuestión muy importante que debemos poner sobre la mesa, y es que **un niño de edad infantil no tiene la madurez para hacer un uso responsable de las tecnologías** ni de las pantallas. En cierto modo, es como darle un cuchillo y esperar que no se corte. 
 
@@ -62,7 +62,7 @@ La mejor prevención es no poner en sus manos un dispositivo.
 
 ¿Sabes que ya hay estudios sobre bebés que han identificado por primera vez una emoción en un smartphone antes que en la cara de su propia madre? A mí me parece desolador.
 
-## icon:eye Lo que nadie te cuenta
+## :eye: Lo que nadie te cuenta
 
 ¿Recuerdas cuándo tu bebé nació cuál era su sentido menos desarrollado? 
 
@@ -78,7 +78,7 @@ Los músculos ciliares (músculos que permiten adaptar la visión) del cristalin
 
 En resumen, su ojo no está madurativamente preparado.
 
-## icon:face-rolling-eyes Me aburro
+## :face-rolling-eyes: Me aburro
 
 {{% bg white %}}
 
@@ -86,7 +86,9 @@ Hoy en día, muchos niños parecen dominar a sus padres o se ven atrapados por t
 
 Desafortunadamente, muchos niños sufren de saturación y sobreestimulación desde muy pequeños, lo que les hace parecer aburridos incluso a los 2 o 3 años. Ese niño que, a tan corta edad, se adapta para cumplir con tareas y no demanda su espacio para el juego libre debería ser motivo de preocupación.
 
-**Es esencial defender el derecho de los niños a jugar**. En los países en vías de desarrollo, pueden perder la oportunidad de jugar por ser explotados teniendo que trabajar. En los países desarrollados, el riesgo de no jugar es debido a las exigencias académicas. En cualquiera de las circunstancias, se trata de un verdadero “infanticidio”. (Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad](https://tamarachubarovsky.com/mi-hijo-se-aburre)).
+**Es esencial defender el derecho de los niños a jugar**. En los países en vías de desarrollo, pueden perder la oportunidad de jugar por ser explotados teniendo que trabajar. En los países desarrollados, el riesgo de no jugar es debido a las exigencias académicas. En cualquiera de las circunstancias, se trata de un verdadero “infanticidio”.
+
+(Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad](https://tamarachubarovsky.com/mi-hijo-se-aburre)).
 
 {{% / bg %}}
 
@@ -96,24 +98,24 @@ En la presentación de Dimitri Christakis (experto en el impacto de las pantalla
 
 Cuando te quejes de que tu hijo “no para”, detente y reflexiona, probablemente sea consumidor de azúcar y pantallas, no puedes delegar en él la responsabilidad de su consumo, aún no tiene ni la madurez suficiente ni el criterio de elegir lo que le viene mal o bien. **Tampoco conoce el alcance de lo que puede estar perjudicándole su uso.** 
 
-## icon:books Reseña bibliográfica
+## :books: Reseña bibliográfica
 
-- [¿Quiénes son los nativos digitales?](https://www.ui1.es/blog-ui1/quienes-son-los-nativos-digitales)
-- [El camino de los derechos de la Infancia no ha terminado…](https://www.unicef.es/infancia-tecnologia/menores-con-derechos-digitales)
-- Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad.](https://tamarachubarovsky.com/mi-hijo-se-aburre)
-- L´Ecuyer, C. (2013) *“EDUCAR EN EL ASOMBRO”* Plataforma Actual.
-- [Unsplash. Imagen](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-por-la-noche-lTUyP3RaLpw)
+- :link:  [¿Quiénes son los nativos digitales?](https://www.ui1.es/blog-ui1/quienes-son-los-nativos-digitales)
+- :link:  [El camino de los derechos de la Infancia no ha terminado…](https://www.unicef.es/infancia-tecnologia/menores-con-derechos-digitales)
+- :link:  Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad.](https://tamarachubarovsky.com/mi-hijo-se-aburre)
+- :book:  L´Ecuyer, C. (2013) *“EDUCAR EN EL ASOMBRO”* Plataforma Actual.
+- :image: [Unsplash. Imagen](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-por-la-noche-lTUyP3RaLpw)
 
 {{% bg white %}}
 
-## icon:lightbulb Te puede interesar
+## :lightbulb: Te puede interesar
 
-- icon:instagram [@lecuyer.catherine](https://www.instagram.com/lecuyer.catherine/)
-- icon:tablet-screen [No te engañes, tu hijo no necesita una tableta](https://catherinelecuyer.com/2017/09/12/no-te-enganes-tu-hijo-no-necesita-una-tableta/)
+- :instagram: [@lecuyer.catherine](https://www.instagram.com/lecuyer.catherine/)
+- :tablet-screen: [No te engañes, tu hijo no necesita una tableta](https://catherinelecuyer.com/2017/09/12/no-te-enganes-tu-hijo-no-necesita-una-tableta/)
 
 {{% / bg %}}
 
-> icon:quote-left “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón” icon:quote-right
+> :quote-left: “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón” :quote-right:
 > <cite>Maria Montessori</cite>
 
 🙏🏽 Gracias por tu compromiso en el bienestar de tus hijos.

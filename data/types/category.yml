@@ -9,5 +9,9 @@ taxonomy_of:
 - name: category
   multiple: true
   breadcrumbs: true
-params:
-- name: ~BOX_ICON_ID
+template:
+  list:
+    icon: ''
+    align: center
+    button: cta
+    licon: plus

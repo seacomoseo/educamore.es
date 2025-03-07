@@ -6,7 +6,7 @@ pb: 0
 boxes:
 - span: .75
   box:
-    columns: 1
+    cols: 1
     # align_x: flex-start
     align_y: center
   boxes:

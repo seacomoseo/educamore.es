@@ -1,7 +1,7 @@
 ---
 slug: impacto-palabras
 title: El impacto de tus palabras
-image: blog/impacto-palabras.jpg
+image: blog/impacto-palabras.webp
 summary: Las palabras tienen poder. Un poder transformador. Las palabras que usamos al comunicarnos hablan de cómo estamos por dentro pero también físicamente…
 
 date: 2024-11-14 00:00:00
@@ -17,7 +17,7 @@ seo: ''
 description: ''
 ---
 
-## icon:comment Las palabras tienen poder
+## :quotes: Las palabras tienen poder
 
 Un poder transformador.
 
@@ -25,10 +25,10 @@ Las palabras que usamos al comunicarnos hablan de cómo estamos por dentro pero 
 
 Hoy os hablo de este tema, de este conocimiento que debería extenderse como el sonido en el viento.
 
-> icon:quote-left Conectar con nuestra verdadera voz es un camino hacia nosotros mismos que nos facilita expresarnos desde nuestro verdadero ser icon:quote-right
-> <cite>Tamara Chubarovsky, en su libro <br> 'La fuerza curativa de la voz y la palabra'</cite>
+> :quote-left: Conectar con nuestra verdadera voz es un camino hacia nosotros mismos que nos facilita expresarnos desde nuestro verdadero ser :quote-right:
+> <cite>Tamara Chubarovsky, *en su libro <br> 'La fuerza curativa de la voz y la palabra'*</cite>
 
-> icon:quote-left La voz es la expresión más íntima de nuestro ser. Es la melodía del alma, la que habla de lo que vive en nuestras profundidades, expresando quiénes somos y cómo nos sentimos. icon:quote-right
+> :quote-left: La voz es la expresión más íntima de nuestro ser. Es la melodía del alma, la que habla de lo que vive en nuestras profundidades, expresando quiénes somos y cómo nos sentimos. :quote-right:
 > <cite>Sofía Pereira</cite>
 
 Las palabras tienen frecuencia, y en esa frecuencia se esboza una energía. Imagina una dedicatoria para un niño que hace la comunión, en ese libro una persona puede escribir: “*sigue luchando, espero que la vida te trate bien*”, y otra expresar: “*sigue disfrutando de cada día, cada día es un regalo y por eso se llama presente*”.
@@ -49,7 +49,7 @@ De modo que hablar y actuar están más relacionados de lo que crees.
 
 ¿Conoces esta frase?
 
-> icon:quote-left Lo que haces habla tan fuerte que no puedo escuchar lo que dices icon:quote-right
+> :quote-left: Lo que haces habla tan fuerte que no puedo escuchar lo que dices :quote-right:
 
 En cuanto a nuestros pequeños, son expertos en ver fisuras, esas incoherencias de los adultos cuando decimos una cosa, pero hacemos otra.
 
@@ -64,7 +64,7 @@ Debemos tener muy presente que somos un espejo en el que se miran nuestros peque
 
 Así sucede también con nuestra manera de hablar, si tú te expresas de manera negativa y quejándote ante las cosas que te suceden, tus hijos hablarán quejándose y expresando ideas negativamente. Si juzgas a los demás por lo que hacen, tus hijos aprenderán a juzgar. Si hablas gritando, ellos gritarán…
 
-## icon:map El mapa de la conciencia
+## :map: El mapa de la conciencia
 
 El Dr. **David R. Hawkins** fue un médico psiquiatra, investigador, divulgador y maestro espiritual, además de fundador y director del Instituto para la Investigación Espiritual y creador del camino de la no dualidad devocional. Dedicó su vida a explorar el potencial del espíritu humano, realizando investigaciones que nos brindan herramientas para mejorar nuestra calidad de vida.
 
@@ -76,7 +76,7 @@ El Mapa de la Conciencia de Hawkins presenta diferentes niveles energéticos que
 
 Un aspecto clave de esta escala es el nivel 200, que marca la división entre los niveles de "fuerza" y los niveles de "poder". Los niveles por debajo de 200 corresponden a expresiones destructivas de fuerza, que a largo plazo pueden perjudicar la vida de una persona, mientras que los niveles superiores a 200 se asocian con expresiones constructivas de poder.
 
-![El mapa de la conciencia](blog/mapa-conciencia.png)
+![El mapa de la conciencia](blog/mapa-conciencia.webp)
 
 *[Descubre tu nivel energético de consciencia](https://saludkoru.com/test/descubre-tu-nivel-energetico-de-consciencia/). Por **Ser de Luz** (noviembre 2022) Salud Koru.*
 {.align-center}
@@ -85,7 +85,7 @@ Y tú, ¿en cuál estás?
 
 {{% bg white %}}
 
-## icon:brain Nuestra mente
+## :brain: Nuestra mente
 
 Con frecuencia, nos sucede que nuestra mente se ve invadida por pensamientos negativos, lo que nos lleva a experimentar emociones como miedo, angustia, ansiedad, ira o tristeza. Cuando nos encontramos atrapados por estas emociones, nuestra energía disminuye. Al hablar de energía, me refiero a nuestra vibración, ya que todos los seres humanos somos energía y esta vibración depende de nuestros pensamientos y emociones. Las vibraciones de mayor frecuencia provienen del amor y la gratitud, y cuando nos sintonizamos con ellas, atraemos a personas y situaciones que están en la misma frecuencia.
 
@@ -95,7 +95,7 @@ Para comenzar a elevar nuestra vibración, es fundamental entender que nuestra m
 
 {{% / bg %}}
 
-## icon:water Mensajes del agua
+## :water: Mensajes del agua
 
 Y hablando de agua, fue muy impactante para mí conocer el estudio sobre los cristales de agua helada del Doctor Masaru Emoto. Masaru escribió el libro “Mensajes del agua”, donde narra los experimentos llevados a cabo por un grupo de científicos que fotografiaron agua helada de diversas procedencias (el agua del grifo no solía dejar imágenes de cristales bonitas)
 
@@ -107,9 +107,9 @@ Seguro que, a partir de conocer esta historia, pones conciencia a cómo te habla
 
 Desde el aula, cuando surgen conflictos relacionados con cómo se hablan los niños entre ellos, siempre hacemos referencia a la importancia de usar palabras bonitas, que son las que nos gustan a todos, e intentar desechar y dejar de utilizar palabras feas que nos dañan y nos resultan desagradables. Aunque pidamos perdón, las palabras son como flechas, una vez lanzadas, ya no se pueden reparar sus consecuencias. 
 
-## icon:eye Atención plena
+## :eye: Atención plena
 
-> icon:quote-left Si vives en el pasado, atraes la depresión; si vives en el futuro, atraes la ansiedad. El mejor ejercicio que puedes practicar cada día, además de la gratitud, es ejercitar la atención plena al momento presente, que es lo único que existe. icon:quote-right
+> :quote-left: Si vives en el pasado, atraes la depresión; si vives en el futuro, atraes la ansiedad. El mejor ejercicio que puedes practicar cada día, además de la gratitud, es ejercitar la atención plena al momento presente, que es lo único que existe. :quote-right:
 
 Estas palabras provienen de **Ariana Huffington**, fundadora de **HuffPost** y autora de varios libros sobre bienestar y productividad. La cita refleja su enfoque sobre la importancia de vivir en el presente y practicar la **atención plena** (mindfulness) para mejorar la salud mental y emocional. Ariana Huffington ha promovido estos temas especialmente en su libro **"El sueño de la vida"**, donde subraya la importancia de cuidar el bienestar integral y la importancia de vivir en el momento presente para evitar los efectos negativos de estar constantemente atrapados en el pasado o el futuro.
 
@@ -132,26 +132,26 @@ Hay dos tipos de efectos:
 
 La atención plena te permite ser consciente de tus pensamientos, emociones y reacciones automáticas. Esta conciencia también puede incluir las expectativas que tienes sobre ti mismo o sobre los demás. Si eres consciente de las expectativas que estás poniendo sobre otras personas (como alumnos, familiares o incluso amigos), puedes modificar esas expectativas para que sean positivas y realistas, lo cual puede promover un mejor rendimiento en ellos. Esto se conecta con el efecto Pigmalión, ya que tus expectativas influyen directamente en el comportamiento de los demás.
 
-> icon:quote-left Ser feliz es una conquista de quien sabe viajar hacia dentro de su propio ser icon:quote-right
+> :quote-left: Ser feliz es una conquista de quien sabe viajar hacia dentro de su propio ser :quote-right:
 > <cite>Eliza Cavazos</cite>
 
 🙏🏽 Gracias por prestarte este momento de atención.
 
-## icon:books Reseña bibliográfica
+## :books: Reseña bibliográfica
 
-1. [marioalonsopuig.com](https://marioalonsopuig.com/)
-2. [Descubre tu nivel energético de consciencia](https://saludkoru.com/test/descubre-tu-nivel-energetico-de-consciencia/). Por **Ser de Luz** (noviembre 2022) Salud Koru.
-3. [¡Tu mente, tu gran aliada úsala con cuidado!](https://blogespanol.se.com/vida-en-schneider/2021/07/26/tu-mente-tu-gran-aliada-usala-con-cuidado/) Blog de bienestar. Blogespanol. Nuestra Mente. **Rojas Nieto, N.** (Julio 2021)
-4. [Efecto Pigmalión](https://es.wikipedia.org/wiki/Efecto_Pigmalión)
-5. [Foto principal](https://unsplash.com/es/fotos/foto-de-primer-plano-de-papeles-rotos-yu68fUQDvOI)
+- :link:  [marioalonsopuig.com](https://marioalonsopuig.com/)
+- :link:  [Descubre tu nivel energético de consciencia](https://saludkoru.com/test/descubre-tu-nivel-energetico-de-consciencia/). Por **Ser de Luz** (noviembre 2022) Salud Koru.
+- :link:  [¡Tu mente, tu gran aliada úsala con cuidado!](https://blogespanol.se.com/vida-en-schneider/2021/07/26/tu-mente-tu-gran-aliada-usala-con-cuidado/) Blog de bienestar. Blogespanol. Nuestra Mente. **Rojas Nieto, N.** (Julio 2021)
+- :link:  [Efecto Pigmalión](https://es.wikipedia.org/wiki/Efecto_Pigmalión)
+- :image: [Foto principal](https://unsplash.com/es/fotos/foto-de-primer-plano-de-papeles-rotos-yu68fUQDvOI)
 
 
 {{% bg white %}}
 
-## icon:lightbulb Recomendaciones
+## :lightbulb: Recomendaciones
 
-- [La Herramienta más Simple y Poderosa para Transformar tu Realidad](https://open.spotify.com/episode/1nZ3tv4Y5puaE3dfDikqN3?si=myksKuNES-KIA0utTjYamQ&utm_source=whatsapp ). Podcast #4 de “**Hoy por mí, mañana también**” en Spotify.
-- [Mensajes del Agua](https://www.youtube.com/watch?v=eB-nwzFzz8Q). Documental del **Dr Masaru Emoto** en Youtube.
-- [La madre de Thomas Edison: el poder de las palabras](https://aishlatino.com/la-madre-de-thomas-edison-el-poder-de-las-palabras/)
+- :spotify: [La Herramienta más Simple y Poderosa para Transformar tu Realidad](https://open.spotify.com/episode/1nZ3tv4Y5puaE3dfDikqN3?si=myksKuNES-KIA0utTjYamQ&utm_source=whatsapp ). Podcast #4 de “**Hoy por mí, mañana también**” en Spotify.
+- :youtube: [Mensajes del Agua](https://www.youtube.com/watch?v=eB-nwzFzz8Q). Documental del **Dr Masaru Emoto** en Youtube.
+- :link:    [La madre de Thomas Edison: el poder de las palabras](https://aishlatino.com/la-madre-de-thomas-edison-el-poder-de-las-palabras/)
 
 {{% / bg %}}

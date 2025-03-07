@@ -1,7 +1,7 @@
 ---
 slug: andar-descalzos
 title: Andar Descalzos
-image: blog/andar-descalzos.jpg
+image: blog/andar-descalzos.webp
 summary: Pasamos parte de nuestro tiempo dedicando cuidados al cuerpo, al pelo, las uñas… Incluso visitando al fisioterapeuta o al osteópata si nos aqueja…
 
 date: 2024-10-13 00:00:00
@@ -17,7 +17,7 @@ seo: ''
 description: ''
 ---
 
-## icon:shoe-prints Los pies
+## :shoe-prints: Los pies
 
 Pasamos parte de nuestro tiempo dedicando cuidados al cuerpo, al pelo, las uñas… Incluso visitando al fisioterapeuta o al osteópata si nos aqueja algún dolor. Pero pocas veces pensamos que, quizá, ahí abajo, cerca del suelo, tengamos la respuesta a muchas de nuestras dolencias. Y es que aquellos que caminan sin ser conscientes de ellos, **los pies**, sepan que son la base de sustentación de todo nuestro organismo.
 
@@ -25,10 +25,7 @@ Cada día ellos cargan con todo nuestro peso. Se merecen un artículo en este es
 
 {{% bg white %}}
 
-icon:quotes
-{.float-icon .h4}
-
-La Programación Neuromotriz nos dice:
+:quotes: La Programación Neuromotriz nos dice:
 {.h4}
 
 Los pies, esos enclaves huesudos, reciben a menudo pocos elogios, pero lo cierto es que son maravillosos.
@@ -57,16 +54,13 @@ De igual forma, la falta de estímulos mecánicos en conjunto con el uso continu
 
 {{% / bg %}}
 
-## icon:mountains Conecta con la tierra y cúrate
+## :mountains: Conecta con la tierra y cúrate
 
 Tal como señala Valenzuela, experto en terapia ortomolecular, y Psiconeuroinmunología Clínica,  cuando habla de nuestro campo electromagnético comparándolo con la energía electromagnética vital para las reacciones químicas que se dan en nuestro organismo:  
 
 {{% bg white %}}
 
-icon:quotes
-{.float-icon .h4}
-
-Conéctate (literalmente) con la Tierra
+:quotes: Conéctate (literalmente) con la Tierra
 {.h4}
 
 El Físico, ganador de un Nobel Richard Feynman, en sus conferencias sobre electromagnetismo,  explicaba cómo, cuando un cuerpo entra en contacto con la Tierra, su potencial eléctrico se iguala al de ésta, pasando a ser parte del gigantesco sistema electromagnético del planeta. Así, el potencial de la Tierra se convierte en el «agente de trabajo que cancela, reduce o aleja los campos eléctricos del cuerpo». 
@@ -87,10 +81,7 @@ Lo maravilloso de este libro es, que además de invitarte a andar sin zapatos po
 
 {{% bg white %}}
 
-icon:quotes
-{.float-icon .h4}
-
-Earthing
+:quotes: Earthing
 {.h4}
 
 Para la mayoría de nosotros, **reconectarse** con la Madre Tierra normalmente significa irse de camping, de excursión, a la playa, o hacer tareas de jardinería…
@@ -103,7 +94,7 @@ Con la **reconexión** lo que haces es similar a lo que se conoce en el mundo el
 
 La exposición a la luz solar produce en el cuerpo vitamina D, imprescindible para la salud. La exposición al suelo suministra un “nutriente” eléctrico en forma de electrones. Piensa en estos electrones como vitamina T -T de Tierra-. Al igual que la vitamina D, también necesitas vitamina T para tu salud y vitalidad.
 
-## icon:earth-africa Earthing de una ojeada
+## :earth-africa: Earthing de una ojeada
 
 ### ¿En qué consiste Earthing?
 
@@ -139,7 +130,7 @@ Las observaciones y las investigaciones realizadas señalan los siguientes benef
 - Protege al organismo contra los campos electromagnéticos del entorno potencialmente nocivos para la salud.
 - Acelera la recuperación de la actividad deportiva intensa.
 
-## icon:boot El problema del calzado
+## :boot: El problema del calzado
 
 El  desaparecido doctor William Rossi, podólogo de Massachusetts, escribió en un artículo de 1999 en **Pediatry Management**: 
 
@@ -166,7 +157,7 @@ Cuando empezó el presente curso escolar, fue muy grato encontrar a cuatro niño
 
 Para cerrar este tema tan interesante donde se resumen pequeños tips de cómo podemos ponerlo en práctica adultos y niños, quiero tratar un tema que nos acerca más, si cabe, a estar en contacto con la naturaleza: playas, jardines, bosques, prados…
 
-## icon:leaf Espacios biofóbicos y déficit de naturaleza
+## :leaf: Espacios biofóbicos y déficit de naturaleza
 
 En muchas ocasiones me he preguntado los motivos que llevan a los niños de entre 3 y 6 años a querer entrar del patio en cuanto suena la sirena / música anunciando que acaba el recreo. 
 
@@ -178,10 +169,7 @@ En el capítulo 3, este libro trata el tema del déficit de Naturaleza:
 
 {{% bg white %}}
 
-icon:quotes
-{.float-icon .h4}
-
-Déficit de Naturaleza
+:quotes: Déficit de Naturaleza
 {.h4}
 
 Con la industrialización, el crecimiento descontrolado de las ciudades, la (sub)urbanización del campo, el imperio del automóvil, la contaminación atmosférica y, en general, un entorno hostil, niños, niñas y jóvenes han perdido amplios márgenes de libertad y autonomía en el último siglo. Según las estimaciones, pasan casi un 90% de su tiempo en interiores. La proliferación de pantallas inmoviliza sus cuerpos (solo las pantallas han conseguido algo tan antinatural como que una criatura esté quieta); deteriora sus sistemas sensoriales, perceptivos, emocionales y atencionales; coloniza su imaginación y ocupa buena parte de su tiempo de ocio, pero también de aprendizaje. Estas condiciones complican la satisfacción de sus necesidades vitales, indispensables para el correcto desarrollo del organismo en crecimiento.
@@ -212,26 +200,26 @@ Eso sí, proteger los entornos en pro de la salud de la naturaleza es tarea de t
 
 🙏🏽 Gracias por leer hasta el final. 
 
-> icon:quote-left ¿Qué sería la vida si no tuviéramos el valor de intentar cosas nuevas? icon:quote-right
+> :quote-left: ¿Qué sería la vida si no tuviéramos el valor de intentar cosas nuevas? :quote-right:
 > <cite>Vincent Van Gogh</cite>
 
-## icon:books Reseña bibliográfica
+## :books: Reseña bibliográfica
 
-1. Vivar, P y Tarí, J. (2023) “*PNM. PROGRAMACIÓN NEUROMOTRIZ. DESCUBRE CÓMO LA FISIOLOGÍA AFECTA A LA PSICOLOGÍA”,* España. Lunwerg Editores. 206-214
-2. Ober, Clinton; Sinatra, Stephen T. y Zucker, Martin, (2022) “*EARTHING, CON LOS PIES DESCALZOS. CONÉCTATE A LA TIERRA Y TE SENTIRÁS MEJOR*”  España. Editorial Sirio. 26-44
-3. Valenzuela, A. (2023) “*ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”. Alienta Editorial, pp 310, 312  
-4. Freire, H. (2020) “*PATIOS VIVOS PARA RENATURALIZAR LA ESCUELA“*. España. Editorial Octaedro, pp42-46
-5. [Foto principal](https://unsplash.com/es/fotos/bebe-acostado-sobre-tela-blanca-MB9sdDfZMSg)
+- :book:  Vivar, P y Tarí, J. (2023) “*PNM. PROGRAMACIÓN NEUROMOTRIZ. DESCUBRE CÓMO LA FISIOLOGÍA AFECTA A LA PSICOLOGÍA”,* España. Lunwerg Editores. 206-214
+- :book:  Ober, Clinton; Sinatra, Stephen T. y Zucker, Martin, (2022) “*EARTHING, CON LOS PIES DESCALZOS. CONÉCTATE A LA TIERRA Y TE SENTIRÁS MEJOR*”  España. Editorial Sirio. 26-44
+- :book:  Valenzuela, A. (2023) “*ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”. Alienta Editorial, pp 310, 312  
+- :book:  Freire, H. (2020) “*PATIOS VIVOS PARA RENATURALIZAR LA ESCUELA“*. España. Editorial Octaedro, pp42-46
+- :image: [Foto principal](https://unsplash.com/es/fotos/bebe-acostado-sobre-tela-blanca-MB9sdDfZMSg)
 
 {{% bg white %}}
 
-## icon:lightbulb También les puede interesar
+## :lightbulb: También les puede interesar
 
-- Para leer textos de Matteo Tavera en Internet: [www.earthinginstitute.net](http://www.earthinginstitute.net)
-- [Varios tipos específicos de fobias al entorno natural (en inglés)](https://www.med.upenn.edu/ctsa/phobias_symptoms.html)
-- Instagram de **Rubens García**: [@rmotioncoach](https://instagram.com/rmotioncoach/), muy recomendable. Ahora ha creado una comunidad: la cofradía del pie sucio.
-- [Calzado Barefoot, calzado respetuoso](https://calzadobarefoot.com/?srsltid=AfmBOoolRxnXyhorjz6zY_GtEgKRe3JMz4pubIj17AQFdeDp7n2jjF4I)
-- [Podología preventiva: niños descalzos igual a niños más inteligentes](https://revistas.ucm.es/index.php/ricp/article/download/ricp0707120027a/18634)
+- :link:      Para leer textos de Matteo Tavera en Internet: [www.earthinginstitute.net](http://www.earthinginstitute.net)
+- :link:      [Varios tipos específicos de fobias al entorno natural (en inglés)](https://www.med.upenn.edu/ctsa/phobias_symptoms.html)
+- :instagram: Instagram de **Rubens García**: [@rmotioncoach](https://instagram.com/rmotioncoach/), muy recomendable. Ahora ha creado una comunidad: la cofradía del pie sucio.
+- :link:      [Calzado Barefoot, calzado respetuoso](https://calzadobarefoot.com/?srsltid=AfmBOoolRxnXyhorjz6zY_GtEgKRe3JMz4pubIj17AQFdeDp7n2jjF4I)
+- :link:      [Podología preventiva: niños descalzos igual a niños más inteligentes](https://revistas.ucm.es/index.php/ricp/article/download/ricp0707120027a/18634)
 
 {{% / bg %}}
 

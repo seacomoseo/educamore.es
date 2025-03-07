@@ -1,7 +1,7 @@
 ---
 slug: periodo-adaptacion
 title: Periodo de Adaptación
-image: blog/periodo-adaptacion.jpg
+image: blog/periodo-adaptacion.webp
 summary: 'Llega septiembre y con él arranca el primer día de clase. En este instante, se nos abre un abanico de opciones: 1. Que el niño nunca haya ido a…'
 
 date: 2024-09-03 00:00:00
@@ -17,7 +17,7 @@ seo: ''
 description: ''
 ---
 
-## icon:child Adaptarse a un nuevo entorno
+## :child: Adaptarse a un nuevo entorno
 
 **Comienzan las clases.**
 
@@ -64,7 +64,7 @@ Es normal que los niños que se están adaptando no quieran hablar en clase, alg
 
 El niño pasa de sentirse protagonista entre sus familiares a sentirse uno más. No olvidemos que, aunque venga de familia numerosa, no sentirá que tiene que competir con tantos niños por obtener la atención del adulto como cuando asiste al colegio, donde los grupos suelen ser numerosos, grupos de 18, 20 o 23 niños. Y esto también le sacará de su zona segura o su zona de confort. 
 
-## icon:hands-holding-heart Hablemos de apego
+## :hands-holding-heart: Hablemos de apego
 
 John Bowlby, Psicoanalista infantil inglés, desarrolló la teoría del apego.
 
@@ -139,7 +139,7 @@ Actualmente existen múltiples factores psicosociales **que tienen consecuencia
 
 <cite>(Bowlby, J. 1977, pp 201-210)</cite>
 
-## icon:hands-holding-child Niños consentidos
+## :hands-holding-child: Niños consentidos
 
 Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a todo, ni tengamos que ser complacientes en todo momento a sus caprichos, buscando que no lloren, intentado que no monten su rabieta en púbico (supermercado, centro médico,…) o evitando que se frustren…
 
@@ -151,14 +151,14 @@ Ser comprensivos y asertivos con ellos no quiere decir que digamos que sí a tod
 
 Es posible que su educación esté basada en el consentimiento, la permisividad y la falta de límites o normas. Un niño consentido no nace, se hace y puede crear problemas de convivencia en casa como rabietas, agresividad o enfrentamientos y peleas habituales con personas de su entorno. 
 
-> icon:quote-left Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas icon:quote-right
+> :quote-left: Son niños muy demandantes y caprichosos. No saben manejar el enfado y de ahí surge la rabia y consigo las rabietas. A medida que crecen, nos encontramos conductas todavía más agresivas, como peleas y conductas impulsivas :quote-right:
 > <cite>Gema José Moreno, psicóloga infanto-juvenil</cite>
 
 <cite>Pinedo, C. (abril 2018): "[Niños consentidos: 9 pautas para educar con sentido](https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html)"</cite>
 
 Cuando nuestra respuesta es un “NO” para establecer un límite, no debemos decir solamente un no, o “no, porque yo lo digo”, “no, porque  yo mando”, pues estas respuestas dan más motivos al niño para sentirse frustrado. 
 
-## icon:hand-heart Establezcamos normas (límites) con amor
+## :hand-heart: Establezcamos normas (límites) con amor
 
 Debemos buscar que comprendan nuestra negación, explicándoles las cosas con empatía y desde la calma: “no, porque es muy caro”, “no, porque contiene mucho azúcar”, “no, porque es tarde y tenemos que volver a casa”…
 
@@ -166,7 +166,7 @@ Cuando les decimos una frase tipo: “¡eso no se hace!” (debemos añadir lo q
 
 Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. Para una familia portarse bien puede ser hacer caso, para otra familia puede ser no gritar. Cada familia establece unos límites, algunas familias no establecen ninguno. 
 
-## icon:list-ul Resumen
+## :list-ul: Resumen
 
 - Cada niño es diferente. Evitemos las comparaciones.
 - El niño debe adaptarse al nuevo centro (compañeros, aula, maestra,…)
@@ -177,7 +177,7 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 - Conocer los tipos de apego para poder prever la respuesta del niño ante los cambios. Y responderle con amor y asertividad.
 - Nunca enfadarnos ante sus frustraciones, ni tampoco si se hace pis encima. El niño necesita nuestra comprensión más que nunca. Somos el adulto, no actuemos como otro niño más.
 
-## icon:triangle-exclamation Importante
+## :triangle-exclamation: Importante
 
 - Puntualidad.
 - Respetar los turnos en la entrada escalonada del Periodo de adaptación (se han realizado bajo un criterio).
@@ -189,20 +189,20 @@ Repetirles: “pórtate bien”, como si el niño supiera lo que eso significa. 
 
 ---
 
-> icon:quote-left No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio icon:quote-right
+> :quote-left: No es la especie más fuerte la que sobrevive, ni la más inteligente, sino la que responde mejor al cambio :quote-right:
 <cite>Charles Darwin</cite>
 
-## icon:books Reseña bibliográfica
+## :books: Reseña bibliográfica
 
-- **APEGO**:
-    - [Tipos de Apego y sus implicaciones psicológicas](https://www.mentesabiertaspsicologia.com/blog-psicologia/tipos-de-apego-y-sus-implicaciones-psicologicas)
-    - Bowlby, J. (1977). The making and breaking of affectional bonds. The British Journal of Psychiatry, 130(3): 201-210.
-    - López, F. (2009). Amores y desamores: procesos de vinculación y desvinculación sexuales y afectivos. Madrid: Biblioteca Nueva.
-- **LÍMITES**:
-    - [Niños consentidos: 9 pautas para educar con sentido](https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html)
-- [Imagen del encabezado](https://unsplash.com/es/fotos/dos-ninos-corren-por-un-suelo-a-cuadros-7g-FV0VO8dg)
+- :people-arrows: **Apego**:
+    - :book:  Bowlby, J. (1977). The making and breaking of affectional bonds. The British Journal of Psychiatry, 130(3): 201-210.
+    - :book:  López, F. (2009). Amores y desamores: procesos de vinculación y desvinculación sexuales y afectivos. Madrid: Biblioteca Nueva.
+    - :link:  [Tipos de Apego y sus implicaciones psicológicas](https://www.mentesabiertaspsicologia.com/blog-psicologia/tipos-de-apego-y-sus-implicaciones-psicologicas)
+- :hand: **Límites**:
+    - :link:  [Niños consentidos: 9 pautas para educar con sentido](https://elpais.com/elpais/2018/04/17/mamas_papas/1523972123_005737.html)
+- :image: [Imagen del encabezado](https://unsplash.com/es/fotos/dos-ninos-corren-por-un-suelo-a-cuadros-7g-FV0VO8dg)
 
-## icon:heart Recomendaciones
+## :heart: Recomendaciones
 
 - Establecer rutinas en casa y dar pequeñas responsabilidades a los niños acorde a su edad.
 - Poner normas y hacerlas cumplir. Papá y mamá deben ser un equipo ante las normas, para que uno no desautorice al otro. (Si uno las hace cumplir y el otro no)

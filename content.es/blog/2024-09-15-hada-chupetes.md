@@ -1,7 +1,7 @@
 ---
 slug: hada-chupetes
 title: El Hada de los Chupetes
-image: blog/hada-chupetes.jpg
+image: blog/hada-chupetes.webp
 summary: Los chupetes existen desde hace más de mil años y aún tienen un uso muy extendido en nuestros días porque permiten calmar y cesar el lloro del bebé o…
 
 date: 2024-09-15 00:00:00
@@ -19,7 +19,7 @@ description: ''
 
 {{% bg white %}}
 
-## icon:map-pin Chupetes y biberones
+## :map-pin: Chupetes y biberones
 
 Los chupetes existen desde hace más de mil años y aún tienen un uso muy extendido en nuestros días porque permiten calmar y cesar el lloro del bebé o facilitarle el sueño. Sin embargo, las investigaciones también asocian el **uso del chupete** con algunos inconvenientes, por lo que su uso se ha convertido en un asunto controvertido. 
 
@@ -33,7 +33,7 @@ Retirarlos a tiempo y darles la posibilidad de masticar alimentos, morder, y sor
 
 El uso prolongado de tetinas puede provocar un paladar alto y estrecho, que puede afectar al desarrollo del habla y la oclusión correcta -maloclusión-  (la alineación de los dientes inferiores y superiores para una buena mordida) provocando problemas para hablar o deglutir, por ejemplo. 
 
-## icon:face-tongue-sweat Inconvenientes del uso del chupete
+## :face-tongue-sweat: Inconvenientes del uso del chupete
 
 - El uso del chupete puede generar cierta **dependencia** en el niño y provocar que sea difícil de retirar a la edad recomendada.
 - El uso prolongado del chupete más allá de los dos años puede provocar **maloclusiones dentales**, **retracción de encías**, **dientes torcidos**, **protrusión** y cambios en la **forma del paladar,** sobre todo, si se continúa con el chupete después de los cuatro años. Asimismo, los expertos recomiendan limitar el uso del chupete a un máximo de 6 horas por día.
@@ -45,7 +45,7 @@ El uso prolongado de tetinas puede provocar un paladar alto y estrecho, que pued
 - Algunas investigaciones concluyen que el uso del chupete se relaciona con el **consumo de tabaco**. Algunas investigaciones apuntan que el uso del chupete favorece el tabaquismo.
 - **Microbios**: el chupete puede contener microbios como cándida y estafilococos. Sin embargo, no se ha probado la relación directa de estos microbios con la aparición de infecciones.
 
-## icon:face-smile-tongue Retirada
+## :face-smile-tongue: Retirada
 
 A partir de los **12-18 meses**, el bebé ya ha adquirido las principales utilidades que ofrecen los chupetes como el tono muscular adecuado, mayor regulación emocional y menor frecuencia del síndrome de muerte súbita del lactante. Por este motivo, los padres deben **ir limitando cada vez más el tiempo** que el niño usa el chupete y, simultáneamente, enseñarle herramientas y recursos para conseguir tranquilidad o recuperar la calma en momentos o situaciones difíciles. **En función de la edad**, se puede recurrir a música, cantar, mecer, masajes, objetos o juguetes por los que el niño siente afecto, relajaciones o cuentos específicos para facilitar la retirada del chupete.  **Lo ideal es que el niño no utilice chupete en su segundo cumpleaños.**
 
@@ -61,7 +61,7 @@ A partir de los **12-18 meses**, el bebé ya ha adquirido las principales utili
     1. Primera estrategia: **«convencerlo» de que es mayor**. Bueno, con un poco de «teatro»: hacer una especie de ceremonia de despedida del chupete. Primero explicádselo y poner una fecha con algo de antelación, unos días o unas pocas semanas,… (a los niños les gusta saber que va pasar). Que vuestro hijo pinte una cajita para poner los chupetes, que los ponga dentro, y se hace un **ritual de despedida**,… y se tira a la basura, o se la lleva alguien (los Reyes Magos,…). **Usad la imaginación, pensad que le puede resultar convincente a vuestro hijo**. Cuando pida el chupete (por hábito), recordadle la ceremonia de despedida, que ya es mayor,…
     2. Segunda estrategia: **cortar los chupetes**. Cortar un poco la punta del chupete y cada día ir cortando un poquito más. Cuando pida chupete le dais el chupete cortado. Si protesta de que está roto, le dais otro igualmente cortado,… **La clave es hacer como si no os dieseis cuenta de que los chupetes están cortados**. Si pregunta porque están rotos hay que decirle, que como ya tiene dientes los va rompiendo él sin darse cuenta,…
 
-<cite>(Mateos, J. 2022 [jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/))</cite>
+<cite>(Mateos, J. 2022 [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/))</cite>
 
 {{% / bg %}}
 
@@ -91,7 +91,7 @@ El enfoque Montessori favorece una **transición gradual al quitar el chupete**.
 
 El refuerzo positivo es una parte importante del método Montessori. Celebra los pequeños logros y avances de tu hijo en el proceso de dejar el chupete. Reconocer y elogiar sus esfuerzos aumenta su autoestima y motivación para continuar avanzando. Evita castigar o mostrar frustración ante retrocesos, y mantén una actitud comprensiva y alentadora.
 
-> icon:quote-left El refuerzo positivo mejor que el negativo.  icon:quote-right
+> :quote-left: El refuerzo positivo mejor que el negativo.  :quote-right:
 
 #### Ser paciente y flexible
 
@@ -111,21 +111,21 @@ Aquí siempre digo un consejito a papás y mamás, si los niños no piden el chu
 
 Cuando escribía este artículo me encontré con una publicación de <cite>**Mario Alonso Puig**</cite> que os quiero compartir:
 
-> icon:quote-left Cuando tratamos bien a alguien, cuando la queremos, esa persona libera una hormona llamada oxitocina que protege el corazón, el sistema cardiovascular y mejora el funcionamiento del sistema inmune. Además, si esa persona siente algún tipo de dolor, ya sea físico o mental, ese dolor se reduce gracias a la liberación de péptidos opiáceos endógenos. Es decir, el propio cerebro libera un potentísimo analgésico capaz de reducir el dolor, a veces a niveles inimaginables.
+> :quote-left: Cuando tratamos bien a alguien, cuando la queremos, esa persona libera una hormona llamada oxitocina que protege el corazón, el sistema cardiovascular y mejora el funcionamiento del sistema inmune. Además, si esa persona siente algún tipo de dolor, ya sea físico o mental, ese dolor se reduce gracias a la liberación de péptidos opiáceos endógenos. Es decir, el propio cerebro libera un potentísimo analgésico capaz de reducir el dolor, a veces a niveles inimaginables.
 > 
-> Si sentimos que importamos a los demás, que no les somos indiferentes, se alargan los telómeros, que están en los extremos de los cromosomas y predicen la longevidad de una persona icon:quote-right
+> Si sentimos que importamos a los demás, que no les somos indiferentes, se alargan los telómeros, que están en los extremos de los cromosomas y predicen la longevidad de una persona :quote-right:
 
 Me gustaría, desde este humilde blog, ofrecer una pequeña reflexión al respecto, porque siempre hay alternativas a la que creemos que es la única manera de hacer las cosas. Si podemos quitar el chupete, el biberón o el pañal a un niño desde el amor y el respeto, todos salimos ganando. 
 
 Que nuestra respuesta no sea el enfado ni el chantaje, que el niño encuentre en nosotros comprensión y compasión. 
 
-## icon:person-dress-fairy El hada de los chupetes
+## :person-dress-fairy: El hada de los chupetes
 
 A modo de cierre, os dejo la idea a la que podéis dar forma, como una historia similar a la del ratoncito Pérez, que en este caso es un hada y se encarga de recoger chupetes. Puede ser un duende, un gnomo, algún ser pequeñito que no les de miedo. 
 
 Podéis dejar el chupete en una cajita junto a la mesita con una nota para el hada, cuando el hada os visite, se lleva el chupete y a cambio os deja una moneda (hay unas monísimas del hada de los dientes que podéis usar para este momentazo), o les deja un diploma con su nombre felicitándole.
 
-[btn icon:file-pdf Descargar diploma](blog/diplomas-hada-y-duende-de-los-chupetes.pdf)
+[[:file-pdf: Descargar diploma]](blog/diplomas-hada-y-duende-de-los-chupetes.pdf)
 
 Ánimo y a disfrutar de su cara cuando vea la cajita vacía con lo que ha aparecido en su lugar. 
 
@@ -133,22 +133,22 @@ Podéis dejar el chupete en una cajita junto a la mesita con una nota para el ha
 
 ---
 
-> icon:quote-left Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil icon:quote-right
+> :quote-left: Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil :quote-right:
 > <cite>Albert Einstein</cite>
 
-## icon:books Reseña bibliográfica
+## :books: Reseña bibliográfica
 
-1. Bartulli, M., Cabrera, P. J. y Periñán, M.C. (2006). *Guía de intervención logopédica. Terapia miofuncional.* Madrid: Síntesis.
-2. Ustrell, J.P. (2015). *Diagnóstico y tratamiento en ortodoncia*. Madrid: Elsevier.
-3. Zambrana, N. y Puyuelo, M. (2017). *Terapia miofuncional orofacial. Actualización y nuevos campos de actuación*. Madrid: EOS.
-4. [Foto principal](https://pixabay.com/es/photos/perro-hunde-chupete-arte-estudio-7205842/)
+- :book:  Bartulli, M., Cabrera, P. J. y Periñán, M.C. (2006). *Guía de intervención logopédica. Terapia miofuncional.* Madrid: Síntesis.
+- :book:  Ustrell, J.P. (2015). *Diagnóstico y tratamiento en ortodoncia*. Madrid: Elsevier.
+- :book:  Zambrana, N. y Puyuelo, M. (2017). *Terapia miofuncional orofacial. Actualización y nuevos campos de actuación*. Madrid: EOS.
+- :image: [Foto principal](https://pixabay.com/es/photos/perro-hunde-chupete-arte-estudio-7205842/)
 
 {{% bg white %}}
 
-## icon:lightbulb También les puede interesar
+## :lightbulb: También les puede interesar
 
-- icon:link [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/)
-- icon:link [Cómo quitar el chupete](https://pediatragabiruiz.com/como-quitar-chupete/)
-- icon:link [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html)
+- :link: [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/)
+- :link: [Cómo quitar el chupete](https://pediatragabiruiz.com/como-quitar-chupete/)
+- :link: [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html)
 
 {{% / bg %}}

@@ -11,7 +11,7 @@ contact:
   label: 111 222 333
 - type: whatsapp
   label: 111 222 333
-  button: link
+  button: cta
 - type: mail
   label: info@educamore.es
   full: true
