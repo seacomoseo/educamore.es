@@ -3,8 +3,8 @@ title: Blog
 icon: blog
 icon_type: side
 box:
-  gap_min: 3
-  gap_y: .5
+  gap_vs: 3
+  space: .5
   icon_type: side
 boxes:
 - icon: person-breastfeeding

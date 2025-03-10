@@ -3,7 +3,7 @@ node: div
 if: content
 id: content
 pt: 0
-content: |
+md: |
   {{< content >}}
 
   ---
@@ -18,5 +18,5 @@ content: |
     4.0
   ](https://creativecommons.org/licenses/by-nc-sa/4.0/ "[nofollow]")
   {#cc .align-center}
-content_nav: true
-content_index: true
+md_nav: true
+md_index: true

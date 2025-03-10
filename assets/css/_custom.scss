@@ -13,7 +13,7 @@
 // BLOG
 
 // blockquote
-.content blockquote:not(.quotes, .dittos) {
+.md blockquote:not(.quotes, .dittos) {
   padding-inline: 0;
   &:before,
   &:after {
@@ -21,7 +21,7 @@
   }
 }
 // cite
-.content blockquote cite:before {
+.md blockquote cite:before {
   content: none;
 }
 // copiright

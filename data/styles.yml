@@ -62,11 +62,11 @@ buttons:
   dot_circle: false
   deep: true
   outline: false
-  font_main:
+  font:
     type: title
     bold: false
     uppercase: false
-  font_alt:
+  swap:
     type: base
     bold: false
     uppercase: false

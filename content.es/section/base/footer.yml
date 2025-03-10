@@ -1,6 +1,6 @@
 name: Pie
 divider: curve-side
-content: |
+md: |
   - :copyright:      {{< internal-link index >}}
   - :scale-balanced: {{< internal-link legal >}}
   - :shield-keyhole: {{< internal-link privacy >}}

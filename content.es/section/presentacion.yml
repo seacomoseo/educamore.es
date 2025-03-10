@@ -4,22 +4,22 @@ pt: 6
 pb: 0
 
 boxes:
-- span: .75
+- fit: .75
   box:
     cols: 1
     # align_x: flex-start
     align_y: center
   boxes:
-  - span: .3
-    span_min: .8
+  - fit: .3
+    fit_vs: .8
     image: snows/maestra.jpg
     ratio: 1/1
     # border: main
-  - span: .7
-    span_min: 1
-    gap_y: .75
+  - fit: .7
+    fit_vs: 1
+    space: .75
     align: left
-    content: |
+    md: |
       ¡Hola! Soy Nieves, maestra de Educación  Infantil.
 
       Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
