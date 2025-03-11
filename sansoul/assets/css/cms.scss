@@ -1,0 +1,23 @@
+@import 'hugo:vars';
+@import 'cms/_variables';
+:is(#nc-root, .MuiDrawer-root) {
+  @import 'cms/static-cms/_icons';
+}
+#nc-root {
+  @import 'cms/static-cms/_login';
+  @import 'cms/static-cms/_base';
+  @import 'cms/static-cms/fields/_base';
+  @import 'cms/static-cms/fields/_label';
+  @import 'cms/static-cms/fields/_button-clear';
+  @import 'cms/static-cms/fields/_error';
+  @import 'cms/static-cms/fields/_hint';
+  @import 'cms/static-cms/fields/_view';
+  @import 'cms/static-cms/fields/widgets/_text-select-relation-date';
+  @import 'cms/static-cms/fields/widgets/_boolean';
+  @import 'cms/static-cms/fields/widgets/_color';
+  @import 'cms/static-cms/fields/widgets/_image';
+  @import 'cms/static-cms/fields/widgets/_text';
+  @import 'cms/static-cms/fields/widgets/_object-list';
+  @import 'cms/static-cms/fields/widgets/_map';
+}
+@import 'cms/static-cms/_hide';

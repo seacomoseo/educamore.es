@@ -1,0 +1,6 @@
+{{- $index := partial "index-json" . -}}
+{{- if hugo.IsProduction -}}
+  {{- jsonify $index -}}
+{{- else -}}
+  {{- debug.Dump $index -}}
+{{- end -}}

@@ -1,0 +1,5 @@
+title: Proveedores
+base: organization
+order: 4
+taxonomy_of:
+- name: product

@@ -1,0 +1,37 @@
+{{- range site.Sections -}}
+  {{- $parent_icon := .Params.icon }}
+  <h2 class="md__heading">
+    {{ partial "components/link" (dict
+      "class"  "md__heading-link sitemap-header-link"
+      "icon"   $parent_icon
+      "emoji"  .Params.emoji
+      "label"  .Title
+      "anchor" (partial "functions/anchor-page" .)
+      "link"   .RelPermalink
+      "lock"   .Params.noindex
+    ) }}
+  </h2>
+  {{- $pages := .RegularPages -}}
+  {{- if eq .Type "single" -}}
+    {{- $pages = slice site.Home | append .RegularPages -}}
+  {{- end -}}
+  {{- with $pages }}
+    <ul>
+      {{- range sort . "Date" "desc" }}
+        <li>
+          {{- $icon  := "" -}}
+          {{- if ne $parent_icon .Params.icon -}}
+            {{- $icon = .Params.icon -}}
+          {{- end -}}
+          {{- partial "components/link" (dict
+            "icon"   $icon
+            "label"  .Title
+            "link"   .RelPermalink
+            "anchor" (partial "functions/anchor-page" .)
+            "lock"   .Params.noindex
+          ) -}}
+        </li>
+      {{- end }}
+    </ul>
+  {{- end -}}
+{{- end -}}

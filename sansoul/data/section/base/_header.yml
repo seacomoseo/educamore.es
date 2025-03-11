@@ -1,0 +1,31 @@
+name: Cabecera
+node: header
+align: left
+boxes:
+- if: breadcrumbs
+  node: nav
+  md: |
+    {{< breadcrumbs >}}
+- title: '{{% param title %}}'
+- tags:
+  - type: type
+  - type: date
+  # - type: reading-time
+  # - type: words
+  - type: address
+  - type: taxonomy
+    taxonomy: all
+  - type: param
+    param: job
+    icon: briefcase
+  - type: param
+    param: autor
+    icon: user-group
+- if: cancelled
+  md: |
+    =={{< i18n cancelled >}}==
+    {.cancelled}
+- if: image
+  params:
+  - page: image
+    box: image

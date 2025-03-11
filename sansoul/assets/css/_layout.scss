@@ -1,0 +1,332 @@
+*, :before, :after {
+  box-sizing: border-box;
+}
+html {
+  @include font-base(true);
+  @include fluid-size(font-size, 1px, $font-size-vs, $font-size-vl);
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+body {
+  // font-size: var(--fsb);
+  color: var(--text, $text);
+  background-color: $light;
+  word-break: break-word;
+  overflow-wrap: break-word;
+  // hyphens: auto;
+}
+main {
+  min-height: calc(100vh - 9em);
+}
+a {
+  color: var(--cta);
+  text-decoration: none;
+  transition: color;
+  transition-duration: .3s;
+  &:where(
+    :hover,
+    :focus
+  ) {
+    color: var(--hover);
+  }
+  &:where(:active) {
+    color: var(--active);
+  }
+}
+strong,
+.strong,
+.button--swap:not(.button) > i,
+dt,
+legend {
+  @include font-base-bold;
+}
+i {
+  font-style: inherit;
+}
+s,
+del {
+  color: var(--subtitle);
+}
+mark {
+  padding-inline: .25em;
+}
+figure {
+  margin-inline: 0;
+}
+picture {
+  overflow: hidden;
+}
+picture,
+img {
+  max-width: 100%;
+  height: auto;
+}
+picture[style] {
+  background-image: var(--pre-bg);
+}
+picture > img {
+  display: block;
+  margin: 0 auto;
+}
+video {
+  object-fit: cover;
+  object-position: center;
+}
+p {
+  text-wrap: pretty;
+  margin: 0 0 1em;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+ul {
+  padding-left: 1.125em;
+}
+h1, h2, h3, h4, h5, h6 {
+  @include font-title;
+  display: block;
+  margin-top: 0;
+  margin-bottom: 1rem;
+  color: var(--title, $dark);
+  @include fluid-size(--fhs-pre, 1cqw, -.7, .3);
+  --fhs: calc(var(--fhs-pre) * var(--hs, 1) + var(--hs, 1) * #{ $font-size-title } * 1em);
+  font-size: var(--fhs);
+  // text-wrap: balance;
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+h1 { --hs: 2; }
+h2 { --hs: 1.8; }
+h3 { --hs: 1.6; }
+h4 { --hs: 1.4; }
+h5 { --hs: 1.2; }
+h6 { --hs: 1; }
+header,
+section {
+  position: relative;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  // overflow: hidden;
+}
+input:not([type="checkbox"], [type="radio"], [type="hidden"]),
+textarea,
+select,
+fieldset {
+  --outline: 1px;
+  display: block;
+  padding: .5625em 1em;
+  background-color: transparent;
+  border: var(--outline) solid transparent;
+  border-bottom: var(--outline) solid var(--border);
+  outline: none;
+  transition: border .1s;
+  font-weight: $font-weight-base;
+  color: inherit;
+  &:focus {
+    border-color: var(--main);
+  }
+  &::placeholder {
+    color: var(--text);
+    opacity: .5;
+    // position: relative;
+    // top: .125em;
+  }
+}
+select:has(option:checked[value=""]) {
+  color: color-mix(in srgb, var(--text), transparent 50%);
+}
+input:not([type="checkbox"], [type="radio"], [type="hidden"]),
+select {
+  height: 2.5em;
+}
+textarea {
+  min-height: 5.72em;
+  resize: none;
+}
+select {
+  appearance: none;
+  cursor: pointer;
+  background: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 4 5'%3E%3Cpath fill='gray' d='M2 0L0 2h4zm0 5L0 3h4z'/%3E%3C/svg%3E") no-repeat right 1em center;
+  background-size: .5em .625em;
+  padding-right: 2.125em;
+  option {
+    appearance: none;
+    background-color: transparent;
+    @include radius;
+  }
+}
+fieldset {
+  border: 1px var(--border) solid;
+  color: inherit;
+  border-radius: $radius;
+}
+legend {
+  color: var(--subtitle);
+  padding: 0 .25em;
+  margin-left: -.25em;
+}
+[type='radio'],
+[type="checkbox"] {
+  // Remove most all native input styles
+  appearance: none;
+  // For iOS < 15
+  // background-color: var(--form-background);
+  background-color: $white;
+  // Not removed via appearance
+  margin: 0;
+
+  font: inherit;
+  color: currentColor;
+  width: 1em;
+  height: 1em;
+  border: 0.15em solid var(--form-control-color);
+  border-radius: 0.15em;
+  transform: translateY(-0.075em);
+
+  display: inline-grid;
+  place-content: center;
+  position: relative;
+  top: .0625em;
+  &:checked {
+    --form-control-color: green;
+  }
+}
+[type='radio']:before,
+[type="checkbox"]:before {
+  content: '';
+  width: 0.7em;
+  height: 0.7em;
+  clip-path: polygon(14% 44%, 0 65%, 50% 100%, 100% 16%, 80% 0%, 43% 62%);
+  transform: scale(0);
+  transform-origin: bottom left;
+  transition: .12s transform ease-in-out;
+  box-shadow: inset 1em 1em var(--form-control-color);
+  // Windows High Contrast Mode
+  background-color: CanvasText;
+}
+[type='radio']:checked:before,
+[type="checkbox"]:checked:before {
+  transform: scale(1);
+}
+[type='radio']:focus,
+[type="checkbox"]:focus {
+  outline: Max(2px, 0.15em) solid var(--main);
+  outline-offset: Max(2px, 0.15em);
+}
+[type='radio']:disabled,
+[type="checkbox"]:disabled {
+  --form-control-color: var(--form-control-disabled);
+  color: var(--form-control-disabled);
+  cursor: not-allowed;
+}
+[type='radio'] {
+  border-radius: 50%;
+}
+table {
+  @include radius;
+  border-collapse: collapse;
+  word-break: normal;
+  // white-space: nowrap;
+  // width: max-content;
+  max-width: 100%;
+  color: var(--title);
+  overflow-x: auto;
+  display: block;
+  margin-right: auto;
+}
+th, td {
+  padding: .5em 1em;
+}
+tr {
+  background-color: var(--bg-color);
+  &:nth-child(2n) {
+    background-color: var(--similar);
+  }
+  &:hover {
+    color: var(--invert-text);
+    background-color: var(--invert);
+  }
+}
+thead tr {
+  color: var(--main-text);
+  background-color: var(--main);
+  .icon {
+    fill: var(--main-text);
+  }
+}
+/*! purgecss start ignore */
+iframe {
+  @include radius;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  &:not(#aux) {
+    border: none;
+    object-fit: initial;
+  }
+}
+/*! purgecss end ignore */
+.icon {
+  fill: currentColor;
+  width: 1em;
+  height: 1em;
+  flex-shrink: 0;
+  flex-grow: 0;
+  display: inline-block;
+}
+.icon--li {
+  @include font-title;
+  white-space: nowrap;
+  text-align: center;
+  line-height: 1em;
+}
+// [href^="/draws.#{$timestamp}.svg"] {
+//   color: $main;
+// }
+pre {
+  @include radius;
+}
+:not(pre) > code  {
+  background-color: var(--main);
+  color: var(--main-text);
+  padding: 0 0.3em;
+  @if $chamfer and $radius >= 0.1 {
+    border-radius: 0.1em;
+  } @else {
+    border-radius: $radius;
+  }
+  > .icon {
+    color: inherit;
+  }
+}
+[data-more] {
+  position: relative;
+  &:before {
+    content: attr(data-more);
+  }
+  i {
+    @include ofuscate;
+  }
+}
+
+/*! purgecss start ignore */
+[id]:not(.pt-div, .modal) {
+  scroll-margin-top: 3em;
+}
+[id].pt-div {
+  scroll-margin-top: calc(3em - var(--pt-div));
+}
+::selection {
+  color: $main-contrast-neutral;
+  background: $main;
+}
+.icon:has(> use[href="/draws.#{$timestamp}.svg#flag-es"]),
+.icon:has(> use[href="/draws.#{$timestamp}.svg#flag-en"]),
+.icon:has(> use[href="/draws.#{$timestamp}.svg#flag-fr"]),
+.icon:has(> use[href="/draws.#{$timestamp}.svg#flag-de"]),
+.icon:has(> use[href="/draws.#{$timestamp}.svg#flag-pt"]),
+.icon:has(> use[href="/draws.#{$timestamp}.svg#flag-it"]) {
+  border-radius: 50%;
+}
+/*! purgecss end ignore */

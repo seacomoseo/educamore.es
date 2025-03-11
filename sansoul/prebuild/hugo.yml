@@ -1,0 +1,37 @@
+disableKinds:
+- sitemap
+- taxonomy
+- term
+
+outputs:
+  home:
+  - html
+
+caches:
+  getresource:
+    maxAge: 0
+
+theme: []
+
+module:
+  mounts:
+  - source: ../../../
+    target: assets
+    includeFiles: ../../../**/_index.md
+    excludeFiles: ../../../themes
+
+  - source: ../../../data/config.yml
+    target: data/config.yml
+  - source: ../../../data/remote.yml
+    target: data/remote.yml
+  - source: ../../../data/types/
+    target: data/types/
+  - source: ../data/types/
+    target: data/types/
+
+  - source: ../i18n
+    target: data/i18n
+  - source: ../data/utilities.yml
+    target: data/utilities.yml
+  - source: ../data/options.yml
+    target: data/options.yml

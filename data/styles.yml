@@ -51,7 +51,7 @@ colors:
   base:
     white: '#fff'
     light: '#e7e8eb'
-    grey: '#767676'
+    gray: '#767676'
     dark: '#373b3b' #710986 #282525
     black: '#000'
 rounded:
