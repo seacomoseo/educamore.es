@@ -70,16 +70,16 @@ La frustración, cuando se maneja adecuadamente, se convierte en una oportunidad
 
 Aquí propongo un ejemplo de conversación sencilla con un niño de 3 años para ayudarle a gestionar su frustración:
 
-- ::Contexto  Imagina que el niño está intentando apilar bloques y la torre de bloques se cae, lo que le causa frustración.
-- ::Madre     Veo que te sientes triste. ¿Qué ha pasado con tus bloques?
-- ::Niño      ¡Mi torre se ha destruido!
-- ::Madre     Entiendo, te sientes frustrado porque trabajaste mucho en ella. Es normal sentirse así cuando las cosas no salen como queremos.
-- ::Niño      *[ Empieza a llorar ]*
-- ::Madre     ¿Sabes qué? A veces, cuando nos sentimos así, podemos tomar una respiración profunda para calmarnos un poco. ¿Quieres intentarlo conmigo?
-- ::Juntos    *[ Hacen una respiración profunda: “inhala… exhala…” ]*
-- ::Padre     Muy bien. Ahora, ¿qué te parece si los tres volvemos a intentar apilar los bloques o buscamos otra forma divertida de jugar?
-- ::Niño      ¡Vale, otra vez!
-- ::Padre     Perfecto. Recuerda, está bien equivocarse; cada intento es una oportunidad para aprender y hacerlo mejor.
+- ::Contexto::  Imagina que el niño está intentando apilar bloques y la torre de bloques se cae, lo que le causa frustración.
+- ::Madre::     Veo que te sientes triste. ¿Qué ha pasado con tus bloques?
+- ::Niño::      ¡Mi torre se ha destruido!
+- ::Madre::     Entiendo, te sientes frustrado porque trabajaste mucho en ella. Es normal sentirse así cuando las cosas no salen como queremos.
+- ::Niño::      *[ Empieza a llorar ]*
+- ::Madre::     ¿Sabes qué? A veces, cuando nos sentimos así, podemos tomar una respiración profunda para calmarnos un poco. ¿Quieres intentarlo conmigo?
+- ::Juntos::    *[ Hacen una respiración profunda: “inhala… exhala…” ]*
+- ::Padre::     Muy bien. Ahora, ¿qué te parece si los tres volvemos a intentar apilar los bloques o buscamos otra forma divertida de jugar?
+- ::Niño::      ¡Vale, otra vez!
+- ::Padre::     Perfecto. Recuerda, está bien equivocarse; cada intento es una oportunidad para aprender y hacerlo mejor.
 
 Este tipo de diálogo ayuda a validar las emociones del niño, le enseña a reconocer y expresar su frustración y, además, le ofrece herramientas simples (como la respiración profunda) para calmarse y retomar la actividad. El apoyo y la escucha de mamá y papá le hace sentirse amado y seguro.
 

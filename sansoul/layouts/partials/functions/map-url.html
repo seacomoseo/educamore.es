@@ -1,9 +1,0 @@
-{{ $return := "" }}
-
-{{ if hasPrefix . "http" }}
-  {{ $return = . }}
-{{ else }}
-  {{ $return = print "https://maps.google.com/maps?q=" (. | replaceRE "<nil>" "" | urlquery) }}
-{{ end }}
-
-{{ return $return }}

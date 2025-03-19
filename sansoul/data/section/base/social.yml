@@ -1,8 +1,0 @@
-name: Social
-node: div
-if: social
-id: social
-pt: 0
-params:
-- page: social
-  box: social

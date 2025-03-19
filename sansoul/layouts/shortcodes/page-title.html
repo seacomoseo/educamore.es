@@ -1,7 +1,0 @@
-{{- $param := index .Params 0 -}}
-{{- if eq $param "index" -}}
-  {{- site.Params.domain -}}
-{{- else -}}
-  {{- $page := site.GetPage "pages" $param -}}
-  {{- $page.Title -}}
-{{- end -}}

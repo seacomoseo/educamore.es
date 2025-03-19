@@ -1,8 +1,0 @@
-name: Comentarios
-node: aside
-if: comments
-id: comments
-title: '{{% i18n comments %}}'
-pt: 0
-md: |
-  {{< comments >}}

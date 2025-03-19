@@ -1,7 +1,0 @@
-name: Comparte
-node: aside
-id: share
-title: '{{% i18n share %}}'
-align: center
-md: |
-  {{< share >}}

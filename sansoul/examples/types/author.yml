@@ -1,6 +1,0 @@
-title: Autores
-base: author
-order: 1
-taxonomy_of:
-- name: article
-  schema: author

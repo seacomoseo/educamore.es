@@ -7,7 +7,7 @@ custom:
     permalinks: ''
 
 - base: author
-  taxonomy_of:
+  tax_of:
   - name: blog
     schema: author
   es:
@@ -15,7 +15,7 @@ custom:
 
 - base: page
   name: category
-  taxonomy_of:
+  tax_of:
   - name: blog
     multiple: true
     breadcrumbs: true

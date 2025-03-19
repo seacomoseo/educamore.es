@@ -1,7 +1,0 @@
-{{- $param := index .Params 0 -}}
-{{- $page  := site.GetPage "pages" $param -}}
-{{- $link  := $page.RelPermalink -}}
-{{- if eq $param "index" -}}
-  {{- $link = site.Home.RelPermalink -}}
-{{- end -}}
-{{- $link -}}

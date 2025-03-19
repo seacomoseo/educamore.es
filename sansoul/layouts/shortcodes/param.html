@@ -1,6 +1,0 @@
-{{- $name   := index .Params 0 -}}
-{{- $value  := partial "functions/param" $name -}}
-{{- if eq $name "price" -}}
-  {{- $value = $value | lang.FormatCurrency 2 site.Params.currency -}}
-{{- end -}}
-{{- $value | plainify -}}

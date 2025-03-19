@@ -2,15 +2,20 @@ name: Cabecera
 node: header
 align: left
 boxes:
-- if: breadcrumbs
-  node: nav
-  md: |
-    {{< breadcrumbs >}}
-- title: '{{% param title %}}'
+- if: icon
+  params:
+  - box: title
+  - box: icon
+  icon_type: side
+- if: not icon
+  params:
+  - box: title
 - tags:
   - type: type
   - type: date
-  - type: reading-time
+  - type: time
+  - type: tax
+    tax: category
 - if: image
   params:
   - page: image
