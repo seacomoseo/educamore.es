@@ -2,26 +2,21 @@ name: Presentación
 hanchor: EducAmore ❤️ Blog sobre Educación con Amor
 pt: 6
 pb: 0
-
+box:
+  align_y: center
 boxes:
-- fit: .75
-  box:
-    cols: 1
-    # align_x: flex-start
-    align_y: center
-  boxes:
-  - fit: .3
-    fit_vs: .8
-    image: snows/maestra.jpg
-    ratio: 1/1
-    # border: main
-  - fit: .7
-    fit_vs: 1
-    space: .75
-    align: left
-    md: |
-      ¡Hola! Soy Nieves, maestra de Educación  Infantil.
+- fit: .3
+  fit_vs: .8
+  image: snows/maestra.jpg
+  ratio: 1/1
+  # border: main
+- fit: .5
+  fit_vs: 1
+  space: .75
+  align: left
+  md: |
+    ¡Hola! Soy Nieves, maestra de Educación  Infantil.
 
-      Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
+    Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
 
-      [Leer más…](/nieves/)
+    [Leer más…](/nieves/)

@@ -11,7 +11,8 @@ tax_of:
   breadcrumbs: true
 tpl:
   list:
-    icon: ''
     align: center
+    icon: ''
+    md: hide
     button: cta
     pin: plus

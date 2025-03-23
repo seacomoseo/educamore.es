@@ -3,7 +3,7 @@ title: Blog
 icon: blog
 icon_type: side
 box:
-  gap_vs: 3
+  gap_vs: 1.5
   space: .5
   icon_type: side
 boxes:

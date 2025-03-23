@@ -1,0 +1,10 @@
+title: Páginas
+order: 100
+tpl:
+  list:
+    cols: 3
+    align: center
+    icon: ''
+    md: hide
+    button: cta
+    pin: plus
