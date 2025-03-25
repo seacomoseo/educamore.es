@@ -7,9 +7,6 @@ seo: EducAmore ❤️ Blog sobre Educación con Amor
 description: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
 
 tpl:
-  # section:
-  # - underline: true
-  #   uppercase: true
   section:
   - size: md
   sections:
