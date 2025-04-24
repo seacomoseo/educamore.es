@@ -148,7 +148,7 @@ Se basa en premiar o valorar a los niños según su habilidad o rendimiento apar
 
     Al centrarse en metas concretas y evaluables, se limita el espacio para el juego espontáneo, que es fundamental para su desarrollo cognitivo, emocional y social.
 
-    Y qué os voy a contar yo sobre la importancia del juego, que he escrito un libro sobre eso…https://www.unoeditorial.com/libros/pata-de-canguro/ 
+    Y qué os voy a contar yo sobre la importancia del juego, que [he escrito un libro sobre eso](https://www.unoeditorial.com/libros/pata-de-canguro/)…
 
 ### Alternativas más saludables
 
@@ -167,7 +167,7 @@ Se basa en premiar o valorar a los niños según su habilidad o rendimiento apar
 - **Evita comparaciones** y celebra los avances individuales, sin necesidad de medirlos frente a otros.
 - **Muestra que equivocarse es natural**, compartiendo también tus propios errores y aprendizajes.
 
-## Reflexiones y pautas para padres
+## Reflexiones y orientación para padres
 
 Con el fin de transformar el análisis en acciones prácticas, este apartado ofrece recomendaciones dirigidas a papás, mamás y educadores, con un tono constructivo y esperanzador.
 
@@ -269,11 +269,11 @@ Poner el foco en la meritocracia en la etapa de los 3 años puede debilitar la m
 - :link: [Parent Praise to 1-3 Year-Olds Predicts Children’s Motivational Frameworks 5 Years Later](https://pmc.ncbi.nlm.nih.gov/articles/PMC3655123/)
 - :link: [Self-Determination Theory in Psychology](https://www.verywellmind.com/what-is-self-determination-theory-2795387)
 - :link: [Wikipedia: Meritocracia](https://es.wikipedia.org/wiki/Meritocracia)
-- :book: **Sandel, M. (2020). *La tiranía del mérito: ¿Qué ha sido del bien común?***
+- :book: **Sandel, M. (2020)**. *La tiranía del mérito: ¿Qué ha sido del bien común?*
 
     En este libro, Michael Sandel ofrece una crítica profunda al ideal meritocrático, analizando sus implicaciones en la cohesión social y la justicia. Es una lectura esencial para comprender cómo el énfasis en el mérito puede tener efectos contraproducentes en la sociedad contemporánea.
 
-- :book: **Pérez, M. (2022). “El mito de la meritocracia en la educación: desafíos y perspectivas críticas.” *Revista de Educación y Sociedad, 18* (2), 123–145.**
+- :book: **Pérez, M. (2022)**. *“El mito de la meritocracia en la educación: desafíos y perspectivas críticas.”* Revista de Educación y Sociedad, 18* (2), 123–145.
 
     El trabajo analiza el impacto de la meritocracia en la práctica educativa, explorando sus limitaciones y proponiendo alternativas que valoren el proceso de aprendizaje integral sobre el simple rendimiento medible.
 
