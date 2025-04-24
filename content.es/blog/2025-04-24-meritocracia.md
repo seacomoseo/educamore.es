@@ -221,7 +221,7 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
     Reunimos a los niños en círculo y, de forma cálida y cercana, les explicamos:
 
-    > :quote-left: Hoy vamos a jugar a un juego muy especial, donde los 'ups' (errores) son motivo de risa y alegría. No hay errores malos, ¡solo formas divertidas de aprender y jugar! :quote-right:
+    > :quote-left: Hoy vamos a jugar a un juego muy especial, donde los 'ups' (errores) son motivo de risa y alegría. No hay errores malos, solo formas divertidas de aprender y jugar :quote-right:
 
 2. **Demostración del error divertido:**
 
@@ -273,7 +273,7 @@ Poner el foco en la meritocracia en la etapa de los 3 años puede debilitar la m
 
     En este libro, Michael Sandel ofrece una crítica profunda al ideal meritocrático, analizando sus implicaciones en la cohesión social y la justicia. Es una lectura esencial para comprender cómo el énfasis en el mérito puede tener efectos contraproducentes en la sociedad contemporánea.
 
-- :book: **Pérez, M. (2022)**. *“El mito de la meritocracia en la educación: desafíos y perspectivas críticas.”* Revista de Educación y Sociedad, 18* (2), 123–145.
+- :book: **Pérez, M. (2022)**. *“El mito de la meritocracia en la educación: desafíos y perspectivas críticas.”* Revista de Educación y Sociedad, 18\* (2), 123–145.
 
     El trabajo analiza el impacto de la meritocracia en la práctica educativa, explorando sus limitaciones y proponiendo alternativas que valoren el proceso de aprendizaje integral sobre el simple rendimiento medible.
 
