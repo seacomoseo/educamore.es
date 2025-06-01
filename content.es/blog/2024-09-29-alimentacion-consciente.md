@@ -1,6 +1,6 @@
 ---
 slug: alimentacion-consciente
-title: Alimentación Consciente
+title: Alimentación consciente
 image: blog/alimentacion-consciente.webp
 summary: En la era de la inmediatez y rodeados de una sociedad con un ritmo frenético y acelerado, surge la necesidad de poner sordina al acto de comer…
 

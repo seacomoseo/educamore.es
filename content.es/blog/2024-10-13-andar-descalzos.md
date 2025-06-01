@@ -1,6 +1,6 @@
 ---
 slug: andar-descalzos
-title: Andar Descalzos
+title: Andar descalzos
 image: blog/andar-descalzos.webp
 summary: Pasamos parte de nuestro tiempo dedicando cuidados al cuerpo, al pelo, las uñas… Incluso visitando al fisioterapeuta o al osteópata si nos aqueja…
 

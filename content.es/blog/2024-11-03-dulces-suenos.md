@@ -1,6 +1,6 @@
 ---
 slug: dulces-suenos
-title: Dulces Sueños
+title: Dulces sueños
 image: blog/dulces-suenos.webp
 summary: Son muchos los motivos que pueden llevar a un niño de edad escolar a pasar una mala noche. Con ciclos en los que se despierten en varias ocasiones…
 

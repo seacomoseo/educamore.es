@@ -1,6 +1,6 @@
 ---
 slug: sorpresa-humor
-title: Sorpresa y Humor
+title: Sorpresa y humor
 image: blog/sorpresa-humor.webp
 summary: 'A los tres años los niños atraviesan distintas etapas en su forma de entender el humor: primero reconocen lo absurdo, luego disfrutan de pequeñas…'
 
