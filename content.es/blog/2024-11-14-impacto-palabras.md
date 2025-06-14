@@ -137,6 +137,10 @@ La atención plena te permite ser consciente de tus pensamientos, emociones y re
 
 🙏🏽 Gracias por prestarte este momento de atención.
 
+## :face-spiral-eyes: Les puede interesar
+
+![](https://youtu.be/EfwORrUosKg)
+
 ## :books: Reseña bibliográfica
 
 - :link:  [marioalonsopuig.com](https://marioalonsopuig.com/)

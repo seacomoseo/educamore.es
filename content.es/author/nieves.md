@@ -3,7 +3,8 @@ slug: nieves
 title: Nieves
 image: snows/maestra.jpg
 
-job: Maestra de Educación Infantil
+job:
+- Maestra de Educación Infantil
 social: []
 
 toc: false
