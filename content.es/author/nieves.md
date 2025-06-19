@@ -5,7 +5,7 @@ image: snows/maestra.jpg
 
 job:
 - Maestra de Educación Infantil
-social: []
+as: []
 
 toc: false
 draft: false

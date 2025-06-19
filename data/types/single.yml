@@ -7,7 +7,7 @@ tpl:
   section:
   - alpha: .7
     parallax: fix
-    underline: true
+    line: true
     div: curve-side
     div_x: false
     div_y: false

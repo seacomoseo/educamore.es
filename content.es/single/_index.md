@@ -31,7 +31,7 @@ organization:
   images:
   - snows/pizarra.jpg
   - snows/maestra.jpg
-  social: []
+  as: []
   phones: []
   address:
     name: C.E.I.P. Francisco Noguera - Público

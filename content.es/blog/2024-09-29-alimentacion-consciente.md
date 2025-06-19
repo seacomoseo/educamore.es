@@ -214,6 +214,10 @@ He aquí los problemas más comunes relacionados con la ingesta de azúcar:
 
 {{% / bg %}}
 
+Información **MUY** recomendable:
+
+- :link: [¿Dónde se oculta el azúcar?](https://docs.google.com/presentation/d/1RqgBQ3LnaUgJiTmlK2abyiwy8tbksP7mLs8rJvophLU/edit)
+
 {{% bg white %}}
 
 ### Consejitos
