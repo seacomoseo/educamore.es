@@ -8,6 +8,7 @@ box:
   gap_vs: 2
   gap_ny: 3
 boxes:
+
 - box:
     align_y: center
     align: left
@@ -26,6 +27,7 @@ boxes:
       Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
 
       [Leer más…](/nieves/)
+
 - box:
     align_y: center
     align: left
@@ -52,3 +54,9 @@ boxes:
       Descubre "Pata de canguro" y redescubre el placer de aprender.
 
       [[:hand-point-up: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
+
+- fit: .8
+  ratio: 1/1
+  image: presentacion-pata-de-canguro-2025-09-12.jpg
+  link: presentacion-pata-de-canguro-2025-09-12.jpg
+  button: hide

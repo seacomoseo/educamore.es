@@ -13,8 +13,8 @@ tpl:
   - file: presentacion
   - file: blog
 
-base: organization
-organization:
+base: org
+org:
   types:
   - Organization
   names:
