@@ -126,9 +126,3 @@
 #terrores-nocturnos + p + .alert:not(#aux) {
   margin-top: 1em;
 }
-
-
-// Hide lastmod in lists
-.box:not(.container) > .box__tags > .box__tag:nth-child(2) {
-  display: none;
-}

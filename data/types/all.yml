@@ -37,3 +37,5 @@ tpl:
     button: hide
     tags:
     - type: date
+      hide_hour: true
+      hide_lastmod: true
