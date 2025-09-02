@@ -1,0 +1,22 @@
+name: Base ➡️ Contenido
+node: div
+if: content
+id: content
+pt: 0
+md: |
+  {{< content >}}
+
+  ---
+
+  **Contenido bajo** \
+  [
+    Licencia 
+    :cc-logo:
+    :cc-by:
+    :cc-nc:
+    :cc-sa:
+    4.0
+  ](https://creativecommons.org/licenses/by-nc-sa/4.0/ "[nofollow]")
+  {#cc .align-center}
+md_nav: true
+md_index: true

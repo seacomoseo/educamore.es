@@ -1,0 +1,58 @@
+name: Presentación
+hanchor: EducAmore ❤️ Blog sobre Educación con Amor
+pt: 6
+box:
+  align_y: center
+  align: left
+  gap_vs: 2
+  gap_ny: 3
+boxes:
+- box:
+    align_y: center
+    align: left
+    gap_ny: 1
+  boxes:
+  - fit: 0.3
+    fit_vs: 0.8
+    image: snows/maestra.jpg
+    ratio: 1/1
+  - fit: 0.5
+    fit_vs: 1
+    title: Sobre mi
+    md: |
+      ¡Hola! Soy Nieves, maestra de Educación  Infantil.
+
+      Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
+
+      [Leer más…](/nieves/)
+- box:
+    align_y: center
+    align: left
+    gap_ny: 2
+  boxes:
+  - fit: 0.4
+    fit_vs: 1
+    image: https://m.media-amazon.com/images/I/71AZ-9qXWVL._SL900_.jpg
+    hover: https://m.media-amazon.com/images/I/61s5IN50OIL._SL900_.jpg
+    order: 2
+    id: libro
+    hide_shadow: true
+  - fit: 0.4
+    fit_vs: 1
+    align_vl: right
+    title: Libro 'Pata de canguro'
+    md: |
+      ¿Y si la educación pudiera ser más libre, amorosa y auténtica?
+
+      Pata de canguro es una invitación a transformar la manera en que aprendemos, criamos y vivimos. Inspirado en la pedagogía, la naturaleza, la conciencia emocional y la espiritualidad, este libro te guía hacia espacios más humanos, donde el juego, la emoción y el vínculo son protagonistas.
+
+      Un manifiesto para reconectar con nuestro niño interior y acompañar a nuestros pequeños desde el respeto, la creatividad y el amor.
+
+      Descubre "Pata de canguro" y redescubre el placer de aprender.
+
+      [[:hand-point-up: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
+- fit: 0.8
+  ratio: 1/1
+  image: presentacion-pata-de-canguro-2025-09-12.jpg
+  link: presentacion-pata-de-canguro-2025-09-12.jpg
+  button: hide

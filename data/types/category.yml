@@ -1,5 +1,5 @@
 title: Categorías
-order: 2
+weight: 2
 base: page
 tax_of:
 - name: blog
@@ -12,7 +12,7 @@ tax_of:
 tpl:
   list:
     align: center
-    icon: ''
+    icon: hide
     md: hide
     button: cta
     pin: plus

@@ -4,14 +4,14 @@ custom:
   name: blog
   related: true
   es:
-    permalinks: ''
+    permalinks: /
 
 - base: author
   tax_of:
   - name: blog
     schema: author
   es:
-    permalinks: ''
+    permalinks: /
 
 - base: page
   name: category

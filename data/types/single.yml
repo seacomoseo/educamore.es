@@ -1,11 +1,10 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
 tpl:
-  callnow:
-    show: auto
+  callnow: auto
   section:
-  - alpha: .7
+  - alpha: 0.7
     parallax: fix
     line: true
     div: curve-side
