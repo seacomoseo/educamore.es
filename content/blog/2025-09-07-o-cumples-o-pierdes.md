@@ -106,9 +106,9 @@ De modo que debemos hacer un ejercicio de plena conciencia basado en aspectos cl
 {.compare}
 
 
-- ::🔑:: **Diferencia:** en el segundo caso el adulto **mantiene el amor incondicional**, marca un límite claro y aplica una **consecuencia lógica y proporcional** (el juguete se guarda), sin recurrir a la culpa o al miedo.
+- :key: **Diferencia:** en el segundo caso el adulto **mantiene el amor incondicional**, marca un límite claro y aplica una **consecuencia lógica y proporcional** (el juguete se guarda), sin recurrir a la culpa o al miedo.
     - **Buscar apoyo y autocuidado:** terapia, grupos, descanso, tiempo sin exigencias familiares.
-    - **Fomentar la reparación emocional** post-conflicto: *“Hoy me pasé, ¿me perdonas?”, *“la próxima vez que yo esté enfadado por cosas del trabajo, esperaré a que se me pase antes de responderte”*. 
+    - **Fomentar la reparación emocional** post-conflicto: *“Hoy me pasé, ¿me perdonas?”*, *“la próxima vez que yo esté enfadado por cosas del trabajo, esperaré a que se me pase antes de responderte”*. 
 
 ## Del chantaje a la comunicación respetuosa
 
@@ -131,7 +131,7 @@ Os adjunto una tabla muy visual donde aparecen ejemplos representativos de frase
 
 ## Consecuencias
 
-Ya hemos visto que lo que decimos al niño y cómo lo expresamos deriva en unas consecuencias emocionales que impactan en la construcción vincular del niño, analicemos de qué manera una a una: 
+Las palabras no son neutras: influyen directamente en la seguridad emocional del niño y en el vínculo que establecemos. Detengámonos a mirar de qué manera ocurre, punto por punto.
 
 ### Inseguridad afectiva (miedo a perder el amor)
 
