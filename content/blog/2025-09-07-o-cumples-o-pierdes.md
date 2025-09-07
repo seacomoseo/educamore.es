@@ -201,7 +201,7 @@ A veces no nos damos cuenta de lo moldeables e influenciables que son los peque�
 
 Pues recuerden esas *“palabras como flechas”*. Esos momentos en los que nos sentimos volcán en erupción y decimos o hacemos algo a los niños que les queda como una herida, una exigencia, una condición justo en un momento en el cual se está formando su autoestima y su autoconcepto (cómo me valoro, de qué soy capaz, qué pienso de mí…)
 
-Importante recordarles aquí el contenido del artículo *“El impacto de tus palabras”*. Te invito a leerlo de nuevo si aún no lo has hecho. 
+Importante recordarles aquí el contenido del artículo [El impacto de tus palabras](/impacto-palabras/). Te invito a leerlo si aún no lo has hecho. 
 
 Todos fuimos niños que, en mayor o menor medida, escuchamos frases cargadas de culpa, miedo o comparación. Hoy somos adultos que, con las herramientas que tenemos, intentamos hacerlo lo mejor posible. Reconocer esas heridas no es para culparnos, sino para **sanar y elegir otra manera de relacionarnos**. Cada vez que hablamos desde el amor y no desde el chantaje, regalamos a nuestros hijos la seguridad que quizá a nosotros nos faltó. Y con ese gesto sencillo, **escribimos una nueva historia de cuidado y confianza**.
 
