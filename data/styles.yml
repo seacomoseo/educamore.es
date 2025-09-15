@@ -3,10 +3,6 @@ icons:
   sharp: false
   emojis: false
   play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
 fonts:
   base:
     google: false
