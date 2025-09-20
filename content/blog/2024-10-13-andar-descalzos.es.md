@@ -70,9 +70,9 @@ Nuestro cuerpo funciona como un conductor natural que necesita del contacto de n
 
 {{% / bg %}}
 
-El libro “**Earthing, con los pies descalzos. Conéctate a la Tierra y te sentirás mejor**”, ha sido mi gran descubrimiento de 2024. Venía leyendo bastante sobre el tema de la pisada, de cómo los zapatos deforman la figura natural de nuestros pies, nuestra anatomía plantar, es donde nacen muchos de los dolores que nos torturan cada día. A veces, detrás de un dolor de rodilla o de cadera, el origen está ahí abajo. 
+El libro “**Earthing, con los pies descalzos. Conéctate a la Tierra y te sentirás mejor**”, ha sido mi gran descubrimiento de 2024. Venía leyendo bastante sobre el tema de la pisada, de cómo los zapatos deforman la figura natural de nuestros pies. Nuestra anatomía plantar es donde nacen muchos de los dolores que nos torturan cada día. A veces, detrás de un dolor de rodilla o de cadera, el origen está ahí abajo. 
 
-Lo maravilloso de este libro es, que además de invitarte a andar sin zapatos por el bien de tus pies, como leeréis más abajo, que al hacerlo en superficies naturales, además, están mejorando tu salud y, por tanto, tu calidad de vida. Os dejo un fragmento del libro donde vais a entender de qué os hablo: 
+Lo maravilloso de este libro es que, además de invitarte a andar sin zapatos por el bien de tus pies (como leeréis más abajo), al hacerlo en superficies naturales está mejorando tu salud y, por tanto, tu calidad de vida. Os dejo un fragmento del libro donde vais a entender de qué os hablo: 
 
 {{% bg white %}}
 
