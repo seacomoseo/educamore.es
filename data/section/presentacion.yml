@@ -54,11 +54,11 @@ boxes:
 
       [[:hand-point-up: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
 
-# - fit: 0.8
-#   ratio: 1/1
-#   image: presentacion-pata-de-canguro-2025-09-26.jpg
-#   link: presentacion-pata-de-canguro-2025-09-26.jpg
-#   button: hide
+- fit: 0.8
+  ratio: 1/1
+  image: presentacion-pata-de-canguro-2025-11-15.jpg
+  link: presentacion-pata-de-canguro-2025-11-15.jpg
+  button: hide
 
 - fit: 0.8
   image: calendario-escolar-2025-2026.jpg
