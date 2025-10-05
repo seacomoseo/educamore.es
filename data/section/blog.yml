@@ -2,8 +2,8 @@ name: Blog
 title: Blog
 icon: blog
 icon_type: side
+space: 3
 box:
-  gap_vs: 1.5
   space: 0.5
   icon_type: side
 boxes:
@@ -13,7 +13,6 @@ boxes:
     type: blog
     category:
     - padres
-    # max: 12
   box:
     slider: true
 - icon: children
@@ -22,6 +21,5 @@ boxes:
     type: blog
     category:
     - ninos
-    # max: 12
   box:
     slider: true
