@@ -14,6 +14,7 @@ boxes:
     category:
     - padres
   box:
+    gap_vs: 1.5
     slider: true
 - icon: children
   title: Escuela de Niños
@@ -22,4 +23,5 @@ boxes:
     category:
     - ninos
   box:
+    gap_vs: 1.5
     slider: true
