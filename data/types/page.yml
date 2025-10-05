@@ -3,8 +3,11 @@ weight: 100
 tpl:
   list:
     cols: 3
+    card: false
+    color: similar
+    shade: true
+    inset: true
     align: center
-    icon: hide
     md: hide
     button: cta
     pin: plus

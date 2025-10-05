@@ -13,11 +13,15 @@ boxes:
     type: blog
     category:
     - padres
-    max: 12
+    # max: 12
+  box:
+    slider: true
 - icon: children
   title: Escuela de Niños
   list:
     type: blog
     category:
     - ninos
-    max: 12
+    # max: 12
+  box:
+    slider: true

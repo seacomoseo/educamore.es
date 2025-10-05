@@ -21,11 +21,7 @@ tpl:
   - file: base-related
   list:
     cols: 3
-    color: white
-    icon: hide
-    shade: true
-    ratio: 16/9
-    inset: true
+    card: true
     align: left
     button: hide
     tags:
