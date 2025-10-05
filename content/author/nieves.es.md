@@ -13,7 +13,7 @@ description: null # string
 
 ¡Hola! Soy Nieves, maestra de Educación  Infantil.
 
-Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
+Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
 
 Poniendo conciencia en el SER más que en el hacer.
 

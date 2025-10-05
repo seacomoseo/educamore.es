@@ -2,9 +2,9 @@
 slug: inicio
 title: Inicio
 image: snows/pizarra.jpg
-summary: ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
+summary: ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
 seo: EducAmore ❤️ Blog sobre Educación con Amor
-description: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto de su esencia única.
+description: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
 tpl:
   section:
   - size: md
