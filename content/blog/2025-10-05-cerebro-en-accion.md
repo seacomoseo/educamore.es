@@ -55,7 +55,7 @@ Estas capacidades no se enseñan con fichas, sino **jugando, experimentando y ac
 - ::🪁:: **Ejemplos:**
     - Clasificar objetos primero por color y luego por forma.
     - Cambiar la regla del juego a mitad de partida (*“ahora gana quien toque algo azul”*).
-    - Probar distintos materiales para resolver un mismo reto. (Rompecabezas con piezas que encajan en más de una forma, pedir que lo hagan de manera diferenta)
+    - Probar distintos materiales para resolver un mismo reto. (Rompecabezas con piezas que encajan en más de una forma, pedir que lo hagan de manera diferente)
 
 #### Planificación y organización
 
