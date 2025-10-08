@@ -3,9 +3,10 @@ node: aside
 if: related
 id: related
 title: '{{% i18n related %}}'
-size: md
+size: xl
 list:
   type: related
   max: 999
 box:
+  cols: 5
   slider: true

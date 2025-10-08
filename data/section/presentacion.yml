@@ -66,3 +66,8 @@ boxes:
   label: Descargar
   pin: file-pdf
   align: center
+
+- image: https://youtu.be/rwMIYfZAFBw
+  ratio: 16/9
+  align: center
+  title: Construyendo un Lector
