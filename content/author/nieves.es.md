@@ -1,7 +1,7 @@
 ---
 slug: nieves
 title: Nieves
-image: snows/maestra.jpg
+image: snows/maestra.mp4#mute
 
 job:
 - Maestra de Educación Infantil

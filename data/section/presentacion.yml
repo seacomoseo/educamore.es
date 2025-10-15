@@ -15,7 +15,7 @@ boxes:
   boxes:
   - fit: 0.3
     fit_vs: 0.8
-    image: snows/maestra.jpg
+    image: snows/maestra.mp4#mute
     ratio: 1/1
   - fit: 0.5
     fit_vs: 1
