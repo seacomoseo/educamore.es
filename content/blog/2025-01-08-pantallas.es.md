@@ -47,6 +47,8 @@ En resumen, el uso de smartphones debe ser controlado en esta etapa temprana. Au
 
 ## :heart-crack: Flaco favor
 
+{{% bg white %}}
+
 *“Menores de edad, no de derechos digitales”* (Así titula el eslogan de la campaña de Unicef España y la Fundación Atresmedia), y parece que si nos hablan de derechos, lo tienen todo ganado. Pero hay una cuestión muy importante que debemos poner sobre la mesa, y es que **un niño de edad infantil no tiene la madurez para hacer un uso responsable de las tecnologías** ni de las pantallas. En cierto modo, es como darle un cuchillo y esperar que no se corte. 
 
 Aquí lo fácil es hacer lo que hace la mayoría, dejarle el móvil al niño. Lo cómodo es ponerlos delante de una pantalla para que los hipnotice, para que no se muevan, para que no molesten. Mientras papá y mamá comen “tranquilos”, su hijo pasa de un vídeo a otro sin control ni explicación de lo que está viendo. Con los anuncios pertinentes que no se pueden “saltar”, sean los que sean. Los raros aquí, la minoría, son los adultos que deciden no comprar un móvil a sus hijos hasta la mayoría de edad, o los que no conceden minutos como premios consumiendo pantallas a los hijos pequeños si hacen tal cosa…
@@ -56,6 +58,10 @@ No hace mucho, una operadora de telefonía publicó lo que vino a llamar “la s
 La mejor prevención es no poner en sus manos un dispositivo. 
 
 ¿Sabes que ya hay estudios sobre bebés que han identificado por primera vez una emoción en un smartphone antes que en la cara de su propia madre? A mí me parece desolador.
+
+(Catherine L´Ecuyer)
+
+{{% / bg %}}
 
 ## :eye: Lo que nadie te cuenta
 
