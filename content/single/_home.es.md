@@ -29,7 +29,10 @@ org:
   images:
   - snows/pizarra.jpg
   - snows/maestra.jpg
-  as: []
+  as:
+  - https://www.instagram.com/educamore_
+  - https://www.facebook.com/educamore.infantil/
+  - https://www.youtube.com/@educamore
   phones: []
   address:
     name: C.E.I.P. Francisco Noguera - Público

@@ -5,6 +5,10 @@ menu:
   subtitle: Educación con Amor
 footer:
   div: curve-side
+  dots:
+  - https://www.instagram.com/educamore_
+  - https://www.facebook.com/educamore.infantil/
+  - https://www.youtube.com/@educamore
   md: |
     - :copyright:      {{< internal-link index >}}
     - :scale-balanced: {{< internal-link legal >}}
