@@ -148,9 +148,9 @@ A continuación verás cómo aterrizar esto en casa, con ejemplos claros para es
 
 - **Qué es:** panel con verde/amarillo/rojo para regularse.
 - **Uso:**
-    - Verde: *“lo haces tú solo”*
-    - Amarillo: *“te recuerdo los pasos”*
-    - Rojo: *“lo hacemos juntos”*
+    - ::🟢:: Verde: *“lo haces tú solo”*
+    - ::🟡:: Amarillo: *“te recuerdo los pasos”*
+    - ::🔴:: Rojo: *“lo hacemos juntos”*
 - **Objetivo:** pasar de rojo → amarillo → verde a lo largo de la semana.
 
 El refuerzo positivo es nuestro mejor aliado: *“me gusta mucho cuando me dices las cosas sin llorar”*.* Le da pistas al niño de por dónde sí es.
@@ -199,7 +199,7 @@ De 0 a 6 años: ¿cuánto tiempo se aconseja su uso? → **0 minutos**
 
     - Cartel en la nevera con 4 líneas: **dónde**, **cuándo**, **cuánto**, **qué**.
     - Cesta de dispositivos en la entrada; cargadores fuera de las habitaciones, (para todos los componentes de la familia, recuerden que papá y mamá educan con el ejemplo).
-    - Si se incumple: **consecuencia lógica** (*“mañana no hay turno de pantalla”* en referencia a ver la TV).
+    - Si se incumple: **consecuencia lógica** (*“mañana no hay turno de pantalla”*, en referencia a ver la TV).
 
 ### Dormir a su hora (el sueño es *“fertilizante”* del aprendizaje)
 
