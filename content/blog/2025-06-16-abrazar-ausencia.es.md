@@ -198,12 +198,13 @@ Consulta con un psicólogo si te cuesta la aceptación de la pérdida.
 
 **Para niños de entre 4 y 10 años:**
 
-- ::🐞:: "*Vacío"* (Anna Llenas, 2015), Barbara Fiore. ([casadellibro.com](https://www.casadellibro.com/libro-vacio/9788415208723/2741192?srsltid=AfmBOoqlW4bsfJTRI_r93jTNbUOBYH9V3ou3U5hzFEzaxtsyK2zoraFF&utm_source=chatgpt.com))
+- ::🐞:: *"Vacío"* (Anna Llenas, 2015), Barbara Fiore. ([casadellibro.com](https://www.casadellibro.com/libro-vacio/9788415208723/2741192?srsltid=AfmBOoqlW4bsfJTRI_r93jTNbUOBYH9V3ou3U5hzFEzaxtsyK2zoraFF&utm_source=chatgpt.com))
     - ::✦:: Explora el sentimiento de "agujero" interior y la resiliencia. \
     (Es uno de mis preferidos, recomendado para todas las edades)
-
-- ::🦊:: "*Para siempre"* (*Always and Forever*) (Alan Durant & Debi Gliori, 2004) Harcourt. ([amazon.com](https://www.amazon.com/Always-Forever-Alan-Durant/dp/015216636X?utm_source=chatgpt.com))
+- ::🦊:: *"Para siempre"* (*Always and Forever*) (Alan Durant & Debi Gliori, 2004) Harcourt. ([amazon.com](https://www.amazon.com/Always-Forever-Alan-Durant/dp/015216636X?utm_source=chatgpt.com))
     - ::✦:: Destaca el recuerdo compartido como forma de continuidad.
+- ::👵:: *"La Abuela Durmiente"* (*Always and Forever*) -- Roberto Parmeggiani y Joao Vaz de Carvalho.
+    - ::✦:: Es un emotivo álbum ilustrado perteneciente a la colección Libros para Soñar, de la editorial Kalandraka, que explica la pérdida que sufre el niño protagonista al ver cómo su abuela empieza a perder la cabeza, después queda postrada en la cama y, finalmente, fallece.
 
 ## Cierre
 
