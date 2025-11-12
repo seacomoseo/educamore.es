@@ -126,3 +126,12 @@
 #terrores-nocturnos + p + .alert:not(#aux) {
   margin-top: 1em;
 }
+// cancelled
+.cancelled {
+  position: absolute;
+  top: 50%;
+  translate: 0 -75%;
+  font-size: .6em;
+  text-align: center;
+  background-color: RGB(255 0 0 / 70%);
+}
