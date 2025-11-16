@@ -190,7 +190,7 @@ Los cuentos son una herramienta fantástica para que los niños vean su emoción
 - :link: [“Vaya rabieta”](https://www.casadellibro.com/libro-vaya-rabieta/9788484701477/974694) – **Mireille d’Allancé (Corimbo)** \
     Roberto tiene un día horrible y una *“Cosa”* roja y furiosa sale de su interior y lo rompe todo. El cuento muestra muy bien cómo crece la rabia y cómo, cuando se calma, puede reparar lo que ha pasado. Ideal para hablar de responsabilidad sin culpa excesiva.
 - :link: [“Cuando estoy enfadado”](https://www.casadellibro.com/libro-cuando-estoy-enfadado/9788467516791/1142918) – **Trace Moroney (SM, colección Sentimientos)** \
-    A través de un conejito, se describe con metáforas muy visuales cómo se siente el cuerpo cuando uno está enfadado (“como un volcán en erupción”*) y qué cosas ayudan a calmarse. Perfecto para poner palabras a lo que vive el niño.
+    A través de un conejito, se describe con metáforas muy visuales cómo se siente el cuerpo cuando uno está enfadado (*“como un volcán en erupción”*) y qué cosas ayudan a calmarse. Perfecto para poner palabras a lo que vive el niño.
 - :file-pdf: [“El monstruo de colores”](https://www.educacionbc.edu.mx/materialdeapoyo/public/site/pdf/educacionbasica/preescolar/libromonstruodecolores.pdf) – **Anna Llenas (Flamboyant)** \
     No es solo sobre la ira, sino sobre varias emociones básicas: alegría, tristeza, miedo, calma, enfado… El monstruo tiene todas mezcladas y aprende a ordenarlas. Es muy útil para introducir el vocabulario emocional y localizar *“el color”* de la ira.
 - :link: [“Tengo un volcán”](https://www.libreriamayo.com/PS/enfados-y-rabietas/8188-tengo-un-volcan-9788494820694.html) – **Miriam Tirado y Joan Turu (Carambuco)** \
