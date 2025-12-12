@@ -12,20 +12,20 @@
 
 // Book 3D
 
-#libro,
-#libro-modal {
+// #libro-modal,
+#libro {
   overflow: visible;
-  // @include fluid-size(--book-width, 1em, 15, 20);
-  // @include fluid-size(--book-height, 1em, 22.5, 30);
-  --book-width: 20em;
-  --book-height: 30em;
+  @include fluid-size(--book-width, 1em, 15, 20);
+  @include fluid-size(--book-height, 1em, 22.5, 30);
+  // --book-width: 20em;
+  // --book-height: 30em;
   --book-deep: 2em;
   --book-deep-half: calc(var(--book-deep) / 2);
   --book-deep-half-minus: calc(-1 * var(--book-deep-half));
   --book-radius: .125em;
   --book-offset: .25em;
-  // perspective: 37.5em;
-  perspective: 70em;
+  perspective: 37.5em;
+  // perspective: 70em;
   perspective-origin: center;
   filter: drop-shadow($shadow);
   .image {
@@ -35,7 +35,7 @@
     transform-style: preserve-3d;
     overflow: visible;
     animation: 6s 0s bookFloat infinite linear;
-    margin-block: auto;
+    // margin-block: auto;
   }
   .image:hover {
     transform: rotateY(0deg);
