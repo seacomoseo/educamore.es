@@ -363,7 +363,7 @@ No se trata de cumplir un manual, sino de ir afinando, poco a poco, cómo **esta
 - :book: Siegel, Daniel J. & Bryson, Tina Payne (2012). *El cerebro del niño.* Alba Editorial.
 - :book: Soler, Alberto & Roger, Concepción. *La gran guía de la crianza.*
 
-![Vídeo de Pablo Flores Laymus](https://youtu.be/igGrCQ777CY?si=cY46uEb04uMhWruu)
+![16/9](https://youtu.be/igGrCQ777CY?si=cY46uEb04uMhWruu)
 
 > :quote-left: Nada dice más del alma de una sociedad que la forma en que trata a sus hijos :quote-right:
 > <cite>Mark Twain</cite>
