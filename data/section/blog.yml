@@ -18,6 +18,7 @@ boxes:
     cols: 4
     # gap_vs: 1.5
     slider: true
+    time: 5
 - icon: children
   title: Escuela de Niños
   list:
@@ -28,3 +29,4 @@ boxes:
     cols: 4
     # gap_vs: 1.5
     slider: true
+    time: 5
