@@ -1,7 +1,7 @@
 ---
-slug: crecer-en-presencia
-title: Crecer en presencia
-image: blog/crecer-en-presencia.jpg
+slug: papa-mama
+title: Papá y Mamá
+image: blog/papa-mama.jpg
 summary: 'En la vida de un niño suceden cosas enormes dentro de cuerpos diminutos: se enfadan “a lo grande”, aman “a lo grande”, tienen miedo “a lo grande”. Todo es intenso, nuevo y, muchas veces, un poco desbordante.'
 date: 2025-12-11 00:00:00
 author: nieves
@@ -9,6 +9,8 @@ category:
 - padres
 toc: true
 ---
+
+## Crecer en presencia
 
 En la vida de un niño suceden cosas enormes dentro de cuerpos diminutos: se enfadan *“a lo grande”*, aman *“a lo grande”*, tienen miedo *“a lo grande”*. Todo es intenso, nuevo y, muchas veces, un poco desbordante. Ellos todavía no tienen palabras para explicarlo, ni estrategias para calmarse solos, ni perspectiva para relativizar. Por eso, más que una madre o un padre perfectos, lo que necesitan son adultos **presentes**, que se dejen ver, que se dejen sentir, que estén disponibles y sean suficientemente **coherentes** como para que el niño pueda apoyarse en ellos.
 
@@ -22,7 +24,7 @@ No se trata de hacerlo perfecto, sino de atrevernos a estar presentes mientras a
 
 ## Papá
 
-**La Clave de la relación con papá**
+**La clave de la relación con papá**
 
 Aunque a menudo se habla más de la relación con mamá, el **lazo con nuestro padre** es fundamental para poder sentirnos seguros, **aceptar la vida** y desarrollarnos como individuos.
 
@@ -356,7 +358,7 @@ No se trata de cumplir un manual, sino de ir afinando, poco a poco, cómo **esta
 ## Referencias
 
 - :book: Bilbao, Álvaro (2015). *El cerebro del niño explicado a los padres.* Plataforma Editorial.
-- :book: Echavarría, A. (2005). *Intervención con niños desde la terapia Gestalt.* Revista Psicogente, 8(13), 69–79.
+- :book: Echavarría, A. (2005). *Intervención con niños desde la terapia Gestalt.* Revista Psicogente, 8 (13), 69–79.
 - :book: Estremera, Laura (2022). *Criar con apego seguro. Cómo acompañar a los más pequeños en el día a día.* Ariel.
 - :book: Mortola, P. (2021). *El Método Oaklander: aprender Gestalt infanto-juvenil con juego y arte*.
 - :book: Rams, A. (2013). *Ser padre hoy. Terapia Gestalt y paternidad*.
