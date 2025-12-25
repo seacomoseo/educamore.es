@@ -198,7 +198,7 @@ Los cuentos son una herramienta fantástica para que los niños vean su emoción
 - :link: [“Una tormenta de ira para Elvira”](https://www.libreriamayo.com/PS/enfados-y-rabietas/8154-una-tormenta-de-ira-para-elvira-9788491453345.html) – **Kochka y Sophie Bouxom (Picarona)** \
     Elvira se enfada tanto que desata una tormenta. A través de imágenes muy potentes, ayuda a los niños a ver qué pasa cuando la ira se descontrola y cómo se puede ir calmando.
 - :link: [“Moncho rabioso”](https://www.libreriamayo.com/PS/enfados-y-rabietas/6760-moncho-rabioso-9788412567373.html) – **Gracia Iglesias y Susana Rosique**
-- :link: [“Soy más fuerte que la ira”]((https://www.amazon.es/s?k=Soy+m%C3%A1s+fuerte+que+la+ira+%E2%80%93+Elizabeth+Cole.&__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=17EO2LS70PHUD&sprefix=soy+m%C3%A1s+fuerte+que+la+ira+elizabeth+cole+%2Caps%2C404&ref=nb_sb_noss)) – **Elizabeth Cole**.
+- :link: [“Soy más fuerte que la ira”](https://www.amazon.es/s?k=Soy+m%C3%A1s+fuerte+que+la+ira+%E2%80%93+Elizabeth+Cole) – **Elizabeth Cole**.
 
 Con estos cuentos podéis:
 
