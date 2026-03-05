@@ -56,12 +56,12 @@ boxes:
 
 - fit: 0.8
   ratio: 1/1
-  image: presentacion-pata-de-canguro-2025-11-15.jpg
-  link: presentacion-pata-de-canguro-2025-11-15.jpg
+  image: presentacion-pata-de-canguro-2026-03-29.jpg
+  link: presentacion-pata-de-canguro-2026-03-29.jpg
   button: hide
-  md: |
-    ==Se pospone hasta nuevo aviso==
-    {.cancelled}
+  # md: |
+  #   ==Se pospone hasta nuevo aviso==
+  #   {.cancelled}
 
 - fit: 0.8
   image: calendario-escolar-2025-2026.jpg
