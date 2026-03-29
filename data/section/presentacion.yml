@@ -59,9 +59,9 @@ boxes:
   image: presentacion-pata-de-canguro-2026-03-29.jpg
   link: presentacion-pata-de-canguro-2026-03-29.jpg
   button: hide
-  # md: |
-  #   ==Se pospone hasta nuevo aviso==
-  #   {.cancelled}
+  md: |
+    ==Se pospone al 12 de abril==
+    {.cancelled}
 
 - fit: 0.8
   image: calendario-escolar-2025-2026.jpg
