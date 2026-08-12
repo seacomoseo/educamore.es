@@ -1,11 +1,11 @@
 ---
 slug: alimentacion-consciente
 title: Alimentación consciente
-image: blog/alimentacion-consciente.webp
-summary: En la era de la inmediatez y rodeados de una sociedad con un ritmo frenético y acelerado, surge la necesidad de poner sordina al acto de comer…
+img: /u/blog/alimentacion-consciente.webp
+sum: En la era de la inmediatez y rodeados de una sociedad con un ritmo frenético y acelerado, surge la necesidad de poner sordina al acto de comer…
 
 date: 2024-09-29 00:00:00
-lastmod: 2024-12-14 00:00:00
+mod: 2024-12-14 00:00:00
 author: nieves
 category:
 - padres

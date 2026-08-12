@@ -1,8 +1,8 @@
 ---
 slug: buena-educacion
 title: La buena educación
-image: blog/buena-educacion.jpg
-summary: 'Si te asomas hoy al interior de los centros educativos verás en muchas clases algo que preocupa: niños y adolescentes que se desinflan rápido…'
+img: /u/blog/buena-educacion.jpg
+sum: 'Si te asomas hoy al interior de los centros educativos verás en muchas clases algo que preocupa: niños y adolescentes que se desinflan rápido…'
 date: 2025-10-17 00:00:00
 author: nieves
 category:

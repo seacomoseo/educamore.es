@@ -1,8 +1,8 @@
 ---
 slug: tres-tristes-tigres
 title: Tres tristes tigres
-image: blog/tres-tristes-tigres.webp
-summary: Hay nudos que solo se desatan con agua salada. Nudos que aprietan en la garganta, en el pecho, en el alma… Las nubes no aguantan la lluvia para…
+img: /u/blog/tres-tristes-tigres.webp
+sum: Hay nudos que solo se desatan con agua salada. Nudos que aprietan en la garganta, en el pecho, en el alma… Las nubes no aguantan la lluvia para…
 date: 2025-09-21 00:00:00
 author: nieves
 category:

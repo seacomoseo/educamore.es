@@ -1,0 +1,13 @@
+name: Base ➡️ Relacionados
+node: aside
+if: rel
+id: rel
+size: xl
+boxes:
+- title: '{{% i18n rel %}}'
+  list:
+    type: rel
+    max: 999
+  box:
+    cols: 5
+    slider: true

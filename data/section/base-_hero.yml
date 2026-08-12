@@ -1,14 +1,14 @@
-name: Base ➡️ Cabecera
+name: Base ➡️ Hero
 node: header
-align: left
 boxes:
+- align: left
 - if: icon
-  params:
+  get:
   - to: title
   - to: icon
-  icon_type: side
+  icon_pos: side
 - if: not icon
-  params:
+  get:
   - to: title
 - tags:
   - type: type
@@ -17,6 +17,6 @@ boxes:
   - type: tax
     tax: category
 - if: image
-  params:
-  - from: image
-    to: image
+  get:
+  - from: img
+    to: img

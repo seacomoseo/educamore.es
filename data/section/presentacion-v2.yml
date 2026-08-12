@@ -1,59 +1,52 @@
 name: Presentación
-hanchor: EducAmore ❤️ Blog sobre Educación con Amor
-title: Principal
-icon: sparkles
-icon_type: side
 pt: 6
 size: xl
-
-box:
-  cols: 4
-  # gap_vs: 1.5
-  card: true
-  rate: 1/1.56
-  align: left
-  slider: true
-  time: 5
 boxes:
-
-- image: snows/nieves.mp4#mute
-  title: Sobre mi
-  md: |
-    ¡Hola! Soy Nieves, maestra de Educación  Infantil...
-  link: /nieves/
-  label: Leer más
-
-- id: libro
-  image: https://m.media-amazon.com/images/I/71AZ-9qXWVL._SL900_.jpg
-  hover: https://m.media-amazon.com/images/I/61s5IN50OIL._SL900_.jpg
-  hide_shadow: true
-  card: false
-  link: '#libro-mas'
-  button: hide
-
-- image: presentacion-pata-de-canguro-2025-11-15.jpg
-  link: presentacion-pata-de-canguro-2025-11-15.jpg
-  rate: 1/1
-  md: |
-    ==Se pospone hasta nuevo aviso==
-    {.cancelled}
-  button: hide
-
-- image: calendario-escolar-2025-2026.jpg
-  link: calendario-escolar-2025-2026.pdf
-  label: Descargar
-  pin: file-pdf
-  align: center
-
-- bi: https://i3.ytimg.com/vi_webp/rwMIYfZAFBw/sddefault.webp
-  ratio: 16/9
-  align: center
-  label: Construyendo un Lector
-  pin: youtube
-  link: '#construyendo-un-lector'
-
+- hanchor: EducAmore ❤️ Blog sobre Educación con Amor
+  title: Principal
+  icon: sparkles
+  icon_pos: side
+  box:
+    cols: 4
+    card: true
+    rate: 1/1.56
+    align: left
+    slider: true
+    time: 5
+  boxes:
+  - vid: /u/snows/nieves.mp4
+    mute: true
+    title: Sobre mi
+    md: |
+      ¡Hola! Soy Nieves, maestra de Educación  Infantil...
+    url: /nieves/
+    label: Leer más
+  - id: libro
+    img: https://m.media-amazon.com/images/I/71AZ-9qXWVL._SL900_.jpg
+    hover: https://m.media-amazon.com/images/I/61s5IN50OIL._SL900_.jpg
+    hide_shadow: true
+    card: false
+    url: '#libro-mas'
+    btn: hide
+  - img: /u/presentacion-pata-de-canguro-2025-11-15.jpg
+    url: /u/presentacion-pata-de-canguro-2025-11-15.jpg
+    rate: 1/1
+    md: |
+      ==Se pospone hasta nuevo aviso==
+      {.cancelled}
+    btn: hide
+  - img: /u/calendario-escolar-2025-2026.jpg
+    url: /u/calendario-escolar-2025-2026.pdf
+    label: Descargar
+    pin: file-pdf
+    align: center
+  - bi: https://i3.ytimg.com/vi_webp/rwMIYfZAFBw/sddefault.webp
+    ratio: 16/9
+    align: center
+    label: Construyendo un Lector
+    pin: youtube
+    url: '#construyendo-un-lector'
 modals:
-
 - id: libro-mas
   size: lg
   box:
@@ -63,7 +56,7 @@ modals:
   boxes:
   - fit: 0.4
     fit_vs: 1
-    image: https://m.media-amazon.com/images/I/71AZ-9qXWVL._SL900_.jpg
+    img: https://m.media-amazon.com/images/I/71AZ-9qXWVL._SL900_.jpg
     hover: https://m.media-amazon.com/images/I/61s5IN50OIL._SL900_.jpg
     order: 2
     id: libro-modal
@@ -82,9 +75,8 @@ modals:
       Descubre "Pata de canguro" y redescubre el placer de aprender.
 
       [[:hand-point-up: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
-
 - id: construyendo-un-lector
-  image: https://youtu.be/rwMIYfZAFBw
+  img: https://youtu.be/rwMIYfZAFBw
   ratio: 16/9
   ph: true
   size: lg

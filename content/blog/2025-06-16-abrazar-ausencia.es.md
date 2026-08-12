@@ -1,8 +1,8 @@
 ---
 slug: abrazar-ausencia
 title: Abrazar la ausencia
-image: blog/abrazar-ausencia.webp
-summary: Todo tiene un final, todo se acaba… Hablar de la muerte con los más pequeños sigue siendo, para muchos adultos, un terreno incómodo que…
+img: /u/blog/abrazar-ausencia.webp
+sum: Todo tiene un final, todo se acaba… Hablar de la muerte con los más pequeños sigue siendo, para muchos adultos, un terreno incómodo que…
 
 date: 2025-06-16 00:00:00
 author: nieves

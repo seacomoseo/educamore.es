@@ -1,13 +1,13 @@
 name: Blog
-title: Blog
-icon: blog
-icon_type: side
-space: 3
 size: xl
-box:
-  space: 0.5
-  icon_type: side
 boxes:
+- title: Blog
+  icon: blog
+  icon_pos: side
+  space: 3
+  box:
+    space: 0.5
+    icon_pos: side
 - icon: person-breastfeeding
   title: Escuela de Padres
   list:
@@ -16,7 +16,6 @@ boxes:
     - padres
   box:
     cols: 4
-    # gap_vs: 1.5
     slider: true
     time: 5
 - icon: children
@@ -27,6 +26,5 @@ boxes:
     - ninos
   box:
     cols: 4
-    # gap_vs: 1.5
     slider: true
     time: 5

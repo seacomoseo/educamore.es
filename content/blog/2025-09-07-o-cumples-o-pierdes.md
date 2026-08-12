@@ -1,8 +1,8 @@
 ---
 slug: o-cumples-o-pierdes
 title: O cumples o pierdes
-image: blog/o-cumples-o-pierdes.webp
-summary: Las vacaciones, caracterizadas por más horas para convivir en familia que el resto del año, con la exigencia de los más pequeños, buscando…
+img: /u/blog/o-cumples-o-pierdes.webp
+sum: Las vacaciones, caracterizadas por más horas para convivir en familia que el resto del año, con la exigencia de los más pequeños, buscando…
 
 date: 2025-09-07 00:00:00
 author: nieves

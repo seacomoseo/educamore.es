@@ -1,8 +1,8 @@
 ---
 slug: no-me-encuentro-bien
 title: No me encuentro bien
-image: blog/no-me-encuentro-bien.webp
-summary: A la preciosa edad de 3 años, los niños se encuentran en un momento crucial de su desarrollo físico y emocional. Durante esta etapa, el transcurso…
+img: /u/blog/no-me-encuentro-bien.webp
+sum: A la preciosa edad de 3 años, los niños se encuentran en un momento crucial de su desarrollo físico y emocional. Durante esta etapa, el transcurso…
 
 date: 2025-03-22 00:00:00
 author: nieves

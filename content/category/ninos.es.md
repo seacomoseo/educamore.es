@@ -1,12 +1,9 @@
 ---
 slug: escuela-ninos
 title: Escuela de Niños
-summary: null # string
-image: null # string
+sum: null # string
+img: null # string
 icon: children
-
-
-noindex: true
-seo: null # string
-description: null # string
+seo:
+  noindex: true
 ---

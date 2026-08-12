@@ -1,3 +1,6 @@
+@use 'css/_mixins' as mixins;
+@use 'css/_variables' as variables;
+
 // LOGO
 @keyframes heartbeat
 {
@@ -5,7 +8,7 @@
               60%    { transform: scale(1.075); }
     5%, 15%          { transform: scale(1.150); }
 }
-.logo__image {
+.logo__img {
   animation: heartbeat 3.5s 0s infinite;
 }
 
@@ -15,8 +18,8 @@
 // #libro-modal,
 #libro {
   overflow: visible;
-  @include fluid-size(--book-width, 1em, 15, 20);
-  @include fluid-size(--book-height, 1em, 22.5, 30);
+  @include mixins.fluid-size(--book-width, 1em, 15, 20);
+  @include mixins.fluid-size(--book-height, 1em, 22.5, 30);
   // --book-width: 20em;
   // --book-height: 30em;
   --book-deep: 2em;
@@ -27,8 +30,8 @@
   perspective: 37.5em;
   // perspective: 70em;
   perspective-origin: center;
-  filter: drop-shadow($shadow);
-  .image {
+  filter: drop-shadow(variables.$shadow);
+  .img {
     width: var(--book-width);
     height: var(--book-height);
     position: relative;
@@ -37,11 +40,11 @@
     animation: 6s 0s bookFloat infinite linear;
     // margin-block: auto;
   }
-  .image:hover {
+  .img:hover {
     transform: rotateY(0deg);
   }
-  .image__inner,
-  .image__inner--hover {
+  .img__in,
+  .img__in--hover {
     position: absolute;
     top: 0;
     left: 0;
@@ -52,13 +55,13 @@
     border-radius: 0 var(--book-radius) var(--book-radius) 0;
     opacity: 1;
   }
-  .image__inner--hover {
+  .img__in--hover {
     transform: translateZ(var(--book-deep-half-minus)) rotateY(180deg);
     background-color: #ee8db3;
     border-radius: var(--book-radius) 0 0 var(--book-radius);
   }
-  .image:before,
-  .image:after {
+  .img:before,
+  .img:after {
     position: absolute;
     content: ' ';
     left: 0;
@@ -67,30 +70,30 @@
     height: calc(var(--book-height) - var(--book-offset) * 2);
     transform: translateX(calc(var(--book-width) - var(--book-deep-half) - var(--book-offset))) rotateY(90deg);
     background: linear-gradient(90deg, 
-      $white 0%,
-      $light 5%,
-      $white 10%,
-      $light 15%,
-      $white 20%,
-      $light 25%,
-      $white 30%,
-      $light 35%,
-      $white 40%,
-      $light 45%,
-      $white 50%,
-      $light 55%,
-      $white 60%,
-      $light 65%,
-      $white 70%,
-      $light 75%,
-      $white 80%,
-      $light 85%,
-      $white 90%,
-      $light 95%,
-      $white 100%
+      variables.$white 0%,
+      variables.$light 5%,
+      variables.$white 10%,
+      variables.$light 15%,
+      variables.$white 20%,
+      variables.$light 25%,
+      variables.$white 30%,
+      variables.$light 35%,
+      variables.$white 40%,
+      variables.$light 45%,
+      variables.$white 50%,
+      variables.$light 55%,
+      variables.$white 60%,
+      variables.$light 65%,
+      variables.$white 70%,
+      variables.$light 75%,
+      variables.$white 80%,
+      variables.$light 85%,
+      variables.$white 90%,
+      variables.$light 95%,
+      variables.$white 100%
       );
   }
-  .image:after {
+  .img:after {
     left: 0;
     top: 0;
     height: 100%;

@@ -1,7 +1,2 @@
-langs:
-- lang: es
-  title: EducAmore
-  description: Blog sobre Educación con Amor
-  google_analytics: G-991Z9FWV1R
-others:
-  show: true
+ga4: G-991Z9FWV1R
+show: true

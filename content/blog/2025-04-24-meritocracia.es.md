@@ -1,8 +1,8 @@
 ---
 slug: meritocracia
 title: Meritocracia
-image: blog/meritocracia.webp
-summary: En el corazón de cada aula late el sueño de ver a nuestros pequeños crecer en un ambiente cálido y acogedor, donde cada niño sea celebrado por su unicidad y…
+img: /u/blog/meritocracia.webp
+sum: En el corazón de cada aula late el sueño de ver a nuestros pequeños crecer en un ambiente cálido y acogedor, donde cada niño sea celebrado por su unicidad y…
 
 date: 2025-04-24 00:00:00
 author: nieves

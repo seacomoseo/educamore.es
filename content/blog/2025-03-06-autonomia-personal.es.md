@@ -1,8 +1,8 @@
 ---
 slug: autonomia-personal
 title: Autonomía personal
-image: blog/autonomia-personal.webp
-summary: La crianza helicóptero es un estilo en el que los padres se involucran de manera excesiva en la vida de sus hijos, interviniendo en cada aspecto y…
+img: /u/blog/autonomia-personal.webp
+sum: La crianza helicóptero es un estilo en el que los padres se involucran de manera excesiva en la vida de sus hijos, interviniendo en cada aspecto y…
 
 date: 2025-03-06 00:00:00
 author: nieves

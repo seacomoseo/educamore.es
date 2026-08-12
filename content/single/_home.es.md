@@ -1,10 +1,11 @@
 ---
-slug: inicio
+slug: /
 title: Inicio
-image: snows/pizarra.jpg
-summary: ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
-seo: EducAmore ❤️ Blog sobre Educación con Amor
-description: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
+img: /u/snows/pizarra.jpg
+sum: ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
+seo:
+  title: EducAmore ❤️ Blog sobre Educación con Amor
+  desc: llll➤ ¡Hola! Soy Nieves, maestra de Educación  Infantil. Acompaño a los niños en su desarrollo como seres sociales, desde el respeto a su esencia única.
 tpl:
   section:
   - size: md
@@ -21,30 +22,30 @@ org:
   - EducAmore ❤️
   - Educación con Amor
   - María Nieves Lara Férez
-  description: null
+  desc: null
   legal: María Nieves Lara Férez
   nif: 48423725P
-  email: info@educamore.es
-  logo: base/icon.png
-  images:
-  - snows/pizarra.jpg
-  - snows/maestra.jpg
+  mail: info@educamore.es
+  logo: /u/base/icon.png
+  imgs:
+  - /u/snows/pizarra.jpg
+  - /u/snows/maestra.jpg
   as:
   - https://www.instagram.com/educamore_
   - https://www.facebook.com/educamore.infantil/
   - https://www.youtube.com/@educamore
   phones: []
   address:
-    name: C.E.I.P. Francisco Noguera - Público
+  - name: C.E.I.P. Francisco Noguera - Público
     street: C. Escuelas, 0
     pc: '30570'
     locality: Murcia
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.0786701,37.9690631]}'
-    link: null
+    url: null
   areas: []
-  schedule: []
+  when: []
   prices: null
   services: []
 ---

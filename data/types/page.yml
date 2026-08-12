@@ -4,10 +4,10 @@ tpl:
   list:
     cols: 3
     card: false
-    color: similar
+    color: such
     shade: true
     inset: true
     align: center
     md: hide
-    button: cta
+    btn: cta
     pin: plus

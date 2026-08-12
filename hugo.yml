@@ -2,10 +2,11 @@ baseURL: https://educamore.es
 buildFuture: true
 theme: [sansoul]
 params:
+  owner: seacomoseo
   domain: educamore.es
   name: educamore
   netlify_id: 02a37668-5d51-4cf5-b5d4-367cecfb871a
   netlify_hook: NjZkNzY0Y2Y2NjgxMjVhZTViMTJkZTZiCg==
   cloudflare_id: 
-  drive_link: https://drive.google.com/file/d/1X1dAebileXKSb1D4fTe39SB7AuTa_KVJ
+  drive_url: https://drive.google.com/file/d/1X1dAebileXKSb1D4fTe39SB7AuTa_KVJ
   drive_mails: snows.lafe@gmail.com

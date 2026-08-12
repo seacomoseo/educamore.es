@@ -5,11 +5,12 @@ tpl:
   callnow: auto
   section:
   - alpha: 0.7
-    parallax: fix
-    line: true
+    scroll: fix
     div: curve-side
     div_x: false
     div_y: false
+    box:
+      line: true
   - color: white
     div_x: true
     div_y: true

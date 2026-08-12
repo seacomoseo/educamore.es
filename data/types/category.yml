@@ -3,20 +3,20 @@ weight: 2
 base: page
 tax_of:
 - name: blog
-  multiple: true
-  breadcrumbs: true
+  multi: true
+  crumbs: true
   schema: articleSection
 - name: category
-  multiple: true
-  breadcrumbs: true
+  multi: true
+  crumbs: true
 tpl:
   list:
     cols: 3
     card: false
-    color: similar
+    color: such
     shade: true
     inset: true
     align: center
     md: hide
-    button: cta
+    btn: cta
     pin: plus

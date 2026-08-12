@@ -1,0 +1,4 @@
+- { from: /blog/periodo-adaptacion/ , to: /periodo-adaptacion/ }
+- { from: /qr-libro , to: https://www.unoeditorial.com/libros/pata-de-canguro/ }
+- { from: /dragon-ira/*www.amazon.es* , to: https://www.amazon.es/s?k=Soy+m%C3%A1s+fuerte+que+la+ira+%E2%80%93+Elizabeth+Cole }
+

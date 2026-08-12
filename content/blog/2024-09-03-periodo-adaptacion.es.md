@@ -1,8 +1,8 @@
 ---
 slug: periodo-adaptacion
 title: Periodo de adaptación
-image: blog/periodo-adaptacion.webp
-summary: 'Llega septiembre y con él arranca el primer día de clase. En este instante, se nos abre un abanico de opciones: 1. Que el niño nunca haya ido a…'
+img: /u/blog/periodo-adaptacion.webp
+sum: 'Llega septiembre y con él arranca el primer día de clase. En este instante, se nos abre un abanico de opciones: 1. Que el niño nunca haya ido a…'
 
 date: 2024-09-03 00:00:00
 author: nieves

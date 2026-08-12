@@ -1,8 +1,8 @@
 ---
 slug: dragon-ira
 title: El dragón de la ira
-image: blog/dragon-ira.jpg
-summary: La ira aparece como un volcán en erupción, como un dragón que escupe fuego. A veces llega silenciosa, como si nada, y de pronto… ¡boom!…
+img: /u/blog/dragon-ira.jpg
+sum: La ira aparece como un volcán en erupción, como un dragón que escupe fuego. A veces llega silenciosa, como si nada, y de pronto… ¡boom!…
 date: 2025-11-15 00:00:00
 author: nieves
 category:

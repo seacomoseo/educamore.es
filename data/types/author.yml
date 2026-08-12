@@ -1,8 +1,6 @@
 title: Autores
-weight: 3
+weight: 1
 base: author
 tax_of:
 - name: blog
   schema: author
-es:
-  permalinks: /

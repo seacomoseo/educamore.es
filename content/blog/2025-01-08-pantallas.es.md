@@ -1,8 +1,8 @@
 ---
 slug: pantallas
 title: Pantallas
-image: blog/pantallas.webp
-summary: 'Hoy quiero hablarles sobre un tema que es cada vez más relevante en la vida de nuestros pequeños: el uso de smartphones. Sabemos que estos…'
+img: /u/blog/pantallas.webp
+sum: 'Hoy quiero hablarles sobre un tema que es cada vez más relevante en la vida de nuestros pequeños: el uso de smartphones. Sabemos que estos…'
 
 date: 2025-01-08 00:00:00
 author: nieves

@@ -1,8 +1,8 @@
 title: Valores Globales
 menu:
-  image: base/icon.png
+  img: /u/base/icon.png
   title: EducAmore
-  subtitle: Educación con Amor
+  sub: Educación con Amor
 footer:
   div: curve-side
   dots:

@@ -1,8 +1,8 @@
 ---
 slug: cerebro-en-accion
 title: Cerebro en acción
-image: blog/cerebro-en-accion.jpg
-summary: 'El desarrollo infantil da un salto enorme a los cuatro años. Es una etapa de expansión: el niño pasa de “descubrir el mundo” a…'
+img: /u/blog/cerebro-en-accion.jpg
+sum: 'El desarrollo infantil da un salto enorme a los cuatro años. Es una etapa de expansión: el niño pasa de “descubrir el mundo” a…'
 date: 2025-10-05 00:00:00
 author: nieves
 category:
