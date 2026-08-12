@@ -171,7 +171,7 @@ El refuerzo positivo es nuestro mejor aliado: *“me gusta mucho cuando me dices
 - Que tu hijo **sepa qué viene después** (menos peleas, más autonomía).
 - Que asuma **una responsabilidad sencilla** cada día (rol).
 
-> :quote-left: Los niños hacen lo mejor que pueden :quote-right:
+> ::svg:ditto:: Los niños hacen lo mejor que pueden ::svg:ditto::
 > <cite>Jesper Juul</cite>
 
 Démosles un marco donde **puedan** hacerlo: previsibilidad, afecto y coherencia. Paso a paso, sin culpas y con constancia amable, la casa recupera el ritmo y el aula se convierte, otra vez, en un lugar para **aprender y disfrutar**.
@@ -188,14 +188,14 @@ Vamos a fomentar una desescalada digital con acuerdos visibles.
 
 De 0 a 6 años: ¿cuánto tiempo se aconseja su uso? → **0 minutos**
 
-- :heart: **Qué acordamos:**
+- ::favorite:: **Qué acordamos:**
 
     - **Edades:** 0–6 años → **pantallas desaconsejadas** (si aparece alguna situación puntual: muy breve, siempre acompañada y con sentido, ejemplo: videollamada con los abuelos).
     - **Dónde sí / dónde no:** **sí** en **salón** (a la vista de todos); **no** en **dormitorios** ni **en la mesa**.
     - **Cuándo:** nunca antes de dormir; en mayores (7+) tiempos cortos y programados.
     - **Qué y con quién:** contenidos acordados y, siempre que se pueda, **co-visionado** (ver y comentar juntos).
 
-- :heart: **Cómo se ve en casa:**
+- ::favorite:: **Cómo se ve en casa:**
 
     - Cartel en la nevera con 4 líneas: **dónde**, **cuándo**, **cuánto**, **qué**.
     - Cesta de dispositivos en la entrada; cargadores fuera de las habitaciones, (para todos los componentes de la familia, recuerden que papá y mamá educan con el ejemplo).
@@ -203,47 +203,47 @@ De 0 a 6 años: ¿cuánto tiempo se aconseja su uso? → **0 minutos**
 
 ### Dormir a su hora (el sueño es *“fertilizante”* del aprendizaje)
 
-- :heart: **Qué hacer esta semana:**
+- ::favorite:: **Qué hacer esta semana:**
 
     - Hora fija para **empezar rutina** (baño → cena → cuento → dormir).
     - **Pantallas: 0** por la noche; atenuar luces (luces rojas) y ruido; adelantar 15–30 min la hora de ir a la cama si hay despertares en mitad del sueño.
     - Ritual de cierre: *“tres cosas buenas del día”*.
 
-- :heart: **Señales de que vamos bien:** se duerme antes, menos irritabilidad matinal, más atención al empezar el cole.
+- ::favorite:: **Señales de que vamos bien:** se duerme antes, menos irritabilidad matinal, más atención al empezar el cole.
 
 ### Mover el cuerpo cada día (mínimo 60 minutos en edad escolar)
 
-- :heart: **Cómo sumar movimiento sin gimnasio:**
+- ::favorite:: **Cómo sumar movimiento sin gimnasio:**
 
     - **Camino activo** al cole (una parte a pie o patinete).
     - **Parque diario** 20–30 min: columpios, trepar, correr.
     - **Pausas activas** en tareas (3–5 min de saltos, sentadillas, estiramientos).
     - **Fin de semana:** ruta sencilla en familia, bici, juegos con balón.
 
-- :heart: **Truco:** pon el movimiento en la **agenda** como cualquier cita.
+- ::favorite:: **Truco:** pon el movimiento en la **agenda** como cualquier cita.
 
 ### Comer en familia (sin pantallas)
 
-- :heart: **Por qué funciona:** mejora la conversación, hábitos y señales de saciedad.
+- ::favorite:: **Por qué funciona:** mejora la conversación, hábitos y señales de saciedad.
 
-- :heart: **Cómo empezar:**
+- ::favorite:: **Cómo empezar:**
 
 - Quitar pantallas de la mesa; **turno de palabra** (la cuchara de la palabra: cada uno cuenta algo del día, pasa la cuchara cuando acaba de hablar).
 - **Roles**: *“ayudante de agua”*, *“servidor de ensalada”*.
 - Mini-ritual: gracias por algo concreto (*“gracias por poner la mesa”*).
 
-- :heart: **Si protestan:** *“En esta casa, **comemos sin pantallas**. Después de cenar, elegimos un juego: *“veo-veo”*, *“La oca”*...
+- ::favorite:: **Si protestan:** *“En esta casa, **comemos sin pantallas**. Después de cenar, elegimos un juego: *“veo-veo”*, *“La oca”*...
 
 ### Límites amables y firmes (pocas reglas, claras y sostenidas)
 
-- :heart: **Reglas tipo (cartel visible):**
+- ::favorite:: **Reglas tipo (cartel visible):**
 
     - Dormitorios **sin** pantallas.
     - Tareas antes de cenar.
     - Hablamos sin gritar: si me altero, **pausa** y vuelvo.
     - Todos colaboran con **un rol** diario.
 
-- :heart: **Cómo aplico sin gritar:**
+- ::favorite:: **Cómo aplico sin gritar:**
 
     - Anticipo: *“En 5 minutos guardamos”*.
     - Enuncio la regla: *“Aquí lo hacemos así…”*.
@@ -308,22 +308,22 @@ Sostener unas pocas reglas claras en casa **no es controlar,** es **cuidar.**
 
 En familia, tenemos un inmenso abanico de situaciones para crecer juntos. La mesa se convierte en escuela de conversación y pertenencia; los fines de semana se transforman en momentos para hacer cosas diferentes y pasar tiempo de calidad unidos; los límites, en carriles seguros para que los niños avancen sin miedo. Con presencia, consistencia y reparaciones sinceras, el hogar pasa de la lucha diaria a un **ritmo predecible** donde todos descansan mejor, se enfadan menos y aprenden más.
 
-No buscamos perfección, buscamos **constancia amable**: repetir lo importante hasta que el cerebro y el corazón de nuestros hijos lo reconozcan como hogar :heart:
+No buscamos perfección, buscamos **constancia amable**: repetir lo importante hasta que el cerebro y el corazón de nuestros hijos lo reconozcan como hogar ::favorite::
 
 ## Referencias
 
-- :link: Sociedad Española de Neurología: [Nace la Plataforma Control Z para promover un uso responsable de Internet entre los menores](https://www.sen.es/noticias-y-actividades/noticias-sen/3620-nace-la-plataforma-control-z-para-promover-un-uso-responsable-de-internet-entre-los-menores)
-- :link: [Pictotraductor](https://www.pictotraductor.com/)
-- :file-pdf: **Asociación Española de Pediatría (AEP)**. [Actualización de recomendaciones sobre el uso de pantallas en infancia y adolescencia](https://www.aeped.es/sites/default/files/20241205_ndp_aep_actualizacion_plan_digital_familiar_def.pdf) (2024) y [Plan Digital Familiar](https://plandigitalfamiliar.aeped.es/plandigitalfamiliar.php).
-- :file-pdf: **OMS/OPS**. [Directrices sobre actividad física, comportamiento sedentario y sueño para menores de 5 años* (ed. española)](https://iris.paho.org/bitstream/handle/10665.2/51805/9789275321836_spa.pdf).
-- :link: **UNICEF & AEPD**. [Más que un móvil: guía para familias](https://www.unicef.es/infancia-tecnologia/mas-que-un-movil) y materiales sobre bienestar digital.
-- :file-pdf: **UNICEF LAC**. [Pantallas en casa: Guía para familias](https://www.unicef.org/lac/media/41866/file/Pantallas-en-casa.pdf)
-- :link: **Ministerio de Educación y FP (España)**. Portal de [Convivencia Escolar](https://www.educacionfpydeportes.gob.es/mc/sgctie/convivencia-escolar.html) y [Aprendizaje dialógico y convivencia escolar: guía para las escuelas](https://www.libreria.educacion.gob.es/ebook/176109/free_download/).
-- :file-pdf: **Harvard – Center on the Developing Child (español)**. [Mejora y práctica de las habilidades de función ejecutiva y autorregulación](https://developingchild.harvard.edu/wp-content/uploads/2024/12/HCDC_EF-guide_Spanish_2020.pdf).
+- ::link:: Sociedad Española de Neurología: [Nace la Plataforma Control Z para promover un uso responsable de Internet entre los menores](https://www.sen.es/noticias-y-actividades/noticias-sen/3620-nace-la-plataforma-control-z-para-promover-un-uso-responsable-de-internet-entre-los-menores)
+- ::link:: [Pictotraductor](https://www.pictotraductor.com/)
+- ::picture_as_pdf:: **Asociación Española de Pediatría (AEP)**. [Actualización de recomendaciones sobre el uso de pantallas en infancia y adolescencia](https://www.aeped.es/sites/default/files/20241205_ndp_aep_actualizacion_plan_digital_familiar_def.pdf) (2024) y [Plan Digital Familiar](https://plandigitalfamiliar.aeped.es/plandigitalfamiliar.php).
+- ::picture_as_pdf:: **OMS/OPS**. [Directrices sobre actividad física, comportamiento sedentario y sueño para menores de 5 años* (ed. española)](https://iris.paho.org/bitstream/handle/10665.2/51805/9789275321836_spa.pdf).
+- ::link:: **UNICEF & AEPD**. [Más que un móvil: guía para familias](https://www.unicef.es/infancia-tecnologia/mas-que-un-movil) y materiales sobre bienestar digital.
+- ::picture_as_pdf:: **UNICEF LAC**. [Pantallas en casa: Guía para familias](https://www.unicef.org/lac/media/41866/file/Pantallas-en-casa.pdf)
+- ::link:: **Ministerio de Educación y FP (España)**. Portal de [Convivencia Escolar](https://www.educacionfpydeportes.gob.es/mc/sgctie/convivencia-escolar.html) y [Aprendizaje dialógico y convivencia escolar: guía para las escuelas](https://www.libreria.educacion.gob.es/ebook/176109/free_download/).
+- ::picture_as_pdf:: **Harvard – Center on the Developing Child (español)**. [Mejora y práctica de las habilidades de función ejecutiva y autorregulación](https://developingchild.harvard.edu/wp-content/uploads/2024/12/HCDC_EF-guide_Spanish_2020.pdf).
 
 ---
 
-> :quote-left: Donde va la atención, fluye la activación neuronal y crecen las conexiones :quote-right:
+> ::svg:ditto:: Donde va la atención, fluye la activación neuronal y crecen las conexiones ::svg:ditto::
 > <cite>Daniel J. Siegel</cite>
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

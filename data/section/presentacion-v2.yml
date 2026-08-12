@@ -4,7 +4,7 @@ size: xl
 boxes:
 - hanchor: EducAmore ❤️ Blog sobre Educación con Amor
   title: Principal
-  icon: sparkles
+  icon: auto_awesome
   icon_pos: side
   box:
     cols: 4
@@ -38,13 +38,13 @@ boxes:
   - img: /u/calendario-escolar-2025-2026.jpg
     url: /u/calendario-escolar-2025-2026.pdf
     label: Descargar
-    pin: file-pdf
+    pin: picture_as_pdf
     align: center
   - bi: https://i3.ytimg.com/vi_webp/rwMIYfZAFBw/sddefault.webp
     ratio: 16/9
     align: center
     label: Construyendo un Lector
-    pin: youtube
+    pin: brand:youtube
     url: '#construyendo-un-lector'
 modals:
 - id: libro-mas
@@ -74,7 +74,7 @@ modals:
 
       Descubre "Pata de canguro" y redescubre el placer de aprender.
 
-      [[:hand-point-up: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
+      [[::touch_app:: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
 - id: construyendo-un-lector
   img: https://youtu.be/rwMIYfZAFBw
   ratio: 16/9

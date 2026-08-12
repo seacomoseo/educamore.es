@@ -193,7 +193,7 @@ Así, poco a poco, el cerebro se organiza… y el corazón también.
 
 <br>
 
-> :quote-left: La mente es como el paracaídas… sólo funciona si la tenemos abierta :quote-right:
+> ::svg:ditto:: La mente es como el paracaídas… sólo funciona si la tenemos abierta ::svg:ditto::
 > <cite>Albert Einstein</cite>
 
 <br>

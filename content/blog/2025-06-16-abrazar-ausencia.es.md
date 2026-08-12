@@ -38,13 +38,13 @@ Reflexionar sobre la muerte y las pérdidas que conlleva nos provoca tristeza, y
 
 ## Los principales problemas al abordar el tema de la muerte con los niños
 
-- :skull: Se ha perdido la naturalidad de la muerte y, con ello, el saber implícito que generaba.
-- :skull: Nuestra cultura considera la muerte como un tabú del que es preferible no hablar.
-- :skull: La muerte nos genera angustia y tratamos de proteger a los niños de ese sentimiento.
-- :skull: El instinto de protección nos lleva a alejar el sufrimiento de los menores y, de ese modo, se impide que desarrollen habilidades para afrontarlo.
-- :skull: Vivimos una vida alejada del sufrimiento.
-- :skull: La escuela tiene pocos recursos para afrontar la muerte y trabajarla desde el aula.
-- :skull: Consideramos al adolescente como un adulto que ya maneja toda la información.
+- ::skull:: Se ha perdido la naturalidad de la muerte y, con ello, el saber implícito que generaba.
+- ::skull:: Nuestra cultura considera la muerte como un tabú del que es preferible no hablar.
+- ::skull:: La muerte nos genera angustia y tratamos de proteger a los niños de ese sentimiento.
+- ::skull:: El instinto de protección nos lleva a alejar el sufrimiento de los menores y, de ese modo, se impide que desarrollen habilidades para afrontarlo.
+- ::skull:: Vivimos una vida alejada del sufrimiento.
+- ::skull:: La escuela tiene pocos recursos para afrontar la muerte y trabajarla desde el aula.
+- ::skull:: Consideramos al adolescente como un adulto que ya maneja toda la información.
 
 ## El velatorio "de toda la vida"
 
@@ -62,28 +62,28 @@ Cuando nos encontramos en nuestro propio duelo, cuando transitamos la gestión d
 
 ### El proceso
 
-- :skull: *Usa palabras directas ("murió"), y evita eufemismos ("se fue a dormir").* \
+- ::skull:: *Usa palabras directas ("murió"), y evita eufemismos ("se fue a dormir").* \
     El lenguaje ambiguo confunde a los preescolares y refuerza la fantasía de que la muerte es reversible.
 
-- :skull: *Explica que la muerte es permanente y que el cuerpo deja de funcionar.* \
+- ::skull:: *Explica que la muerte es permanente y que el cuerpo deja de funcionar.* \
     A estas edades no comprenden la irreversibilidad; la claridad ayuda a reducir la ansiedad y corrige ideas mágicas e ilusiones.
 
-- :skull: *Responde las mismas preguntas todas las veces que haga falta, con frases breves y calmadas.* \
+- ::skull:: *Responde las mismas preguntas todas las veces que haga falta, con frases breves y calmadas.* \
     Necesitan repetición para integrar la información; la paciencia del adulto contiene y calma su angustia.
 
-- :skull: *Reafirma que ellos no causaron la muerte (ni con pensamientos ni con conductas).* \
+- ::skull:: *Reafirma que ellos no causaron la muerte (ni con pensamientos ni con conductas).* \
     El "pensamiento mágico" es frecuente y puede generar culpa; contrarrestarlo protege la autoestima.
 
-- :skull: *Mantén rutinas estables, sueño y comidas regulares, y mucho contacto físico (abrazos).* \
+- ::skull:: *Mantén rutinas estables, sueño y comidas regulares, y mucho contacto físico (abrazos).* \
     La estructura diaria aporta seguridad; el afecto regula el sistema nervioso y reduce conductas regresivas.
 
-- :skull: *Facilita la expresión simbólica: juego libre, dibujos, modelado, cuentos sobre pérdida.* \
+- ::skull:: *Facilita la expresión simbólica: juego libre, dibujos, modelado, cuentos sobre pérdida.* \
     El juego es su vía natural para procesar emociones; los materiales creativos externalizan el miedo y favorecen la elaboración del duelo.
 
-- :skull: *Crea rituales sencillos de recuerdo (encender una vela, elegir una foto, plantar una flor).* \
+- ::skull:: *Crea rituales sencillos de recuerdo (encender una vela, elegir una foto, plantar una flor).* \
     Los rituales concretan la despedida, legitiman el vínculo y permiten que el niño hable del fallecido con naturalidad.
 
-- :skull: *Vigila señales de alarma que persistan por más de 6 meses (regresión intensa, insomnio, retraimiento, juego violento prolongado) y busca ayuda profesional si aparecen.* \
+- ::skull:: *Vigila señales de alarma que persistan por más de 6 meses (regresión intensa, insomnio, retraimiento, juego violento prolongado) y busca ayuda profesional si aparecen.* \
     La mayoría de los síntomas iniciales remiten; la persistencia indica un posible duelo complicado.
 
 ### Qué decirles según la edad
@@ -100,14 +100,14 @@ La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando
 
 #### Niños de 3 a 6 años
 
-- :check: **Qué ayuda**
+- ::check:: **Qué ayuda**
 
     - Hablar con palabras reales, cortas y fáciles.
     - Explicar que, tras la muerte, el cuerpo ya no siente nada.
     - Calmar su miedo a que otras personas también mueran pronto.
     - Apoyarse en ejemplos de la naturaleza o situaciones que conozcan.
 
-- :xmark: **Qué complica**
+- ::close:: **Qué complica**
 
     - Emplear metáforas o eufemismos.
     - Decir frases como: *"Duerme para siempre"* o "*Nos cuida desde el cielo"*.
@@ -115,7 +115,7 @@ La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando
 
 #### Niños de 6 a 10 años
 
-- :check: **Qué ayuda**
+- ::check:: **Qué ayuda**
 
     - Hablar de la muerte en todas sus dimensiones (irreversibilidad, fin de funciones vitales, etc.).
     - Explicar los rituales y ofrecerles participar si lo desean.
@@ -124,7 +124,7 @@ La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando
     - Prepararles con antelación, si es posible.
     - Desde los 9-10 años, escuchar y valorar su opinión.
 
-- :xmark: **Qué complica**
+- ::close:: **Qué complica**
 
     - Dejar sin aclarar fantasías o teorías que inventen.
     - No explicarles cómo son los rituales ni lo que encontrarán.
@@ -210,22 +210,22 @@ Consulta con un psicólogo si te cuesta la aceptación de la pérdida.
 
 Y al final del día, cuando las preguntas se adormecen y el corazón de un niño busca cobijo, basta con nuestra voz suave diciendo: *"Aquí estoy... y aquí seguirá el amor"*. Porque la ternura ---ese lenguaje que no necesita palabras--- cose las grietas de la pérdida y recuerda a los pequeños que, aunque alguien ya no esté, el vínculo permanece latiendo en cada recuerdo compartido, en cada risa que regresa, en cada abrazo que nos encuentra.
 
-> :quote-left: Trata todo lo que tengas como si fuera una porcelana preciosa porque algún día desaparecerá :quote-right:
+> ::svg:ditto:: Trata todo lo que tengas como si fuera una porcelana preciosa porque algún día desaparecerá ::svg:ditto::
 > <cite>Diana Bradley</cite>
 
 ## Bibliografía
 
-- :book: [Hablemos de duelo con niños y adolescentes](https://globalfacilitators.org/wp-content/uploads/2021/04/Hablemos-de-duelo-con-ninos-y-adolescentes.pdf) (Incluye un apartado dedicado a la discapacidad intelectual)
-- :link: [¿Quién debe decírselo al niño?](https://childmind.org/guide/helping-children-cope-with-grief/#block_66f17f7fa8839)
-- :link: [Evolución de los servicios funerarios en el último siglo en España](https://revistafuneraria.com/evolucion-de-los-servicios-funerarios-en-el-ultimo-siglo-en-espana1/)
-- :link: [Las cuatro tareas del duelo de Worden](https://www.ourhouse-grief.org/grief-pages/grieving-adults/four-tasks-of-mourning/)
-- :book: [Aprender de la pérdida: Una guía para afrontar el duelo](https://www.amazon.com/dp/B07VMJC9DR)
-- :link: [Las 5 fases (o etapas) del duelo: la teoría de Kübler-Ross](https://centrodepsicologiaintegral.com/las-5-fases-o-etapas-del-duelo-la-teoria-de-kubler-ross/)
-- :book: Kübler-Ross, E. (1969). On death and dying. New York: The Macmillan Company.
-- :book: Kübler-Ross, E. & Kessler, D. (2007). On grief and grieving: finding the meaning of grief through the five stages of loss. New York: Scribner.
-- :image: Unsplash. [Imagen](https://unsplash.com/es/fotos/persona-en-mascara-de-calavera-en-blanco-y-negro-sosteniendo-vela-encendida-JGYAzz2OaH0).
+- ::book_2:: [Hablemos de duelo con niños y adolescentes](https://globalfacilitators.org/wp-content/uploads/2021/04/Hablemos-de-duelo-con-ninos-y-adolescentes.pdf) (Incluye un apartado dedicado a la discapacidad intelectual)
+- ::link:: [¿Quién debe decírselo al niño?](https://childmind.org/guide/helping-children-cope-with-grief/#block_66f17f7fa8839)
+- ::link:: [Evolución de los servicios funerarios en el último siglo en España](https://revistafuneraria.com/evolucion-de-los-servicios-funerarios-en-el-ultimo-siglo-en-espana1/)
+- ::link:: [Las cuatro tareas del duelo de Worden](https://www.ourhouse-grief.org/grief-pages/grieving-adults/four-tasks-of-mourning/)
+- ::book_2:: [Aprender de la pérdida: Una guía para afrontar el duelo](https://www.amazon.com/dp/B07VMJC9DR)
+- ::link:: [Las 5 fases (o etapas) del duelo: la teoría de Kübler-Ross](https://centrodepsicologiaintegral.com/las-5-fases-o-etapas-del-duelo-la-teoria-de-kubler-ross/)
+- ::book_2:: Kübler-Ross, E. (1969). On death and dying. New York: The Macmillan Company.
+- ::book_2:: Kübler-Ross, E. & Kessler, D. (2007). On grief and grieving: finding the meaning of grief through the five stages of loss. New York: Scribner.
+- ::image:: Unsplash. [Imagen](https://unsplash.com/es/fotos/persona-en-mascara-de-calavera-en-blanco-y-negro-sosteniendo-vela-encendida-JGYAzz2OaH0).
 
-> :quote-left: A todas esas almas que ya decidieron volar a la luz, vuestro recuerdo sigue vivo en nuestros corazones :quote-right:
+> ::svg:ditto:: A todas esas almas que ya decidieron volar a la luz, vuestro recuerdo sigue vivo en nuestros corazones ::svg:ditto::
 > <cite>Nieves Lara</cite>
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

@@ -12,7 +12,7 @@ category:
 toc: true
 ---
 
-## :snooze: Dormir bien
+## ::snooze:: Dormir bien
 
 Son muchos los motivos que pueden llevar a un niño de edad escolar a pasar una mala noche. Con ciclos en los que se despierten en varias ocasiones (alternancia sueño / vigilia) o incluso con dificultades para conciliar el sueño.
 
@@ -20,7 +20,7 @@ Si siente dolor (por los dientes, los huesos al crecer…), si está con síntom
 
 {{% bg white %}}
 
-:quotes: Saíz, M. Licenciada en Ciencias Biológicas
+::format_quote:: Saíz, M. Licenciada en Ciencias Biológicas
 {.h4}
 
 Para los padres es muy frustrante pensar que nuestros hijos no están durmiendo bien. Somos conscientes de las consecuencias que trae una mala noche tanto para ellos como para nosotros. Hasta un 50 % de los niños experimentan problemas para dormir. Es importante tanto la cantidad como la calidad del sueño, ya que es durante el descanso cuando el cuerpo se repara y recupera. Los niños en edad preescolar requieren entre 10 y 13 horas de sueño, mientras que los escolares necesitan entre 9 y 11 horas. Los adolescentes, por su parte, deben dormir al menos entre 8 y 9 horas cada noche. La falta de sueño puede hacer que nuestros hijos sean más irritables, reactivos y que tengan dificultades para concentrarse. Investigaciones han demostrado que no dormir lo suficiente también puede afectar el peso, el metabolismo y el sistema inmunológico, siendo un factor de riesgo para diversas patologías. 
@@ -39,11 +39,11 @@ La mayoría de veces, una mala noche o una noche en vela, nos altera el estado d
 
 Siempre puedes probar a caminar un ratito sin zapatos sobre césped o arena (sutil invitación a leer el artículo anterior: “[Andar descalzos](/andar-descalzos/)”, si aún no lo has leído) 
 
-## :sun: Cada mañana sale el sol
+## ::brightness_5:: Cada mañana sale el sol
 
 {{% bg white %}}
 
-:quotes: Valenzuela, A.
+::format_quote:: Valenzuela, A.
 {.h4}
 
 ### Luz y ritmo circadiano
@@ -95,7 +95,7 @@ Yo añadiría:
 - Una ducha de agua calentita (facilita el descanso y mejora la calidad del sueño).
 - Establecer rutinas (como intentar que los niños estén acostados cada día a las 21:30 h, por ejemplo).
 
-- :asterisk: (La Agencia Española de Pediatría no recomienda dar frutos secos enteros hasta cumplir los 5 años de edad, pero sí podemos introducir bebida de almendras, o incluso almendras molidas en alguna crema de verduras)
+- ::asterisk:: (La Agencia Española de Pediatría no recomienda dar frutos secos enteros hasta cumplir los 5 años de edad, pero sí podemos introducir bebida de almendras, o incluso almendras molidas en alguna crema de verduras)
 
 El mundo de los aceites esenciales es un viaje hacia la aromaterapia que merece la alegría experimentar, un mundo que descubrir por los beneficios que éstos tienen para nuestro organismo.
 
@@ -111,22 +111,22 @@ Establecer una rutina con los más pequeños de la casa es sumamente importante,
 
 🙏🏽 Gracias por leer hasta el final. Gracias por prestarte este momento de atención.
 
-> :quote-left: La mejor manera de predecir el futuro es crearlo :quote-right:
+> ::svg:ditto:: La mejor manera de predecir el futuro es crearlo ::svg:ditto::
 > <cite>Abraham Lincoln</cite>
 
-## :books: Reseña bibliográfica
+## ::menu_book:: Reseña bibliográfica
 
-- :book:  Maribel Saíz Cayuela, Licencida en Ciencias Biológicas, PGD Dietética y Nutrición. Revista Bioeco Actual, Nº 125, página 29 (Julio de 2024) “*Dormir bien durante la infancia con remedios naturales*”.
-- :book:  Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES*”.* Alienta Editorial, Barcelona. 134-153
-- :image: [Foto principal](https://unsplash.com/es/fotos/un-gato-con-una-moneda-en-la-cabeza-JPDOnLXXW1k)
+- ::book_2::  Maribel Saíz Cayuela, Licencida en Ciencias Biológicas, PGD Dietética y Nutrición. Revista Bioeco Actual, Nº 125, página 29 (Julio de 2024) “*Dormir bien durante la infancia con remedios naturales*”.
+- ::book_2::  Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES*”.* Alienta Editorial, Barcelona. 134-153
+- ::image:: [Foto principal](https://unsplash.com/es/fotos/un-gato-con-una-moneda-en-la-cabeza-JPDOnLXXW1k)
 
 {{% bg white %}}
 
-## :lightbulb: También les puede interesar
+## ::lightbulb:: También les puede interesar
 
-- :telegram:  [Club Regenera en Telegram](https://t.me/s/clubregenera)
-- :instagram: [@blancanutri](https://www.instagram.com/blancanutri/)
-- :instagram: [@foodgreenmood](https://www.instagram.com/foodgreenmood/)
-- :instagram: [@antoniovalenzuelacanovaca](https://www.instagram.com/antoniovalenzuelacanovaca/)
+- ::brand:telegram::  [Club Regenera en Telegram](https://t.me/s/clubregenera)
+- ::brand:instagram:: [@blancanutri](https://www.instagram.com/blancanutri/)
+- ::brand:instagram:: [@foodgreenmood](https://www.instagram.com/foodgreenmood/)
+- ::brand:instagram:: [@antoniovalenzuelacanovaca](https://www.instagram.com/antoniovalenzuelacanovaca/)
 
 {{% / bg %}}

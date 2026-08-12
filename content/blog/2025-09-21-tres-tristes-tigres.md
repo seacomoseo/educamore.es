@@ -94,7 +94,7 @@ Las personas que son especialmente rígidas, con un sentido del deber elevado, u
 
 En cuanto a los esquemas cognitivos, conviene saber que cuando una persona se ve expuesta a varios acontecimientos que generan tristeza (como fracasos o ausencia de logros), llega un momento en el que se ve paralizada por el miedo, y la tristeza extrema es lo que se conoce como **indefensión aprendida**.
 
-> :quote-left: La tristeza genera errores en los procesos del pensamiento :quote-right:
+> ::svg:ditto:: La tristeza genera errores en los procesos del pensamiento ::svg:ditto::
 
 #### El entorno sociocultural
 
@@ -147,57 +147,57 @@ Ya sabéis que mi preferencia a la hora de contar un cuento es tener el cuento f
 
 Os dejo unas mini guías súper prácticas para trabajar cada cuento: 
 
-- :book: **El monstruo de colores.** Anna Llenas · **Flamboyant**.
+- ::book_2:: **El monstruo de colores.** Anna Llenas · **Flamboyant**.
     - **Objetivo:** identificar y nombrar la tristeza.
     - **Momento clave:** cuando el monstruo está azul y quieto.
     - **Preguntas:** *“¿Dónde siente la tristeza el monstruo? ¿Y tú?”*
     - **Actividad 8–10 min:** tarros de emociones con papel azul (arrugar y *“guardar”* la tristeza).
     - **Cierre:** *“Cuando se nombre, la tristeza se calma”*. Abrazo o respiración de 3 soplidos.
-- :book: **Cuando estoy triste.** Trace Moroney · **Ediciones SM**.
+- ::book_2:: **Cuando estoy triste.** Trace Moroney · **Ediciones SM**.
     - **Objetivo:** reconocer señales corporales y pedir ayuda.
     - **Momento clave:** descripciones de sentir tristeza.
     - **Preguntas:** *“¿Cómo se pone tu cuerpo cuando estás triste?”*
     - **Actividad 8–10 min:** silueta en papel; colorear dónde *“pesa”*. Poner un sticker con *“¿a quién aviso?”*.
     - **Cierre:** ensayo corto: *“Estoy triste y quiero ___”*.
-- :book: **Así es mi corazón.** Jo Witek · **Bruño**.
+- ::book_2:: **Así es mi corazón.** Jo Witek · **Bruño**.
     - **Objetivo:** integrar que hay muchas emociones a la vez.
     - **Momento clave:** páginas del corazón con colores.
     - **Preguntas:** *“¿Puede estar el corazón triste y contento el mismo día?”*
     - **Actividad 8–10 min:** corazón de cartulina con solapa azul; dentro dibujar *“lo que echo de menos”* y *“lo que me cuida”*.
     - **Cierre:** beso a la tarjeta y guardarla en la mochila.
-- :book: **El hilo invisible.** Míriam Tirado **· B de Blok.**
+- ::book_2:: **El hilo invisible.** Míriam Tirado **· B de Blok.**
     - **Objetivo:** aliviar tristeza por separación/ausencia.
     - **Momento clave:** explicación del hilo que nos une.
     - **Preguntas:** *“¿Con quién te une tu hilo?”*
     - **Actividad 8–10 min:** pulseras con lana: cada vuelta dice un nombre de su red (mamá, abu, maestra).
     - **Cierre:** gesto de *“tirar del hilo”* cuando extrañe.
-- :book: **Siempre te querré, pequeñín.** Debi Gliori · **Timun Mas Infantil.**
+- ::book_2:: **Siempre te querré, pequeñín.** Debi Gliori · **Timun Mas Infantil.**
     - **Objetivo:** seguridad afectiva cuando hay enfado/tristeza.
     - **Momento clave:** repetición *“te querré siempre”*.
     - **Preguntas:** *“¿Cambian los cariños cuando estamos tristes?”*
     - **Actividad 8–10 min:** bote *“siempre”*: meter papelitos con frases de cuidado (*“te abrazo”*, *“te espero”*). Elegir una al finalizar el día.
     - **Cierre:** ritual breve: frase fija de la familia (*“Nos queremos siempre, incluso en días nublados”*).
-- :lightbulb: **Consejo de cuenta cuentos**
+- ::lightbulb:: **Consejo de cuenta cuentos**
     - **Seguimiento:** repetir el mismo cuento 2–3 veces a la semana; la repetición baja la intensidad. No tienen que volver a trabajar el cuento, sólo deben contárselo.
 
 ## Cuentos para trabajar el abandono y la muerte
 
-- :youtube: [¡No te vayas!](https://www.youtube.com/watch?v=ozLTdqNkzPs) Gabriela Keselman y Rubio. Ed. Kokinos.
-- :youtube: [Abuela de arriba, abuela de abajo](https://www.youtube.com/watch?v=73pmt4wfCKY). Paola, T. Ed. SM.
-- :youtube: [No es fácil, pequeña ardilla](https://www.youtube.com/watch?v=n1nCbcTiAck). Ramón, E. y Osuna, R. Ed. Kalandraka.
-- :youtube: [Los tentáculos de Blef](https://www.youtube.com/watch?v=Kvt5tJQIuIQ). Eva Clemente y Teresa Arias.
-- :youtube: [Cuerdas](https://www.youtube.com/watch?v=4INwx_tmTKw) (Cortometraje).
+- ::brand:youtube:: [¡No te vayas!](https://www.youtube.com/watch?v=ozLTdqNkzPs) Gabriela Keselman y Rubio. Ed. Kokinos.
+- ::brand:youtube:: [Abuela de arriba, abuela de abajo](https://www.youtube.com/watch?v=73pmt4wfCKY). Paola, T. Ed. SM.
+- ::brand:youtube:: [No es fácil, pequeña ardilla](https://www.youtube.com/watch?v=n1nCbcTiAck). Ramón, E. y Osuna, R. Ed. Kalandraka.
+- ::brand:youtube:: [Los tentáculos de Blef](https://www.youtube.com/watch?v=Kvt5tJQIuIQ). Eva Clemente y Teresa Arias.
+- ::brand:youtube:: [Cuerdas](https://www.youtube.com/watch?v=4INwx_tmTKw) (Cortometraje).
 
 ## Fuentes
 
-- :link: [La Tristeza, qué es y cómo afrontarla](https://www.discapnet.es/salud/salud-mental/guia-de-las-emociones/tristeza)
-- :link: [Funciones del llanto: desestresar y generar empatía con los demás](https://www.gaceta.unam.mx/funciones-del-llanto-desestresar-y-generar-empatia-con-los-demas/)
-- :link: [Regulacion emocional y mindfullness en niños](https://neuro-class.com/wp-content/uploads/2024/02/Manual-Regulacion-emocional-en-ninos.pdf)
-- :link: [Nicolas Mathevon, neurocientífico: “No hay nada en la acústica del llanto de un bebé que nos ayude a explicar la causa”](https://elpais.com/mamas-papas/expertos/2025-04-06/nicolas-mathevon-neurocientifico-no-hay-nada-en-la-acustica-del-llanto-de-un-bebe-que-nos-ayude-a-explicar-la-causa.html)
+- ::link:: [La Tristeza, qué es y cómo afrontarla](https://www.discapnet.es/salud/salud-mental/guia-de-las-emociones/tristeza)
+- ::link:: [Funciones del llanto: desestresar y generar empatía con los demás](https://www.gaceta.unam.mx/funciones-del-llanto-desestresar-y-generar-empatia-con-los-demas/)
+- ::link:: [Regulacion emocional y mindfullness en niños](https://neuro-class.com/wp-content/uploads/2024/02/Manual-Regulacion-emocional-en-ninos.pdf)
+- ::link:: [Nicolas Mathevon, neurocientífico: “No hay nada en la acústica del llanto de un bebé que nos ayude a explicar la causa”](https://elpais.com/mamas-papas/expertos/2025-04-06/nicolas-mathevon-neurocientifico-no-hay-nada-en-la-acustica-del-llanto-de-un-bebe-que-nos-ayude-a-explicar-la-causa.html)
 
 <br>
 
-> :quote-left: No hay tristeza eterna; incluso la noche más oscura tiene un amanecer :quote-right:
+> ::svg:ditto:: No hay tristeza eterna; incluso la noche más oscura tiene un amanecer ::svg:ditto::
 > <cite>Herbert Kretzmer. Musical *“Los miserables”*.</cite>
 
 <br>

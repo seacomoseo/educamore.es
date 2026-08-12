@@ -51,20 +51,20 @@ boxes:
 
         Descubre "Pata de canguro" y redescubre el placer de aprender.
 
-        [[:hand-point-up: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
-  - fit: 0.8
-    ratio: 1/1
-    img: /u/presentacion-pata-de-canguro-2026-03-29.jpg
-    url: /u/presentacion-pata-de-canguro-2026-03-29.jpg
-    btn: hide
-    md: |
-      ==Se pospone al 12 de abril==
-      {.cancelled}
+        [[::touch_app:: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
+  # - fit: 0.8
+  #   ratio: 1/1
+  #   img: /u/presentacion-pata-de-canguro-2026-03-29.jpg
+  #   url: /u/presentacion-pata-de-canguro-2026-03-29.jpg
+  #   btn: hide
+  #   md: |
+  #     ==Se pospone al 12 de abril==
+  #     {.cancelled}
   - fit: 0.8
     img: /u/calendario-escolar-2025-2026.jpg
     url: /u/calendario-escolar-2025-2026.pdf
     label: Descargar
-    pin: file-pdf
+    pin: picture_as_pdf
     align: center
   - img: https://youtu.be/rwMIYfZAFBw
     ratio: 16/9

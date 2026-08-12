@@ -147,7 +147,7 @@ Entender qué hay debajo permite responder mejor que únicamente castigando la e
 
 Frases como *“eres un bruto”*, *“siempre estás enfadado”* o *“eres un desastre”* se convierten en identidad (el efecto pigmalión). Es más útil hablar de conductas concretas:
 
-> :quote-left: Hoy has pegado, eso no se hace. Vamos a pensar cómo lo podemos hacer mejor la próxima vez :quote-right:
+> ::svg:ditto:: Hoy has pegado, eso no se hace. Vamos a pensar cómo lo podemos hacer mejor la próxima vez ::svg:ditto::
 
 ### Ser el modelo… aunque cueste
 
@@ -160,7 +160,7 @@ Los niños aprenden cómo se maneja la ira **viéndonos a los adultos**:
 
 Podemos verbalizar nuestro propio proceso:
 
-> :quote-left: Estoy empezando a enfadarme, voy a respirar un poco y luego hablamos cuando esté más tranquila :quote-right:
+> ::svg:ditto:: Estoy empezando a enfadarme, voy a respirar un poco y luego hablamos cuando esté más tranquila ::svg:ditto::
 
 ### Anticipar momentos difíciles
 
@@ -187,18 +187,18 @@ Pedir ayuda no significa *“fracaso educativo”*, sino sumar recursos.
 
 Los cuentos son una herramienta fantástica para que los niños vean su emoción desde fuera, se identifiquen con los personajes y ensayen nuevas formas de actuar. Algunas propuestas adecuadas para Infantil:
 
-- :link: [“Vaya rabieta”](https://www.casadellibro.com/libro-vaya-rabieta/9788484701477/974694) – **Mireille d’Allancé (Corimbo)** \
+- ::link:: [“Vaya rabieta”](https://www.casadellibro.com/libro-vaya-rabieta/9788484701477/974694) – **Mireille d’Allancé (Corimbo)** \
     Roberto tiene un día horrible y una *“Cosa”* roja y furiosa sale de su interior y lo rompe todo. El cuento muestra muy bien cómo crece la rabia y cómo, cuando se calma, puede reparar lo que ha pasado. Ideal para hablar de responsabilidad sin culpa excesiva.
-- :link: [“Cuando estoy enfadado”](https://www.casadellibro.com/libro-cuando-estoy-enfadado/9788467516791/1142918) – **Trace Moroney (SM, colección Sentimientos)** \
+- ::link:: [“Cuando estoy enfadado”](https://www.casadellibro.com/libro-cuando-estoy-enfadado/9788467516791/1142918) – **Trace Moroney (SM, colección Sentimientos)** \
     A través de un conejito, se describe con metáforas muy visuales cómo se siente el cuerpo cuando uno está enfadado (*“como un volcán en erupción”*) y qué cosas ayudan a calmarse. Perfecto para poner palabras a lo que vive el niño.
-- :file-pdf: [“El monstruo de colores”](https://www.educacionbc.edu.mx/materialdeapoyo/public/site/pdf/educacionbasica/preescolar/libromonstruodecolores.pdf) – **Anna Llenas (Flamboyant)** \
+- ::picture_as_pdf:: [“El monstruo de colores”](https://www.educacionbc.edu.mx/materialdeapoyo/public/site/pdf/educacionbasica/preescolar/libromonstruodecolores.pdf) – **Anna Llenas (Flamboyant)** \
     No es solo sobre la ira, sino sobre varias emociones básicas: alegría, tristeza, miedo, calma, enfado… El monstruo tiene todas mezcladas y aprende a ordenarlas. Es muy útil para introducir el vocabulario emocional y localizar *“el color”* de la ira.
-- :link: [“Tengo un volcán”](https://www.libreriamayo.com/PS/enfados-y-rabietas/8188-tengo-un-volcan-9788494820694.html) – **Miriam Tirado y Joan Turu (Carambuco)** \
+- ::link:: [“Tengo un volcán”](https://www.libreriamayo.com/PS/enfados-y-rabietas/8188-tengo-un-volcan-9788494820694.html) – **Miriam Tirado y Joan Turu (Carambuco)** \
     Habla de la rabia como un volcán que explota dentro y va dando ideas para prevenir y canalizar esas explosiones. Muy apropiado a partir de 4–5 años
-- :link: [“Una tormenta de ira para Elvira”](https://www.libreriamayo.com/PS/enfados-y-rabietas/8154-una-tormenta-de-ira-para-elvira-9788491453345.html) – **Kochka y Sophie Bouxom (Picarona)** \
+- ::link:: [“Una tormenta de ira para Elvira”](https://www.libreriamayo.com/PS/enfados-y-rabietas/8154-una-tormenta-de-ira-para-elvira-9788491453345.html) – **Kochka y Sophie Bouxom (Picarona)** \
     Elvira se enfada tanto que desata una tormenta. A través de imágenes muy potentes, ayuda a los niños a ver qué pasa cuando la ira se descontrola y cómo se puede ir calmando.
-- :link: [“Moncho rabioso”](https://www.libreriamayo.com/PS/enfados-y-rabietas/6760-moncho-rabioso-9788412567373.html) – **Gracia Iglesias y Susana Rosique**
-- :link: [“Soy más fuerte que la ira”](https://www.amazon.es/s?k=Soy+m%C3%A1s+fuerte+que+la+ira+%E2%80%93+Elizabeth+Cole) – **Elizabeth Cole**.
+- ::link:: [“Moncho rabioso”](https://www.libreriamayo.com/PS/enfados-y-rabietas/6760-moncho-rabioso-9788412567373.html) – **Gracia Iglesias y Susana Rosique**
+- ::link:: [“Soy más fuerte que la ira”](https://www.amazon.es/s?k=Soy+m%C3%A1s+fuerte+que+la+ira+%E2%80%93+Elizabeth+Cole) – **Elizabeth Cole**.
 
 Con estos cuentos podéis:
 
@@ -208,14 +208,14 @@ Con estos cuentos podéis:
 
 ## Bibliografía
 
-- :file-pdf: **Casanova García, A. (2018)**. [La regulación de la ira desde la educación emocional](https://riull.ull.es/xmlui/bitstream/handle/915/11400/La%20regulacion%20de%20la%20ira%20desde%20la%20educacion%20emocional.pdf). Trabajo Fin de Grado, Universidad de La Laguna.
-- :file-pdf: **Aresté-Grau, J. (2015)**. [Las emociones en Educación Infantil: sentir, reconocer y expresar](https://reunir.unir.net/bitstream/handle/123456789/3212/ARESTE%20GRAU%2C%20JUDIT.pdf). Trabajo Fin de Grado, UNIR.
-- :file-pdf: **Goleman, D. (1995)**. [La inteligencia emocional](https://iuymca.edu.ar/wp-content/uploads/2022/01/La-Inteligencia-Emocional-Daniel-Goleman-1.pdf). (Edición en español).
-- :link: **iNeurociencias (2024)**. [El cerebro y la regulación emocional](https://ineurociencias.org/regulacion-emocional-neurociencias/).
-- :file-pdf: **Neuro-Class (2024)**. [Manual de regulación emocional en niños](https://neuro-class.com/wp-content/uploads/2024/02/Manual-Regulacion-emocional-en-ninos.pdf).
-- :link: **Child Mind Institute (s. f.)**. [¿Es normal la ira de mi hijo?](https://childmind.org/es/articulo/es-normal-la-ira-de-mi-hijo/) (versión en español).
-- :link: **Psyciencia (2017)**. [Cuando la ira se apodera de los niños](https://www.psyciencia.com/la-ira-y-su-control-en-ninos/).
-- :link: **Método Divergentes (2019)**. [Educación emocional en la infancia, ¿es tan importante?](https://www.metododivergentes.com/educacion-emocional-en-la-infancia/).
+- ::picture_as_pdf:: **Casanova García, A. (2018)**. [La regulación de la ira desde la educación emocional](https://riull.ull.es/xmlui/bitstream/handle/915/11400/La%20regulacion%20de%20la%20ira%20desde%20la%20educacion%20emocional.pdf). Trabajo Fin de Grado, Universidad de La Laguna.
+- ::picture_as_pdf:: **Aresté-Grau, J. (2015)**. [Las emociones en Educación Infantil: sentir, reconocer y expresar](https://reunir.unir.net/bitstream/handle/123456789/3212/ARESTE%20GRAU%2C%20JUDIT.pdf). Trabajo Fin de Grado, UNIR.
+- ::picture_as_pdf:: **Goleman, D. (1995)**. [La inteligencia emocional](https://iuymca.edu.ar/wp-content/uploads/2022/01/La-Inteligencia-Emocional-Daniel-Goleman-1.pdf). (Edición en español).
+- ::link:: **iNeurociencias (2024)**. [El cerebro y la regulación emocional](https://ineurociencias.org/regulacion-emocional-neurociencias/).
+- ::picture_as_pdf:: **Neuro-Class (2024)**. [Manual de regulación emocional en niños](https://neuro-class.com/wp-content/uploads/2024/02/Manual-Regulacion-emocional-en-ninos.pdf).
+- ::link:: **Child Mind Institute (s. f.)**. [¿Es normal la ira de mi hijo?](https://childmind.org/es/articulo/es-normal-la-ira-de-mi-hijo/) (versión en español).
+- ::link:: **Psyciencia (2017)**. [Cuando la ira se apodera de los niños](https://www.psyciencia.com/la-ira-y-su-control-en-ninos/).
+- ::link:: **Método Divergentes (2019)**. [Educación emocional en la infancia, ¿es tan importante?](https://www.metododivergentes.com/educacion-emocional-en-la-infancia/).
 
 ## Cierre
 
@@ -227,7 +227,7 @@ En el aula vemos cada día cómo, con paciencia, palabras sencillas, límites cl
 
 Ojalá este artículo os sirva como una pequeña linterna en ese camino. Porque detrás de cada rabieta, de cada portazo y de cada *“¡no quiero!”*, sigue habiendo un niño que solo está diciendo: *“Ayúdame, estoy aprendiendo a manejar lo que siento”*. Y en ese aprendizaje, familia y escuela caminamos juntos, construyendo entre todos un lugar donde incluso la ira tiene sitio… pero ya no manda, solo enseña.
 
-> :quote-left: La ira es un ácido que puede hacer más daño al recipiente en que se almacena que a cualquier cosa en la que se vierte :quote-right:
+> ::svg:ditto:: La ira es un ácido que puede hacer más daño al recipiente en que se almacena que a cualquier cosa en la que se vierte ::svg:ditto::
 > <cite>Mark Twain</cite>
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

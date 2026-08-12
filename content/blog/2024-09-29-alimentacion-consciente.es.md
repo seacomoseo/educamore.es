@@ -15,7 +15,7 @@ toc: true
 
 {{% bg white %}}
 
-## :fork-knife: ¿Qué es la alimentación consciente?
+## ::local_dining:: ¿Qué es la alimentación consciente?
 
 En la era de la inmediatez y rodeados de una sociedad con un ritmo frenético y acelerado, surge la necesidad de poner sordina al acto de comer bajo el anglicismo **mindful eating**. Se trata de una práctica antigua que, aplicada a la alimentación, nos va a permitir que esta sea más placentera y saludable.
 
@@ -55,7 +55,7 @@ Seamos el ejemplo para nuestros pequeños.
 
 {{% / bg %}}
 
-## :apple-core: Alimentación infantil
+## ::nutrition:: Alimentación infantil
 
 {{% bg white %}}
 
@@ -98,7 +98,7 @@ Así mismo, su sabor depende en gran medida, como dije antes, de los compuestos 
 
 {{% / bg %}}
 
-## :coconut: El que poco coco come, poco coco compra
+## ::nutrition:: El que poco coco come, poco coco compra
 
 Recuerdo este trabalenguas que memoricé por un anuncio de la tele hace años. Detrás de la risa inicial, se lee un mensaje claro y relevante, fíjate en tu carrito de la compra, en los productos alimenticios que llenan tu despensa y de qué tienes llena la nevera.
 
@@ -120,7 +120,7 @@ Pero si los niños tienen malos hábitos alimenticios, van a tener un sistema in
 
 {{% bg white %}}
 
-:quotes: Blanca García-Orea
+::format_quote:: Blanca García-Orea
 {.h3}
 
 #### ¿Qué es el BLW?
@@ -157,7 +157,7 @@ Y nunca, bajo ningún concepto, obligar a un niño a comer, o recurrir al chanta
 
 Y en cuanto al tema de enmascarar la comida, Paula Bosch, pediatra de PNI, dice:
 
-> :quote-left: Si le tenemos que enmascarar un brócoli a un niño para que se lo coma, no le estamos ofreciendo un alimento real; se lo damos rebozado, empanado, le ponemos tantas cosas, que no puede descubrir el sabor natural del alimento :quote-right:
+> ::svg:ditto:: Si le tenemos que enmascarar un brócoli a un niño para que se lo coma, no le estamos ofreciendo un alimento real; se lo damos rebozado, empanado, le ponemos tantas cosas, que no puede descubrir el sabor natural del alimento ::svg:ditto::
 
 ### Azúcar
 
@@ -173,11 +173,11 @@ Galletas con actimel, magdalena procesada con zumo, batido de chocolate con tort
 
 Hay un ingrediente esencial en la educación alimenticia: lo que no le ofrezcas a tu hijo en la mesa, difícilmente se lo va a comer. Por eso siempre recomiendo ponerle al niño en edad escolar varias cositas para tomar, si una de ellas es fruta, es ideal, al final acabará probándola. Pero si todos los días lleva galletas, se va a acostumbrar al azúcar, en lugar de al sabor de la fruta (fructosa), y el azúcar es adictivo. Tenemos unas bacterias en el cuerpo que se alimentan de él, y son las que nos piden azúcar a todas horas, cuanto más azúcar tomamos, más azúcar nos piden.
 
-> :quote-left: **El azúcar es la droga de los niños.** :quote-right:
+> ::svg:ditto:: **El azúcar es la droga de los niños.** ::svg:ditto::
 
 {{% bg white %}}
 
-:quotes: Mi generación creció con la idea de que el azúcar era energía.
+::format_quote:: Mi generación creció con la idea de que el azúcar era energía.
 {.h5}
 
 El bombardeo de publicidad convirtió en normal que un niño se comiera un chocolate en forma de huevo pero que a sus padres se les viera como irresponsables si le ofrecían unos huevos revueltos para desayunar. 
@@ -212,7 +212,7 @@ He aquí los problemas más comunes relacionados con la ingesta de azúcar:
 
 Información **MUY** recomendable:
 
-- :link: [¿Dónde se oculta el azúcar?](https://docs.google.com/presentation/d/1RqgBQ3LnaUgJiTmlK2abyiwy8tbksP7mLs8rJvophLU/edit)
+- ::link:: [¿Dónde se oculta el azúcar?](https://docs.google.com/presentation/d/1RqgBQ3LnaUgJiTmlK2abyiwy8tbksP7mLs8rJvophLU/edit)
 
 {{% bg white %}}
 
@@ -235,30 +235,30 @@ Cada color representa una familia diferente de **compuestos curativos**. Dado qu
 
 🙏🏽 Gracias por leer hasta el final.
 
-> :quote-left: El límite no es el cielo. El límite es la mente :quote-right:
+> ::svg:ditto:: El límite no es el cielo. El límite es la mente ::svg:ditto::
 > <cite>Wim Hof, conocido como Iceman</cite>
 
-## :books: Reseña bibliográfica
+## ::menu_book:: Reseña bibliográfica
 
-- :book: García-Orea, B. (2022) “DIME QUÉ COMO AHORA. MEJORA TU MICROBIOTA, TUS DIGESTIONES Y TU ENERGÍA”. Grijalbo, Barcelona. 129, 138, 164, 165
-- :book: Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES” Alienta editorial, Barcelona. 212, 222, 223, 224
-- :book: Valenzuela, A. (2023) “ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”.* Alienta Editorial, Barcelona. 180, 181, 182, 206, 216
-- :link: [Alimentación consciente: por qué es importante concentrarnos en lo que comemos y cómo lo comemos](https://theconversation.com/alimentacion-consciente-por-que-es-importante-concentrarnos-en-lo-que-comemos-y-como-lo-comemos-184883).
-- :link: [¿Cómo la leche materna cambia según la edad del bebé?](https://blog.fundacionexito.org/como-la-leche-materna-cambia-segun-la-edad-del-bebe).
-- :link: [Baby-Led Weaning: guía para ayudar a tu bebé a descubrir y disfrutar la comida](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)
-- :link: [Foto principal](https://www.pexels.com/es-es/foto/calma-a-pequenos-hermanos-etnicos-comiendo-deliciosos-espaguetis-durante-el-almuerzo-en-casa-5692230/)
+- ::book_2:: García-Orea, B. (2022) “DIME QUÉ COMO AHORA. MEJORA TU MICROBIOTA, TUS DIGESTIONES Y TU ENERGÍA”. Grijalbo, Barcelona. 129, 138, 164, 165
+- ::book_2:: Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES” Alienta editorial, Barcelona. 212, 222, 223, 224
+- ::book_2:: Valenzuela, A. (2023) “ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”.* Alienta Editorial, Barcelona. 180, 181, 182, 206, 216
+- ::link:: [Alimentación consciente: por qué es importante concentrarnos en lo que comemos y cómo lo comemos](https://theconversation.com/alimentacion-consciente-por-que-es-importante-concentrarnos-en-lo-que-comemos-y-como-lo-comemos-184883).
+- ::link:: [¿Cómo la leche materna cambia según la edad del bebé?](https://blog.fundacionexito.org/como-la-leche-materna-cambia-segun-la-edad-del-bebe).
+- ::link:: [Baby-Led Weaning: guía para ayudar a tu bebé a descubrir y disfrutar la comida](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)
+- ::link:: [Foto principal](https://www.pexels.com/es-es/foto/calma-a-pequenos-hermanos-etnicos-comiendo-deliciosos-espaguetis-durante-el-almuerzo-en-casa-5692230/)
 
 {{% bg white %}}
 
-## :lightbulb: También les puede interesar
+## ::lightbulb:: También les puede interesar
 
-- :telegram:  [Club Regenera en Telegram](https://t.me/s/clubregenera)
-- :instagram: [@blancanutri](https://www.instagram.com/blancanutri/)
-- :instagram: [@antoniovalenzuelacanovaca](https://www.instagram.com/antoniovalenzuelacanovaca/)
-- :instagram: [@drasariarponen](https://www.instagram.com/drasariarponen/)
-- :instagram: [@recetasdeescandalo](https://www.instagram.com/recetasdeescandalo/)
-- :instagram: [@paula.bosch.pni](https://www.instagram.com/paula.bosch.pni/)
-- :link:      [sinazucar.org](https://sinazucar.org/)
+- ::brand:telegram::  [Club Regenera en Telegram](https://t.me/s/clubregenera)
+- ::brand:instagram:: [@blancanutri](https://www.instagram.com/blancanutri/)
+- ::brand:instagram:: [@antoniovalenzuelacanovaca](https://www.instagram.com/antoniovalenzuelacanovaca/)
+- ::brand:instagram:: [@drasariarponen](https://www.instagram.com/drasariarponen/)
+- ::brand:instagram:: [@recetasdeescandalo](https://www.instagram.com/recetasdeescandalo/)
+- ::brand:instagram:: [@paula.bosch.pni](https://www.instagram.com/paula.bosch.pni/)
+- ::link::      [sinazucar.org](https://sinazucar.org/)
 
 {{% / bg %}}
 

@@ -12,7 +12,7 @@ category:
 toc: true
 ---
 
-## :mobile-screen: Dispositivos en cuarentena
+## ::phone_iphone:: Dispositivos en cuarentena
 
 Hoy quiero hablarles sobre un tema que es cada vez más relevante en la vida de nuestros pequeños: el uso de smartphones. Sabemos que estos dispositivos se han convertido en herramientas muy comunes en la vida diaria, pero cuando se trata de niños tan pequeños, como los de 3 años, es fundamental reflexionar sobre cómo, cuándo y por qué exponerlos a ellos.
 
@@ -30,7 +30,7 @@ Si hablamos de “nativo digital” debemos hablar de Mark Prensky, que en 2001 
 
 Si naciste antes de esa era, eres “inmigrante digital”.
 
-> :quote-left: A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado. :quote-right:
+> ::svg:ditto:: A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado. ::svg:ditto::
 > <cite>Catherine L’Ecuyer</cite>
 
 Está claro que la tecnología tiene un impacto en los niños. Y muy pocos padres se informan realmente sobre ese impacto, sobre las consecuencias.
@@ -45,7 +45,7 @@ Hoy quiero resumir algunos aspectos relevantes que deberíais conocer:
 
 En resumen, el uso de smartphones debe ser controlado en esta etapa temprana. Aunque la tecnología puede ofrecer oportunidades de aprendizaje, las interacciones humanas y las experiencias reales siguen siendo esenciales para el desarrollo de nuestros niños.
 
-## :heart-crack: Flaco favor
+## ::heart_broken:: Flaco favor
 
 {{% bg white %}}
 
@@ -63,7 +63,7 @@ La mejor prevención es no poner en sus manos un dispositivo.
 
 {{% / bg %}}
 
-## :eye: Lo que nadie te cuenta
+## ::visibility:: Lo que nadie te cuenta
 
 ¿Recuerdas cuándo tu bebé nació cuál era su sentido menos desarrollado? 
 
@@ -79,7 +79,7 @@ Los músculos ciliares (músculos que permiten adaptar la visión) del cristalin
 
 En resumen, su ojo no está madurativamente preparado.
 
-## :face-rolling-eyes: Me aburro
+## ::sentiment_sad:: Me aburro
 
 {{% bg white %}}
 
@@ -99,24 +99,24 @@ En la presentación de Dimitri Christakis (experto en el impacto de las pantalla
 
 Cuando te quejes de que tu hijo “no para”, detente y reflexiona, probablemente sea consumidor de azúcar y pantallas, no puedes delegar en él la responsabilidad de su consumo, aún no tiene ni la madurez suficiente ni el criterio de elegir lo que le viene mal o bien. **Tampoco conoce el alcance de lo que puede estar perjudicándole su uso.** 
 
-## :books: Reseña bibliográfica
+## ::menu_book:: Reseña bibliográfica
 
-- :link:  [¿Quiénes son los nativos digitales?](https://www.ui1.es/blog-ui1/quienes-son-los-nativos-digitales)
-- :link:  [El camino de los derechos de la Infancia no ha terminado…](https://www.unicef.es/infancia-tecnologia/menores-con-derechos-digitales)
-- :link:  Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad.](https://tamarachubarovsky.com/mi-hijo-se-aburre)
-- :book:  L´Ecuyer, C. (2013) *“EDUCAR EN EL ASOMBRO”* Plataforma Actual.
-- :image: [Unsplash. Imagen](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-por-la-noche-lTUyP3RaLpw)
+- ::link::  [¿Quiénes son los nativos digitales?](https://www.ui1.es/blog-ui1/quienes-son-los-nativos-digitales)
+- ::link::  [El camino de los derechos de la Infancia no ha terminado…](https://www.unicef.es/infancia-tecnologia/menores-con-derechos-digitales)
+- ::link::  Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad.](https://tamarachubarovsky.com/mi-hijo-se-aburre)
+- ::book_2::  L´Ecuyer, C. (2013) *“EDUCAR EN EL ASOMBRO”* Plataforma Actual.
+- ::image:: [Unsplash. Imagen](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-por-la-noche-lTUyP3RaLpw)
 
 {{% bg white %}}
 
-## :lightbulb: Te puede interesar
+## ::lightbulb:: Te puede interesar
 
-- :instagram: [@lecuyer.catherine](https://www.instagram.com/lecuyer.catherine/)
-- :tablet-screen: [No te engañes, tu hijo no necesita una tableta](https://catherinelecuyer.com/2017/09/12/no-te-enganes-tu-hijo-no-necesita-una-tableta/)
+- ::brand:instagram:: [@lecuyer.catherine](https://www.instagram.com/lecuyer.catherine/)
+- ::tablet_android:: [No te engañes, tu hijo no necesita una tableta](https://catherinelecuyer.com/2017/09/12/no-te-enganes-tu-hijo-no-necesita-una-tableta/)
 
 {{% / bg %}}
 
-> :quote-left: “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón” :quote-right:
+> ::svg:ditto:: “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón” ::svg:ditto::
 > <cite>Maria Montessori</cite>
 
 🙏🏽 Gracias por tu compromiso en el bienestar de tus hijos.

@@ -89,24 +89,24 @@ De modo que debemos hacer un ejercicio de plena conciencia basado en aspectos cl
 
 1. **Reconocer el estado emocional propio:** identificar cuándo somos padres cansados, heridos o presionados. Aquí debemos para a respirar, encontrar nuestra paz interior, y responder al niño sin volcar en él nuestra emoción displacentera. Si siento un volcán, necesito que afloje antes de hablar. 
 1. **Separar emociones del mensaje:**
-    - :xmark: **Chantaje emocional:** \
+    - ::close:: **Chantaje emocional:** \
       *“Si no me ayudas, me voy a poner muy triste y seré una mala madre”*.
-    - :check: **Alternativa positiva:** \
+    - ::check:: **Alternativa positiva:** \
       *“Estoy cansada y necesito descansar un rato. Después podemos hacer la tarea juntos”*.
 1. **Comunicar necesidades sin culpabilizar:**
-    - :xmark: **Chantaje emocional:** \
+    - ::close:: **Chantaje emocional:** \
       *“Me haces sentir fatal si no lo entiendes”*.
-    - :check: **Alternativa positiva:** \
+    - ::check:: **Alternativa positiva:** \
       *“Estoy a punto de romperme, necesito tu comprensión”*.
 1. **Poner límites sanos sin amenazas emocionales:** establecer consecuencias claras, proporcionales y consistentes, sin chantaje relacional.
-    - :xmark: **Con chantaje emocional:** \
+    - ::close:: **Con chantaje emocional:** \
       *“Si no recoges tus juguetes, ya no te voy a querer”*.
-    - :check: **Con límite sano (sin amenaza emocional):** \
+    - ::check:: **Con límite sano (sin amenaza emocional):** \
       *“Los juguetes que no se recojan ahora se guardarán y no se podrán usar hasta mañana”*.
 {.compare}
 
 
-- :key: **Diferencia:** en el segundo caso el adulto **mantiene el amor incondicional**, marca un límite claro y aplica una **consecuencia lógica y proporcional** (el juguete se guarda), sin recurrir a la culpa o al miedo.
+- ::key:: **Diferencia:** en el segundo caso el adulto **mantiene el amor incondicional**, marca un límite claro y aplica una **consecuencia lógica y proporcional** (el juguete se guarda), sin recurrir a la culpa o al miedo.
     - **Buscar apoyo y autocuidado:** terapia, grupos, descanso, tiempo sin exigencias familiares.
     - **Fomentar la reparación emocional** post-conflicto: *“Hoy me pasé, ¿me perdonas?”*, *“la próxima vez que yo esté enfadado por cosas del trabajo, esperaré a que se me pase antes de responderte”*. 
 
@@ -205,22 +205,22 @@ Importante recordarles aquí el contenido del artículo [El impacto de tus palab
 
 Todos fuimos niños que, en mayor o menor medida, escuchamos frases cargadas de culpa, miedo o comparación. Hoy somos adultos que, con las herramientas que tenemos, intentamos hacerlo lo mejor posible. Reconocer esas heridas no es para culparnos, sino para **sanar y elegir otra manera de relacionarnos**. Cada vez que hablamos desde el amor y no desde el chantaje, regalamos a nuestros hijos la seguridad que quizá a nosotros nos faltó. Y con ese gesto sencillo, **escribimos una nueva historia de cuidado y confianza**.
 
-> :quote-left: Sé la persona que necesitabas cuando eras niño :quote-right:
+> ::svg:ditto:: Sé la persona que necesitabas cuando eras niño ::svg:ditto::
 > <cite>Ayesha A. Siddiqi</cite>
 
 ## Bibliografía
 
-- :book: Forward, S. & Frazier, D. (1997). *Emotional Blackmail: When the people in your life use fear, obligation, and guilt to manipulate you*. Harper Collins.
-- :wikipedia-w: [Chantaje emocional](https://es.wikipedia.org/wiki/Chantaje_emocional).
-- :wikipedia-w: [Emotional blackmail](https://en.wikipedia.org/wiki/Emotional_blackmail): Susan Forward, *Emotional blackmail: Fear, obligation, and guilt (FOG)* – origen del término y dinámica del chantaje emocional.
-- :link: [Sarah Fitz-Claridge, sobre cómo el *“O cumples o pierdes mi cariño”* es chantaje emocional moralmente reprobable](https://takingchildrenseriously.com/common-emotional-blackmail/).
-- :link: [Artículos modernos advierten cómo el uso excesivo de la palabra *“no”* o evitarla puede desequilibrar el vínculo entre límites y cariño](https://www.theguardian.com/lifeandstyle/2024/dec/07/mummy-would-prefer-you-not-to-do-that-how-no-became-a-dirty-word-in-parenting).
-- :wikipedia-w: [Burnout](https://en.wikipedia.org/wiki/Parenting_stress): Concepto de burnout parental (síndrome de agotamiento por estrés crónico parental) y su relación con distanciamiento emocional o reacciones inadecuadas hacia los hijos.
-- :wikipedia-w: [Parentificación](https://en.wikipedia.org/wiki/Parentification): Cuando el niño queda responsabilizado emocionalmente por su adulto, algo diverso pero relacionado con dinámicas avanzadas de chantaje.
-- :link: [Patricia M. Crittenden (2008) *Raising Parents: Attachment, Parenting and Child Safety.*](https://www.ebay.com/itm/392360554960)
-- :link: [Allan Schore (2019) *Right Brain Psychotherapy* ,](https://www.allanschore.com/books/right-brain-psychotherapy/)
-- :book: Chase, N. D. (1999). *Burdened Children: Theory, Research, and Treatment of Parentification*. Sage.
-- :link: [Bowlby, J. (1988). *Una base segura*. Paidós. Aplicaciones clínicas de una teoría del apego](https://www.amazon.com/base-segura-Secure-Base-Spanish/dp/8449302013).
-- :link: [El chantaje emocional: Cómo poner límites a la manipulación](https://www.centropsicologialopezdefez.es/blog/el-chantaje-emocional-como-poner-limites-a-la-manipulacion/)
+- ::book_2:: Forward, S. & Frazier, D. (1997). *Emotional Blackmail: When the people in your life use fear, obligation, and guilt to manipulate you*. Harper Collins.
+- ::wikipedia-w:: [Chantaje emocional](https://es.wikipedia.org/wiki/Chantaje_emocional).
+- ::wikipedia-w:: [Emotional blackmail](https://en.wikipedia.org/wiki/Emotional_blackmail): Susan Forward, *Emotional blackmail: Fear, obligation, and guilt (FOG)* – origen del término y dinámica del chantaje emocional.
+- ::link:: [Sarah Fitz-Claridge, sobre cómo el *“O cumples o pierdes mi cariño”* es chantaje emocional moralmente reprobable](https://takingchildrenseriously.com/common-emotional-blackmail/).
+- ::link:: [Artículos modernos advierten cómo el uso excesivo de la palabra *“no”* o evitarla puede desequilibrar el vínculo entre límites y cariño](https://www.theguardian.com/lifeandstyle/2024/dec/07/mummy-would-prefer-you-not-to-do-that-how-no-became-a-dirty-word-in-parenting).
+- ::wikipedia-w:: [Burnout](https://en.wikipedia.org/wiki/Parenting_stress): Concepto de burnout parental (síndrome de agotamiento por estrés crónico parental) y su relación con distanciamiento emocional o reacciones inadecuadas hacia los hijos.
+- ::wikipedia-w:: [Parentificación](https://en.wikipedia.org/wiki/Parentification): Cuando el niño queda responsabilizado emocionalmente por su adulto, algo diverso pero relacionado con dinámicas avanzadas de chantaje.
+- ::link:: [Patricia M. Crittenden (2008) *Raising Parents: Attachment, Parenting and Child Safety.*](https://www.ebay.com/itm/392360554960)
+- ::link:: [Allan Schore (2019) *Right Brain Psychotherapy* ,](https://www.allanschore.com/books/right-brain-psychotherapy/)
+- ::book_2:: Chase, N. D. (1999). *Burdened Children: Theory, Research, and Treatment of Parentification*. Sage.
+- ::link:: [Bowlby, J. (1988). *Una base segura*. Paidós. Aplicaciones clínicas de una teoría del apego](https://www.amazon.com/base-segura-Secure-Base-Spanish/dp/8449302013).
+- ::link:: [El chantaje emocional: Cómo poner límites a la manipulación](https://www.centropsicologialopezdefez.es/blog/el-chantaje-emocional-como-poner-limites-a-la-manipulacion/)
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

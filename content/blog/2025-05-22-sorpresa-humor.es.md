@@ -66,7 +66,7 @@ Maria  Frick  y  Martin  Varsavsky, **El  humor  como  inteligencia**,  El Mundo
 
 Elsa Punset, en su libro “Una mochila para el universo”, dice:
 
-> :quote-left: La risa te hace sentir bien, es una recompensa que nos da la naturaleza. Cuando te ríes, generas neurotransmisores y hormonas como la dopamina o las endorfinas, se excita todo el cuerpo y se relajan los músculos. :quote-right:
+> ::svg:ditto:: La risa te hace sentir bien, es una recompensa que nos da la naturaleza. Cuando te ríes, generas neurotransmisores y hormonas como la dopamina o las endorfinas, se excita todo el cuerpo y se relajan los músculos. ::svg:ditto::
 
 Y sonreír durante 15 segundos nos hace sentir mejor y cambiar de humor.
 
@@ -106,27 +106,27 @@ Os propongo cuentos con sorpresas, humor, escatológicos, etc. La finalidad es p
 
 Como sabéis, no soy partidaria de poner cuentos en las pantallas, prefiero el cuento impreso en papel, para que ellos se detengan en observar las imágenes, pasar las páginas…
 
-- :youtube: [El topo que quería saber quién se había hecho aquello en su cabeza. Holzwarth, W. Ed. Alfaguara.](https://www.youtube.com/watch?v=k8TPhJYiB4I)
-- :youtube: [La vaca que puso un huevo. Cutbill, A. RBA Libros.](https://www.youtube.com/watch?v=FRAkFRoxowg (Es uno de mis favoritos))
-- :youtube: [Las princesas también se tiran pedos. Brenman, I. Zilberman, I. Ed. Algar.](https://www.youtube.com/watch?v=_de0QejpReQ)
-- :youtube: [El cartero simpático o unas cartas especiales. Ahberg, J y A. Ed. Destino.](https://www.youtube.com/watch?v=lkm6Os4LgtY)
-- :youtube: [Confundiendo historias. Gianni Rodari. Ed. Kalandraka.](https://www.youtube.com/watch?v=f8Usd8xlYvM)
-- :youtube: [Los lobos que vinieron a cenar. Videocuento.](https://www.youtube.com/watch?v=UZi8GaQ5VD0)
-- :youtube: [For the birds. Corto de Pixar.](https://www.youtube.com/watch?v=JVJ2K1JNiJI)
+- ::brand:youtube:: [El topo que quería saber quién se había hecho aquello en su cabeza. Holzwarth, W. Ed. Alfaguara.](https://www.youtube.com/watch?v=k8TPhJYiB4I)
+- ::brand:youtube:: [La vaca que puso un huevo. Cutbill, A. RBA Libros.](https://www.youtube.com/watch?v=FRAkFRoxowg (Es uno de mis favoritos))
+- ::brand:youtube:: [Las princesas también se tiran pedos. Brenman, I. Zilberman, I. Ed. Algar.](https://www.youtube.com/watch?v=_de0QejpReQ)
+- ::brand:youtube:: [El cartero simpático o unas cartas especiales. Ahberg, J y A. Ed. Destino.](https://www.youtube.com/watch?v=lkm6Os4LgtY)
+- ::brand:youtube:: [Confundiendo historias. Gianni Rodari. Ed. Kalandraka.](https://www.youtube.com/watch?v=f8Usd8xlYvM)
+- ::brand:youtube:: [Los lobos que vinieron a cenar. Videocuento.](https://www.youtube.com/watch?v=UZi8GaQ5VD0)
+- ::brand:youtube:: [For the birds. Corto de Pixar.](https://www.youtube.com/watch?v=JVJ2K1JNiJI)
 
-> :quote-left: Una broma es una cosa muy seria :quote-right:
+> ::svg:ditto:: Una broma es una cosa muy seria ::svg:ditto::
 > <cite>Winston Churchill</cite>
 
 ## Bibliografía
 
-- :link: [Guía de las emociones](https://www.discapnet.es/salud/salud-mental/guia-de-las-emociones)
-- :file-pdf: Puche Navarro, R. (2013). [La comprensión del humor gráfico y su relación con el desarrollo representacional](https://dialnet.unirioja.es/descarga/articulo/4817179.pdf). Infancias Imágenes, 12(1), 28–45
-- :link: [El sentido del humor en los bebés: un asunto muy serio](https://www.drbuk.es/blog/el-sentido-del-humor-en-los-bebes-un-asunto-muy-serio)
-- :link: [ResearchGate: Comprensión del humor en niños de 3 años](https://www.researchgate.net/publication/319498705_Comprension_del_humor_en_ninos_de_3_anos)
-- :link: [El humor en los niños y niñas](https://www.escuelalasvocales.cl/el-humor-en-los-ninos-y-ninas/)
-- :link: [Síndrome de Asperger y sentido del humor ¿es cierto que carecen de él?](https://www.redcenit.com/sindrome-de-asperger-y-sentido-del-humor/)
-- :link: [El Humor como Inteligencia](https://spanish.martinvarsavsky.net/?p=1361)
-- :link: [Psicoespacios: Comprensión del humor en niños de 3 años](https://revistas.iue.edu.co/index.php/Psicoespacios/article/view/712)
-- :link: [Risoterapia para grupos](https://www.teambuildinggo.es/actividades/risoterapia-para-grupos/)
+- ::link:: [Guía de las emociones](https://www.discapnet.es/salud/salud-mental/guia-de-las-emociones)
+- ::picture_as_pdf:: Puche Navarro, R. (2013). [La comprensión del humor gráfico y su relación con el desarrollo representacional](https://dialnet.unirioja.es/descarga/articulo/4817179.pdf). Infancias Imágenes, 12(1), 28–45
+- ::link:: [El sentido del humor en los bebés: un asunto muy serio](https://www.drbuk.es/blog/el-sentido-del-humor-en-los-bebes-un-asunto-muy-serio)
+- ::link:: [ResearchGate: Comprensión del humor en niños de 3 años](https://www.researchgate.net/publication/319498705_Comprension_del_humor_en_ninos_de_3_anos)
+- ::link:: [El humor en los niños y niñas](https://www.escuelalasvocales.cl/el-humor-en-los-ninos-y-ninas/)
+- ::link:: [Síndrome de Asperger y sentido del humor ¿es cierto que carecen de él?](https://www.redcenit.com/sindrome-de-asperger-y-sentido-del-humor/)
+- ::link:: [El Humor como Inteligencia](https://spanish.martinvarsavsky.net/?p=1361)
+- ::link:: [Psicoespacios: Comprensión del humor en niños de 3 años](https://revistas.iue.edu.co/index.php/Psicoespacios/article/view/712)
+- ::link:: [Risoterapia para grupos](https://www.teambuildinggo.es/actividades/risoterapia-para-grupos/)
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

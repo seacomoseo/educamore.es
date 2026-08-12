@@ -5,7 +5,7 @@ icons:
   optical: 24
   style: outlined
   def:
-    play: youtube-iframe
+    play: svg:youtube-iframe
 fonts:
   base:
     google: false

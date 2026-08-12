@@ -18,8 +18,8 @@ En el corazón de cada aula late el sueño de ver a nuestros pequeños crecer en
 
 Retirar la meritocracia del ambiente escolar no significa dejar de valorar el esfuerzo, sino transformar la manera en que entendemos el éxito: no como un premio exclusivo para unos pocos, sino como el resultado de un camino lleno de descubrimientos, juegos y amor. Es un llamado a construir espacios donde cada pequeño se sienta libre para explorar, equivocarse y, sobre todo, sentirse amado y valorado por lo que es, sin la presión de cumplir con moldes preestablecidos. De esta forma, abrimos la puerta a una educación más humana, donde el aprendizaje se nutre de la empatía, el respeto y el amor por el crecimiento individual de cada uno.
 
-> :quote-left: No ocultes tus talentos, se hicieron para que los utilices. \
-> ¿De qué sirve un reloj de sol en la sombra? :quote-right:
+> ::svg:ditto:: No ocultes tus talentos, se hicieron para que los utilices. \
+> ¿De qué sirve un reloj de sol en la sombra? ::svg:ditto::
 > <cite>Benjamin Franklin</cite>
 
 ## Qué es meritocracia
@@ -54,20 +54,20 @@ Al abordar esta temática pretendo exponer las implicaciones de la meritocracia 
 
 ### Implicaciones en el desarrollo de los niños
 
-- :star: **Influencia en el bienestar emocional y la autoestima**
+- ::star:: **Influencia en el bienestar emocional y la autoestima**
     - **Presión desde temprana edad:** La exposición a estándares de rendimiento elevados—propios de un sistema meritocrático—puede generar ansiedad y miedo al fracaso. Los niños, aun siendo muy pequeños, pueden empezar a asociar el valor personal únicamente a sus logros, lo que puede afectar su autoestima si no alcanzan las expectativas fijadas.
     - **Aprendizaje del error:** En un entorno donde solo se premia el éxito, el error puede verse como algo negativo en lugar de ser una oportunidad para aprender y crecer. Esto limita el desarrollo de la resiliencia y la capacidad para enfrentar desafíos de manera constructiva.
     - **Desarrollo integral:** Si bien fomentar el esfuerzo y la superación personal tiene aspectos positivos, centrarse exclusivamente en el rendimiento académico o en logros medibles puede descuidar otras áreas fundamentales del desarrollo, como la creatividad, la empatía y las habilidades socioemocionales (tan importantes en esta edad).
-- :star: **Modelación de la percepción del éxito**
+- ::star:: **Modelación de la percepción del éxito**
     - **Comparación constante:** La meritocracia puede impulsar una cultura de comparaciones entre compañeros/hermanos, lo que influye en cómo los niños entienden el éxito y el fracaso. Esta mentalidad competitiva, si no se maneja adecuadamente, puede impedir que valoren sus propios procesos de aprendizaje y desarrollo.
     - **Expectativas externas:** Desde muy temprana edad, los niños pueden internalizar la idea de que su valía depende de su rendimiento, lo que puede llevar a un enfoque orientado a resultados y no al disfrute del proceso de aprendizaje.
 
 ### Impacto en las actitudes y comportamientos de los padres
 
-- :star: **Elevación de las expectativas**
+- ::star:: **Elevación de las expectativas**
     - **Presión para alcanzar el “éxito”:** En una sociedad donde se idealiza la meritocracia, muchos padres sienten la obligación de impulsar a sus hijos para que logren altos estándares de rendimiento. Se genera una expectativa. Esto puede traducirse en una presión excesiva, donde se esperan resultados extraordinarios y **se descarta la diversidad de ritmos y capacidades**.
     - **Comparaciones y competencia:** Los padres pueden caer en la trampa de comparar el progreso de sus hijos con el de otros, lo que no solo afecta la dinámica familiar, sino que también puede reforzar la idea de que el éxito depende únicamente de un rendimiento medible.
-- :star: **Consecuencias en el ambiente familiar**
+- ::star:: **Consecuencias en el ambiente familiar**
     - **Relaciones familiares tensas:** La presión por cumplir expectativas de rendimiento puede crear un ambiente familiar marcado por el estrés y la competencia, en lugar de fomentar el apoyo, el respeto y el desarrollo emocional.
     - **Inversión en “resultados” versus proceso:** Al centrarse exclusivamente en logros cuantificables, se corre el riesgo de descuidar aspectos cruciales como el aprendizaje a través del juego, la exploración y el desarrollo de habilidades socioemocionales, fundamentales para una formación equilibrada.
 
@@ -88,13 +88,13 @@ Llegado a este punto, quiero proponer estrategias prácticas para contrarrestar 
 
 Es fundamental abordar cómo la meritocracia se manifiesta en el día a día de los colegios y cómo puede afectar tanto a los niños como a las familias.
 
-- :star: **Presiones y expectativas:**
+- ::star:: **Presiones y expectativas:**
     - **En los niños:** A temprana edad, el énfasis en el rendimiento puede generar ansiedad o, por el contrario, motivar el desarrollo de habilidades.
     - **En los padres:** La tendencia a comparar el progreso de sus hijos con estándares externos puede originar una sobrecarga emocional y expectativas poco realistas.
-- :star: **Efectos en la dinámica escolar:**
+- ::star:: **Efectos en la dinámica escolar:**
     - La búsqueda de la excelencia puede influir en la metodología de enseñanza, a veces favoreciendo la competencia sobre la colaboración.
     - Posible exclusión o estigmatización de aquellos que no se ajustan al ideal meritocrático.
-- :star: **Estudios y estadísticas:** Datos de investigaciones demuestran cómo la meritocracia puede, en ocasiones, reforzar las desigualdades sociales.
+- ::star:: **Estudios y estadísticas:** Datos de investigaciones demuestran cómo la meritocracia puede, en ocasiones, reforzar las desigualdades sociales.
     Por ejemplo, estudios de organismos internacionales (como la OCDE) han señalado que las diferencias de acceso a recursos pueden hacer que el mérito, en muchos casos, no se valore de manera equitativa.
 
 ## Énfasis en la meritocracia desde la primera infancia
@@ -107,11 +107,11 @@ Se basa en premiar o valorar a los niños según su habilidad o rendimiento apar
 
 ### Consecuencias en el aprendizaje a los 3 años de edad
 
-- :star: **Formación de una mentalidad rígida:**
+- ::star:: **Formación de una mentalidad rígida:**
 
     Cuando los elogios se centran únicamente en lo que el niño “es” (por ejemplo, inteligente o talentoso), este comienza a creer que sus capacidades son fijas, lo que le lleva a evitar situaciones donde pueda equivocarse o no sobresalir. (Podemos encontrarnos con niños que no quieren participar). 
 
-- :star: **Pérdida del interés natural por aprender:**
+- ::star:: **Pérdida del interés natural por aprender:**
 
     Al enfocarse solo en los resultados —como premiar dibujos “bonitos” o respuestas “correctas”— el niño puede dejar de disfrutar del aprendizaje por sí mismo, y empezar a buscar únicamente la aprobación externa.
 
@@ -123,7 +123,7 @@ Se basa en premiar o valorar a los niños según su habilidad o rendimiento apar
     - **Competencia:** Percibirse capaz de enfrentar los retos, (sentirse competente).
     - **Vinculación:** Experimentar una conexión significativa con los demás.
 
-- :star: **Menor tolerancia al error:**
+- ::star:: **Menor tolerancia al error:**
 
     Los niños que han sido alabados principalmente por su talento tienden a frustrarse más rápido ante las dificultades, ya que asumen que equivocarse es señal de falta de capacidad, en lugar de verlo como una oportunidad para aprender.
 
@@ -166,13 +166,13 @@ Se basa en premiar o valorar a los niños según su habilidad o rendimiento apar
 
 Con el fin de transformar el análisis en acciones prácticas, este apartado ofrece recomendaciones dirigidas a papás, mamás y educadores, con un tono constructivo y esperanzador.
 
-- :star: **Reconocer las fortalezas individuales:**
+- ::star:: **Reconocer las fortalezas individuales:**
     - Partiremos de la idea de que cada niño tiene un ritmo propio, como el sonido de un instrumento único, y que el éxito no debe medirse únicamente por comparaciones o logros estandarizados.
     - Se recomienda centrar la atención en el desarrollo integral (emocional, social y cognitivo) en lugar de enfocarse exclusivamente en resultados académicos.
-- :star: **Crear un ambiente de apoyo:**
+- ::star:: **Crear un ambiente de apoyo:**
     - Establecer rutinas y actividades que estimulen la curiosidad y el aprendizaje lúdico, sin presiones excesivas.
     - La comunicación en el hogar como llave para ayudar a los niños a enfrentar los desafíos y valorar el esfuerzo personal.
-- :star: **Involucrarse en la comunidad educativa:**
+- ::star:: **Involucrarse en la comunidad educativa:**
     - Incentivar la colaboración entre padres y maestros para identificar las necesidades de cada niño y construir estrategias que fomenten el desarrollo equilibrado.
     - Proponer reuniones o talleres que permitan compartir experiencias y recursos para abordar la presión competitiva.
 
@@ -197,7 +197,7 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
 {{% bg white %}}
 
-:child-reaching: Juego: *"El mundo al revés: ¡Ups, qué divertido!"*
+::child_care:: Juego: *"El mundo al revés: ¡Ups, qué divertido!"*
 {.h4}
 
 **Objetivo:**
@@ -216,13 +216,13 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
     Reunimos a los niños en círculo y, de forma cálida y cercana, les explicamos:
 
-    > :quote-left: Hoy vamos a jugar a un juego muy especial, donde los 'ups' (errores) son motivo de risa y alegría. No hay errores malos, solo formas divertidas de aprender y jugar :quote-right:
+    > ::svg:ditto:: Hoy vamos a jugar a un juego muy especial, donde los 'ups' (errores) son motivo de risa y alegría. No hay errores malos, solo formas divertidas de aprender y jugar ::svg:ditto::
 
 2. **Demostración del error divertido:**
 
     La maestra realiza una secuencia de movimientos simples (por ejemplo, saltar, dar vueltas, caminar como si fuera un animal). Después, en un momento clave, ejecuta intencionalmente el movimiento de forma exagerada o torpe (por ejemplo, una vuelta despistada o un salto con una cara cómica) y exclama:
 
-    > :quote-left: ¡Ups! ¡Qué divertido error! :quote-right:
+    > ::svg:ditto:: ¡Ups! ¡Qué divertido error! ::svg:ditto::
 
     La intención es mostrar que equivocarse puede generar momentos de risa y sorpresa.
 
@@ -234,7 +234,7 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
     Para finalizar, reúne a los niños nuevamente en círculo. Con un tono suave y cariñoso, di algo como:
 
-    > :quote-left: Hoy hemos aprendido que equivocarse es parte de la diversión y nos ayuda a ser únicos. Cada 'ups' nos enseña algo nuevo y nos hace reír. ¡Qué bueno es poder jugar sin miedo a equivocarnos! :quote-right:
+    > ::svg:ditto:: Hoy hemos aprendido que equivocarse es parte de la diversión y nos ayuda a ser únicos. Cada 'ups' nos enseña algo nuevo y nos hace reír. ¡Qué bueno es poder jugar sin miedo a equivocarnos! ::svg:ditto::
 
 **Beneficios del Juego:**
 
@@ -257,24 +257,24 @@ Poner el foco en la meritocracia en la etapa de los 3 años puede debilitar la m
 
 ## Bibliografía
 
-- :link: [The Dark Side Of Meritocracy](https://www.noemamag.com/the-dark-side-of-meritocracy/)
-- :link: [Unequal Childhoods](https://en.wikipedia.org/wiki/Unequal_Childhoods)
-- :link: [How Life Became an Endless, Terrible Competition](https://www.theatlantic.com/magazine/archive/2019/09/meritocracys-miserable-winners/594760/)
-- :link: [Sociologist Lareau Describes "Unequal Childhoods"](https://www.hamilton.edu/news/story/lareau-describes-unequal-childhoods)
-- :link: [Parent Praise to 1-3 Year-Olds Predicts Children’s Motivational Frameworks 5 Years Later](https://pmc.ncbi.nlm.nih.gov/articles/PMC3655123/)
-- :link: [Self-Determination Theory in Psychology](https://www.verywellmind.com/what-is-self-determination-theory-2795387)
-- :link: [Wikipedia: Meritocracia](https://es.wikipedia.org/wiki/Meritocracia)
-- :book: **Sandel, M. (2020)**. *La tiranía del mérito: ¿Qué ha sido del bien común?*
+- ::link:: [The Dark Side Of Meritocracy](https://www.noemamag.com/the-dark-side-of-meritocracy/)
+- ::link:: [Unequal Childhoods](https://en.wikipedia.org/wiki/Unequal_Childhoods)
+- ::link:: [How Life Became an Endless, Terrible Competition](https://www.theatlantic.com/magazine/archive/2019/09/meritocracys-miserable-winners/594760/)
+- ::link:: [Sociologist Lareau Describes "Unequal Childhoods"](https://www.hamilton.edu/news/story/lareau-describes-unequal-childhoods)
+- ::link:: [Parent Praise to 1-3 Year-Olds Predicts Children’s Motivational Frameworks 5 Years Later](https://pmc.ncbi.nlm.nih.gov/articles/PMC3655123/)
+- ::link:: [Self-Determination Theory in Psychology](https://www.verywellmind.com/what-is-self-determination-theory-2795387)
+- ::link:: [Wikipedia: Meritocracia](https://es.wikipedia.org/wiki/Meritocracia)
+- ::book_2:: **Sandel, M. (2020)**. *La tiranía del mérito: ¿Qué ha sido del bien común?*
 
     En este libro, Michael Sandel ofrece una crítica profunda al ideal meritocrático, analizando sus implicaciones en la cohesión social y la justicia. Es una lectura esencial para comprender cómo el énfasis en el mérito puede tener efectos contraproducentes en la sociedad contemporánea.
 
-- :book: **Pérez, M. (2022)**. *“El mito de la meritocracia en la educación: desafíos y perspectivas críticas.”* Revista de Educación y Sociedad, 18\* (2), 123–145.
+- ::book_2:: **Pérez, M. (2022)**. *“El mito de la meritocracia en la educación: desafíos y perspectivas críticas.”* Revista de Educación y Sociedad, 18\* (2), 123–145.
 
     El trabajo analiza el impacto de la meritocracia en la práctica educativa, explorando sus limitaciones y proponiendo alternativas que valoren el proceso de aprendizaje integral sobre el simple rendimiento medible.
 
-- :image: Gettyimages. [Imagen](https://www.gettyimages.es/detail/foto/winning-retro-track-racers-imagen-libre-de-derechos/1449855736).
+- ::image:: Gettyimages. [Imagen](https://www.gettyimages.es/detail/foto/winning-retro-track-racers-imagen-libre-de-derechos/1449855736).
 
-> :quote-left: La meritocracia, en países como el nuestro, sólo sirve para mantener a las ovejas engañadas y obedientes :quote-right:
+> ::svg:ditto:: La meritocracia, en países como el nuestro, sólo sirve para mantener a las ovejas engañadas y obedientes ::svg:ditto::
 > <cite>Eduardo Santos</cite>
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.
