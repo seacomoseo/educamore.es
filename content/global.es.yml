@@ -10,10 +10,9 @@ footer:
   - https://www.facebook.com/educamore.infantil/
   - https://www.youtube.com/@educamore
   md: |
-    - ::copyright::      {{< internal-link index >}}
-    - ::balance:: {{< internal-link legal >}}
-    - ::encrypted:: {{< internal-link privacy >}}
-    - ::cookie::    {{< internal-link cookies >}}
-    - ::holiday_village::         [ceipnoguera.es](https://ceipnoguera.es/ "[nofollow]")
-    - ::brand:seacomoseo::     Hecho con ::favorite:: por [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
+    - ::copyright::        {{< internal-link index >}}
+    - ::balance::          {{< internal-link legal >}}
+    - ::encrypted::        {{< internal-link privacy >}}
+    - ::cookie::           {{< internal-link cookies >}}
+    - ::brand:seacomoseo:: Hecho con ::favorite:: por [seacomoseo.com](https://seacomoseo.com/ "[homefollow]")
     {.list-inline}

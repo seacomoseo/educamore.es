@@ -60,13 +60,13 @@ boxes:
   #   md: |
   #     ==Se pospone al 12 de abril==
   #     {.cancelled}
-  - fit: 0.8
-    img: /u/calendario-escolar-2025-2026.jpg
-    url: /u/calendario-escolar-2025-2026.pdf
-    label: Descargar
-    pin: picture_as_pdf
-    align: center
+  # - fit: 0.8
+  #   img: /u/calendario-escolar-2025-2026.jpg
+  #   url: /u/calendario-escolar-2025-2026.pdf
+  #   label: Descargar
+  #   pin: picture_as_pdf
+  #   align: center
   - img: https://youtu.be/rwMIYfZAFBw
     ratio: 16/9
     align: center
-    title: Construyendo un Lector
+    sub: Construyendo un Lector

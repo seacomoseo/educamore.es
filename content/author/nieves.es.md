@@ -1,8 +1,8 @@
 ---
 slug: nieves
 title: Nieves
+img: /u/snows/nieves.jpg
 vid: /u/snows/nieves.mp4
-mute: true
 
 job:
 - Maestra de Educación Infantil

@@ -66,7 +66,7 @@ Maria  Frick  y  Martin  Varsavsky, **El  humor  como  inteligencia**,  El Mundo
 
 Elsa Punset, en su libro “Una mochila para el universo”, dice:
 
-> ::svg:ditto:: La risa te hace sentir bien, es una recompensa que nos da la naturaleza. Cuando te ríes, generas neurotransmisores y hormonas como la dopamina o las endorfinas, se excita todo el cuerpo y se relajan los músculos. ::svg:ditto::
+> La risa te hace sentir bien, es una recompensa que nos da la naturaleza. Cuando te ríes, generas neurotransmisores y hormonas como la dopamina o las endorfinas, se excita todo el cuerpo y se relajan los músculos.
 
 Y sonreír durante 15 segundos nos hace sentir mejor y cambiar de humor.
 
@@ -114,8 +114,8 @@ Como sabéis, no soy partidaria de poner cuentos en las pantallas, prefiero el c
 - ::brand:youtube:: [Los lobos que vinieron a cenar. Videocuento.](https://www.youtube.com/watch?v=UZi8GaQ5VD0)
 - ::brand:youtube:: [For the birds. Corto de Pixar.](https://www.youtube.com/watch?v=JVJ2K1JNiJI)
 
-> ::svg:ditto:: Una broma es una cosa muy seria ::svg:ditto::
-> <cite>Winston Churchill</cite>
+> Una broma es una cosa muy seria
+> @@Winston Churchill@@
 
 ## Bibliografía
 

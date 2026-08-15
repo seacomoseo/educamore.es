@@ -38,14 +38,14 @@ La tendencia actual a la “crianza helicóptero” puede limitar el desarrollo 
 
 ### Valida sus emociones
 
-- ::close:: **Error:** Decirles *“No llores”* o *“No es para tanto”…*
+- ::close:: **Error:** Decirles “No llores” o “No es para tanto”…
 - ::check:: **Alternativa:** Validar sus emociones y enseñarles a gestionarlas.
 
 Reconocer y validar las emociones de los niños es esencial para el desarrollo de su inteligencia emocional. Minimizar o rechazar sus sentimientos puede generar problemas en la regulación emocional, afectando sus relaciones interpersonales y la autoestima a largo plazo.
 
 (Ya os hablé de esto en los artículos sobre las emociones de la [Escuela de Niños](/categoria/escuela-ninos/))
 
-Mejor puedes preguntarle: *“¿quieres que hablemos de por qué lloras, o prefieres un abrazo primero?”*
+Mejor puedes preguntarle: “¿quieres que hablemos de por qué lloras, o prefieres un abrazo primero?”
 
 ### Evita comparaciones negativas
 
@@ -103,25 +103,25 @@ Permitir que un niño de 3 años comience a hacer las cosas por sí mismo es fun
 
 Aunque el acompañamiento y la guía de los adultos son necesarios, es igualmente vital permitir que el niño explore y aprenda a través de su propia experiencia. 
 
-> ::svg:ditto:: Si haces demasiado por tus hijos, estás aumentando tu autoestima robando la de ellos ::svg:ditto::
-> <cite>Dr. Daniel Amen</cite>
-> (Autor de *“Cambia tu cerebro, cambia tu vida”*)
+> Si haces demasiado por tus hijos, estás aumentando tu autoestima robando la de ellos
+> @@Dr. Daniel Amen@@
+> (Autor de “Cambia tu cerebro, cambia tu vida”)
 > {.align-right}
 
 ## ::menu_book:: Bibliografía y Fuentes Recomendadas
 
 Aquí os dejo algunas referencias y fuentes que os pueden servir de apoyo para profundizar en estos temas:
 
-- ::book_2:: **Gottman, J. M., & DeClaire, J. (1997). *"El corazón de la crianza: Cómo criar a un niño con inteligencia emocional”*, Simon & Schuster:** \
+- ::book_2:: **Gottman, J. M., & DeClaire, J. (1997). "El corazón de la crianza: Cómo criar a un niño con inteligencia emocional", Simon & Schuster:** \
   Este libro es un referente en el ámbito de la inteligencia emocional en la infancia. Explica la importancia de validar las emociones y enseñar a los niños a gestionarlas, lo que contrasta con frases como “no llores” o “no es para tanto”.
 
-- ::book_2:: **Dweck, C. S. (2006). “*Mindset: The New Psychology of Success”*. Random House:** \
+- ::book_2:: **Dweck, C. S. (2006). “Mindset: The New Psychology of Success”. Random House:** \
   En esta obra, Dweck analiza cómo enfrentar desafíos y cometer errores forma parte esencial del aprendizaje y del desarrollo de una mentalidad de crecimiento. Es muy útil para entender por qué permitir que los niños enfrenten sus propios desafíos es tan importante.
 
-- ::book_2:: **Seay, A., & Kohl, G. (2011). *"Crianza helicóptero: sus efectos en el funcionamiento infantil y familiar”* Journal of Child and Family Studies, 20\*(3), 354-363:** \
+- ::book_2:: **Seay, A., & Kohl, G. (2011). "Crianza helicóptero: sus efectos en el funcionamiento infantil y familiar" Journal of Child and Family Studies, 20\*(3), 354-363:** \
   Este estudio analiza el impacto negativo de la sobreprotección (conocida popularmente como "helicopter parenting") en el desarrollo de la autonomía y la capacidad para enfrentar frustraciones.
 
-- ::book_2:: **Schiffrin, A., & Liss, M. (2017). *"The Role of Helicopter Parenting in Emerging Adults’ Emotional Well-Being"* Journal of Child and Family Studies, 26\*(1), 259-269:** \
+- ::book_2:: **Schiffrin, A., & Liss, M. (2017). "The Role of Helicopter Parenting in Emerging Adults’ Emotional Well-Being" Journal of Child and Family Studies, 26\*(1), 259-269:** \
   Aquí se explora cómo un estilo de crianza excesivamente protector puede influir en el bienestar emocional de los jóvenes, aportando evidencia sobre los efectos de limitar el enfrentamiento de fracasos y frustraciones.
 
 - ::link:: **American Psychological Association (APA):** \
@@ -144,7 +144,7 @@ Estas fuentes nos ofrecen una visión amplia sobre la importancia de permitir a 
 
 {{% / bg %}}
 
-> ::svg:ditto:: Yo creo que lo mejor que podemos hacer por nuestros hijos es permitirles hacer las cosas por sí mismos, permitirles ser fuertes, permitirles experimentar su vida bajo sus propios términos, permitirles tomar el metro… dejarles ser mejores personas, dejarles creer más en sí mismos ::svg:ditto::
-> <cite>C. JoyBell C.</cite>
+> Yo creo que lo mejor que podemos hacer por nuestros hijos es permitirles hacer las cosas por sí mismos, permitirles ser fuertes, permitirles experimentar su vida bajo sus propios términos, permitirles tomar el metro… dejarles ser mejores personas, dejarles creer más en sí mismos
+> @@C. JoyBell C.@@
 
 🙏🏽 Gracias por tu compromiso en el desarrollo de tus hijos.

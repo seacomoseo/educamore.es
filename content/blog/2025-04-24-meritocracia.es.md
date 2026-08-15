@@ -18,9 +18,9 @@ En el corazón de cada aula late el sueño de ver a nuestros pequeños crecer en
 
 Retirar la meritocracia del ambiente escolar no significa dejar de valorar el esfuerzo, sino transformar la manera en que entendemos el éxito: no como un premio exclusivo para unos pocos, sino como el resultado de un camino lleno de descubrimientos, juegos y amor. Es un llamado a construir espacios donde cada pequeño se sienta libre para explorar, equivocarse y, sobre todo, sentirse amado y valorado por lo que es, sin la presión de cumplir con moldes preestablecidos. De esta forma, abrimos la puerta a una educación más humana, donde el aprendizaje se nutre de la empatía, el respeto y el amor por el crecimiento individual de cada uno.
 
-> ::svg:ditto:: No ocultes tus talentos, se hicieron para que los utilices. \
-> ¿De qué sirve un reloj de sol en la sombra? ::svg:ditto::
-> <cite>Benjamin Franklin</cite>
+> No ocultes tus talentos, se hicieron para que los utilices. \
+> ¿De qué sirve un reloj de sol en la sombra?
+> @@Benjamin Franklin@@
 
 ## Qué es meritocracia
 
@@ -38,7 +38,7 @@ En este contexto, la meritocracia ideal, que promueve la movilidad social basada
 
 ### Carrera de actividades y “concerted cultivation”
 
-Annette Lareau describe el modelo de *“concerted cultivation”* (cultivo concertado) por el cual padres de clase media organizan intensamente la vida de sus hijos para maximizar su desarrollo, generando horarios de actividades extenuantes. (Con horarios que son muy poco apropiados para niños en su primera infancia)
+Annette Lareau describe el modelo de “concerted cultivation” (cultivo concertado) por el cual padres de clase media organizan intensamente la vida de sus hijos para maximizar su desarrollo, generando horarios de actividades extenuantes. (Con horarios que son muy poco apropiados para niños en su primera infancia)
 
 Este enfoque ha demostrado aumentar la ansiedad infantil y el desgaste familiar, al convertir la infancia en una sucesión de pruebas y clases diseñadas para crear futuros “ganadores” de méritos.
 
@@ -157,7 +157,7 @@ Se basa en premiar o valorar a los niños según su habilidad o rendimiento apar
 
 ### Consejos prácticos para acompañar mejor
 
-- **Refuerza el esfuerzo, no solo el logro** (*“Te esforzaste mucho en encontrar una solución”*).
+- **Refuerza el esfuerzo, no solo el logro** (“Te esforzaste mucho en encontrar una solución”).
 - **Permite espacios de juego sin evaluaciones** para que puedan experimentar y aprender a su ritmo. A veces, el mejor acompañamiento es la no interferencia.
 - **Evita comparaciones** y celebra los avances individuales, sin necesidad de medirlos frente a otros.
 - **Muestra que equivocarse es natural**, compartiendo también tus propios errores y aprendizajes.
@@ -197,7 +197,7 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
 {{% bg white %}}
 
-::child_care:: Juego: *"El mundo al revés: ¡Ups, qué divertido!"*
+::child_care:: Juego: "El mundo al revés: ¡Ups, qué divertido!"
 {.h4}
 
 **Objetivo:**
@@ -216,13 +216,13 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
     Reunimos a los niños en círculo y, de forma cálida y cercana, les explicamos:
 
-    > ::svg:ditto:: Hoy vamos a jugar a un juego muy especial, donde los 'ups' (errores) son motivo de risa y alegría. No hay errores malos, solo formas divertidas de aprender y jugar ::svg:ditto::
+    > Hoy vamos a jugar a un juego muy especial, donde los 'ups' (errores) son motivo de risa y alegría. No hay errores malos, solo formas divertidas de aprender y jugar
 
 2. **Demostración del error divertido:**
 
     La maestra realiza una secuencia de movimientos simples (por ejemplo, saltar, dar vueltas, caminar como si fuera un animal). Después, en un momento clave, ejecuta intencionalmente el movimiento de forma exagerada o torpe (por ejemplo, una vuelta despistada o un salto con una cara cómica) y exclama:
 
-    > ::svg:ditto:: ¡Ups! ¡Qué divertido error! ::svg:ditto::
+    > ¡Ups! ¡Qué divertido error!
 
     La intención es mostrar que equivocarse puede generar momentos de risa y sorpresa.
 
@@ -234,7 +234,7 @@ Tenemos miedo a equivocarnos, y más aún si nos sucede en público. La escuela 
 
     Para finalizar, reúne a los niños nuevamente en círculo. Con un tono suave y cariñoso, di algo como:
 
-    > ::svg:ditto:: Hoy hemos aprendido que equivocarse es parte de la diversión y nos ayuda a ser únicos. Cada 'ups' nos enseña algo nuevo y nos hace reír. ¡Qué bueno es poder jugar sin miedo a equivocarnos! ::svg:ditto::
+    > Hoy hemos aprendido que equivocarse es parte de la diversión y nos ayuda a ser únicos. Cada 'ups' nos enseña algo nuevo y nos hace reír. ¡Qué bueno es poder jugar sin miedo a equivocarnos!
 
 **Beneficios del Juego:**
 
@@ -268,13 +268,13 @@ Poner el foco en la meritocracia en la etapa de los 3 años puede debilitar la m
 
     En este libro, Michael Sandel ofrece una crítica profunda al ideal meritocrático, analizando sus implicaciones en la cohesión social y la justicia. Es una lectura esencial para comprender cómo el énfasis en el mérito puede tener efectos contraproducentes en la sociedad contemporánea.
 
-- ::book_2:: **Pérez, M. (2022)**. *“El mito de la meritocracia en la educación: desafíos y perspectivas críticas.”* Revista de Educación y Sociedad, 18\* (2), 123–145.
+- ::book_2:: **Pérez, M. (2022)**. “El mito de la meritocracia en la educación: desafíos y perspectivas críticas.” Revista de Educación y Sociedad, 18\* (2), 123–145.
 
     El trabajo analiza el impacto de la meritocracia en la práctica educativa, explorando sus limitaciones y proponiendo alternativas que valoren el proceso de aprendizaje integral sobre el simple rendimiento medible.
 
 - ::image:: Gettyimages. [Imagen](https://www.gettyimages.es/detail/foto/winning-retro-track-racers-imagen-libre-de-derechos/1449855736).
 
-> ::svg:ditto:: La meritocracia, en países como el nuestro, sólo sirve para mantener a las ovejas engañadas y obedientes ::svg:ditto::
-> <cite>Eduardo Santos</cite>
+> La meritocracia, en países como el nuestro, sólo sirve para mantener a las ovejas engañadas y obedientes
+> @@Eduardo Santos@@
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

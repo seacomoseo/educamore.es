@@ -13,13 +13,13 @@ toc: true
 
 ## Funciones ejecutivas a los 4 años
 
-El desarrollo infantil da un salto enorme a los cuatro años. Es una etapa de expansión: el niño pasa de *“descubrir el mundo”* a *“entender cómo funciona y cómo encaja en él”*. Se producen nuevos hitos importantes en diferentes áreas: cognitiva, emocional, motora, social, y de autonomía. Los niños están aprendiendo a controlar su cuerpo, sus emociones y su atención. Empiezan a desarrollar un *“director de orquesta”* interno que les ayuda a decidir qué hacer, cómo hacerlo y cuándo parar. Ese director se llama **funciones ejecutivas**.
+El desarrollo infantil da un salto enorme a los cuatro años. Es una etapa de expansión: el niño pasa de “descubrir el mundo” a “entender cómo funciona y cómo encaja en él”. Se producen nuevos hitos importantes en diferentes áreas: cognitiva, emocional, motora, social, y de autonomía. Los niños están aprendiendo a controlar su cuerpo, sus emociones y su atención. Empiezan a desarrollar un “director de orquesta” interno que les ayuda a decidir qué hacer, cómo hacerlo y cuándo parar. Ese director se llama **funciones ejecutivas**.
 
 Son las habilidades mentales que nos permiten **pensar antes de actuar**, **esperar nuestro turno**, **recordar lo que tenemos que hacer**, **cambiar de idea** cuando algo no sale bien y **organizar los pasos** para lograr una meta.
 
 Estas capacidades no se enseñan con fichas, sino **jugando, experimentando y acompañando** cada pequeño avance.
 
-**Las funciones ejecutivas se entrenan de forma natural en Infantil** porque la propia metodología —juego, rutinas, rincones, proyectos, asamblea— exige recordar, esperar, cambiar de plan, organizarse y autorregularse. No es un *“extra”*: ocurre cada día, en cada propuesta.
+**Las funciones ejecutivas se entrenan de forma natural en Infantil** porque la propia metodología —juego, rutinas, rincones, proyectos, asamblea— exige recordar, esperar, cambiar de plan, organizarse y autorregularse. No es un “extra”: ocurre cada día, en cada propuesta.
 
 ### Las principales funciones ejecutivas
 
@@ -35,18 +35,18 @@ Estas capacidades no se enseñan con fichas, sino **jugando, experimentando y ac
 - ::📘:: **Qué es:** mantener información en la cabeza para usarla unos segundos después.
 - ::🎯:: **Cómo se trabaja:** con juegos que impliquen recordar reglas, secuencias o consignas.
 - ::🪁:: **Ejemplos:**
-    - *“Simón dice”* con dos o tres pasos seguidos.
+    - “Simón dice” con dos o tres pasos seguidos.
     - Ordenar tres imágenes, taparlas y pedir que las repita.
-    - Repetir pequeñas listas (*“gato, sol, mesa”*), pedirle que las repita en orden, al revés…
+    - Repetir pequeñas listas (“gato, sol, mesa”), pedirle que las repita en orden, al revés…
 
 #### Control inhibitorio (inhibir impulsos)
 
 - ::📘:: **Qué es:** detener una acción o un impulso cuando no corresponde.
 - ::🎯:: **Cómo se trabaja:** con actividades donde deban esperar o parar ante una señal.
 - ::🪁:: **Ejemplos:**
-    - Juego del *“Semáforo”*: verde = moverse, rojo = quedarse quieto.
-    - *“El espejo”*: el adulto se mueve y el niño imita, pero a veces debe quedarse quieto.
-    - *“Estatuas musicales”*: se mueven con música y paran cuando se detiene.
+    - Juego del “Semáforo”: verde = moverse, rojo = quedarse quieto.
+    - “El espejo”: el adulto se mueve y el niño imita, pero a veces debe quedarse quieto.
+    - “Estatuas musicales”: se mueven con música y paran cuando se detiene.
 
 #### Flexibilidad cognitiva
 
@@ -54,7 +54,7 @@ Estas capacidades no se enseñan con fichas, sino **jugando, experimentando y ac
 - ::🎯:: **Cómo se trabaja:** con tareas donde las normas cambian o haya que adaptarse.
 - ::🪁:: **Ejemplos:**
     - Clasificar objetos primero por color y luego por forma.
-    - Cambiar la regla del juego a mitad de partida (*“ahora gana quien toque algo azul”*).
+    - Cambiar la regla del juego a mitad de partida (“ahora gana quien toque algo azul”).
     - Probar distintos materiales para resolver un mismo reto. (Rompecabezas con piezas que encajan en más de una forma, pedir que lo hagan de manera diferente)
 
 #### Planificación y organización
@@ -71,18 +71,18 @@ Estas capacidades no se enseñan con fichas, sino **jugando, experimentando y ac
 - ::📘:: **Qué es:** comenzar una actividad sin necesitar siempre la orden del adulto.
 - ::🎯:: **Cómo se trabaja:** con rutinas claras y materiales listos para explorar.
 - ::🪁:: **Ejemplos:**
-    - Carteles visuales de *“qué toca ahora”*.
+    - Carteles visuales de “qué toca ahora”.
     - Relojes de arena o temporizadores para empezar una tarea.
-    - *“Elige y empieza”*: tres opciones sobre la mesa y cada niño decide con cuál comenzar.
+    - “Elige y empieza”: tres opciones sobre la mesa y cada niño decide con cuál comenzar.
 
 #### Autorregulación emocional
 
 - ::📘:: **Qué es:** reconocer, expresar y controlar lo que sentimos.
 - ::🎯:: **Cómo se trabaja:** con momentos de calma, juegos simbólicos y lenguaje emocional.
 - ::🪁:: **Ejemplos:**
-    - *“Rincón de la calma”* con objetos suaves, espejo y tarjetas de respiración.
+    - “Rincón de la calma” con objetos suaves, espejo y tarjetas de respiración.
     - Juegos de identificar emociones con caras o fotografías.
-    - Contar hasta cinco o usar un muñeco de *“pausa”* cuando algo enfada.
+    - Contar hasta cinco o usar un muñeco de “pausa” cuando algo enfada.
 
 ### Consecuencias de no entrenarlas
 
@@ -106,17 +106,17 @@ En esta edad, el pensamiento se vuelve más lógico, el lenguaje se dispara, el 
 
 El niño de 4 años **necesita explorar con libertad, pero dentro de límites claros**. Necesita adultos que lo miren, que lo escuchen y que confíen en él, aunque a veces se equivoque. Lo que más lo ayuda no son las explicaciones largas, sino la paciencia, la presencia y el juego compartido.
 
-Acompañar esta etapa es recordar que **el desarrollo no es una carrera**, sino un camino lleno de pequeños grandes logros. Y que detrás de cada *“yo solo”* hay un cerebro y un corazón creciendo al mismo ritmo.
+Acompañar esta etapa es recordar que **el desarrollo no es una carrera**, sino un camino lleno de pequeños grandes logros. Y que detrás de cada “yo solo” hay un cerebro y un corazón creciendo al mismo ritmo.
 
 Os explico los logros más importantes a esta edad:
 
 ### Desarrollo cognitivo y funciones mentales
 
 - **Atención más sostenida:** puede concentrarse en una actividad entre 10 y 15 minutos si le interesa.
-- **Memoria narrativa:** empieza a contar experiencias pasadas con orden lógico (*“fuimos al parque y luego comimos helado”*).
+- **Memoria narrativa:** empieza a contar experiencias pasadas con orden lógico (“fuimos al parque y luego comimos helado”).
 - **Pensamiento simbólico avanzado:** el juego imaginario se vuelve más elaborado (roles, reglas, historias).
-- **Inicio de la lógica básica:** comprende causa–efecto (*“si riego la planta, crece”*).
-- **Preguntas constantes:** *“¿por qué?”*, *“¿cómo?”*, *“para qué?”* —la curiosidad está en su punto máximo.
+- **Inicio de la lógica básica:** comprende causa–efecto (“si riego la planta, crece”).
+- **Preguntas constantes:** “¿por qué?”, “¿cómo?”, “para qué?” —la curiosidad está en su punto máximo.
 - **Concepto del tiempo en desarrollo:** reconoce rutinas (mañana, tarde, noche), aunque aún no maneja bien horas ni días.
 
 ### Lenguaje y comunicación
@@ -126,7 +126,7 @@ Os explico los logros más importantes a esta edad:
 - Usa pronombres, plurales y tiempos verbales con mayor precisión.
 - Comprende instrucciones de dos o tres pasos.
 - Disfruta de **rimas, canciones y cuentos repetitivos**.
-- Empieza a usar el lenguaje para **negociar, argumentar o convencer** (*“pero si me porto bien, ¿puedo quedarme un poco más?”*).
+- Empieza a usar el lenguaje para **negociar, argumentar o convencer** (“pero si me porto bien, ¿puedo quedarme un poco más?”).
 
 ### Desarrollo motor
 
@@ -145,12 +145,12 @@ Os explico los logros más importantes a esta edad:
 
 ### Desarrollo emocional y social
 
-- **Conciencia de sí mismo:** diferencia entre *“yo”* y *“los otros”*; reconoce emociones propias y ajenas.
-- **Juego cooperativo:** pasa del juego paralelo al compartido, con roles definidos (*“tú eres el médico, yo el paciente”*).
+- **Conciencia de sí mismo:** diferencia entre “yo” y “los otros”; reconoce emociones propias y ajenas.
+- **Juego cooperativo:** pasa del juego paralelo al compartido, con roles definidos (“tú eres el médico, yo el paciente”).
 - **Busca aprobación del adulto:** necesita que se reconozcan sus logros.
 - **Empatía incipiente:** consuela o ayuda si ve a otro triste.
 - **Aparición de nuevos miedos realistas:** oscuridad, monstruos, separarse de los padres.
-- **Inicio del autocontrol emocional:** ya puede calmarse con apoyo y empieza a verbalizar (*“estoy enfadado”*).
+- **Inicio del autocontrol emocional:** ya puede calmarse con apoyo y empieza a verbalizar (“estoy enfadado”).
 
 ### Desarrollo creativo y simbólico
 
@@ -193,8 +193,8 @@ Así, poco a poco, el cerebro se organiza… y el corazón también.
 
 <br>
 
-> ::svg:ditto:: La mente es como el paracaídas… sólo funciona si la tenemos abierta ::svg:ditto::
-> <cite>Albert Einstein</cite>
+> La mente es como el paracaídas… sólo funciona si la tenemos abierta
+> @@Albert Einstein@@
 
 <br>
 

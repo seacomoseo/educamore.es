@@ -13,113 +13,113 @@ toc: true
 
 ## Educar hoy: recuperar el vínculo, los hábitos y el sentido
 
-Si te asomas hoy al interior de los centros educativos verás en muchas clases algo que preocupa: niños y adolescentes que **se desinflan rápido**. Les cuesta sostener la atención, tiran la toalla ante la primera dificultad, se muestran impertinentes y caprichosos, entran en continuos conflictos y necesitan estímulos constantes para seguir. No es que *“*no valgan*”* o *“*no quieran aprender*”*; es que **les faltan herramientas** para tolerar la frustración, organizarse, autorregularse y perseverar.
+Si te asomas hoy al interior de los centros educativos verás en muchas clases algo que preocupa: niños y adolescentes que **se desinflan rápido**. Les cuesta sostener la atención, tiran la toalla ante la primera dificultad, se muestran impertinentes y caprichosos, entran en continuos conflictos y necesitan estímulos constantes para seguir. No es que “no valgan” o “no quieran aprender”; es que **les faltan herramientas** para tolerar la frustración, organizarse, autorregularse y perseverar.
 
 A esto se suma una **sobredosis de pantallas**. Pasan más tiempo frente a dispositivos que conversando, jugando o aburriéndose creativamente. Dormimos peor, comemos con prisa y con el móvil en la mesa. Y ese cóctel se nota: hay más cansancio, menos paciencia y menos ganas de esforzarse.
 
 También han cambiado los **límites en casa**. A veces no están claros, otras veces cambian según el día, y con frecuencia delegamos en el colegio tareas que necesitan raíz familiar: hábitos, horarios, maneras de pedir y de esperar. Cuando los límites se vuelven difusos, los niños se sienten inseguros y prueban dónde está la línea…una y otra vez.
 
-Cuando en casa faltan rutinas, es tentador **‘echar balones fuera’**: que aprendan a comer en el comedor, que *“el cole”* ponga los límites. El comedor escolar **ayuda**, pero si lo usamos para **ahorrarnos el conflicto de educar en la mesa**, el niño pierde dos aprendizajes clave: **vínculo y hábitos** en su entorno más seguro.
+Cuando en casa faltan rutinas, es tentador **‘echar balones fuera’**: que aprendan a comer en el comedor, que “el cole” ponga los límites. El comedor escolar **ayuda**, pero si lo usamos para **ahorrarnos el conflicto de educar en la mesa**, el niño pierde dos aprendizajes clave: **vínculo y hábitos** en su entorno más seguro.
 
-El resultado es un **clima de aula tenso**: los docentes invierten demasiada energía en *“contener conductas”* y les queda menos tiempo para lo esencial: **enseñar y acompañar**. Y eso frustra a todos: alumnos, familias y profesorado.
+El resultado es un **clima de aula tenso**: los docentes invierten demasiada energía en “contener conductas” y les queda menos tiempo para lo esencial: **enseñar y acompañar**. Y eso frustra a todos: alumnos, familias y profesorado.
 
-Pero atención: **no es culpa de uno solo**. No es *“las familias”*, ni *“el colegio”*, ni *“las pantallas”*. Es un **ecosistema desajustado** (familia–escuela–entorno digital) que necesita volver a sincronizarse. La buena noticia es que cuando cada parte hace pequeños ajustes —presencia y límites en casa, metodologías claras en el aula, uso consciente de la tecnología— el cambio se nota rápido.
+Pero atención: **no es culpa de uno solo**. No es “las familias”, ni “el colegio”, ni “las pantallas”. Es un **ecosistema desajustado** (familia–escuela–entorno digital) que necesita volver a sincronizarse. La buena noticia es que cuando cada parte hace pequeños ajustes —presencia y límites en casa, metodologías claras en el aula, uso consciente de la tecnología— el cambio se nota rápido.
 
 Este texto no busca señalar, sino **sumar**. Si te resuena lo que lees, sigue adelante: veremos cómo recuperar el **vínculo**, reconstruir **hábitos sencillos** y poner **límites con sentido** para que aprender vuelva a ser posible… y disfrutable.
 
 ## ¿De dónde viene el problema?
 
-Hoy muchos peques llegan a clase cansados, con sueño, o *“acelerados”* y con excesiva impulsividad,  porque **las pantallas se han colado en todo**: roban horas de sueño, quitan tiempo de juego y de movimiento, y dificultan la atención (lo recuerda la AEPED). Si a eso sumamos **sedentarismo, consumo de alimentos azucarados y dormir poco**, el resultado es un cerebro más irritable y menos disponible para aprender; la **OMS** es clara: en la infancia toca priorizar **moverse cada día y dormir lo suficiente**. Y hay un tercer ingrediente que pesa: la **ruptura de rutinas familiares**. Cada vez compartimos menos comidas sin móviles, conversamos menos y jugamos menos juntos, no dedicamos tiempo de calidad, **preferimos calmar una rabieta dándole al niño lo que quiere en lugar de sostener su incomodidad** con paciencia y lenguaje calmado; cuando eso falta, también faltan las pequeñas anclas que ordenan el día y tranquilizan al niño.
+Hoy muchos peques llegan a clase cansados, con sueño, o “acelerados” y con excesiva impulsividad,  porque **las pantallas se han colado en todo**: roban horas de sueño, quitan tiempo de juego y de movimiento, y dificultan la atención (lo recuerda la AEPED). Si a eso sumamos **sedentarismo, consumo de alimentos azucarados y dormir poco**, el resultado es un cerebro más irritable y menos disponible para aprender; la **OMS** es clara: en la infancia toca priorizar **moverse cada día y dormir lo suficiente**. Y hay un tercer ingrediente que pesa: la **ruptura de rutinas familiares**. Cada vez compartimos menos comidas sin móviles, conversamos menos y jugamos menos juntos, no dedicamos tiempo de calidad, **preferimos calmar una rabieta dándole al niño lo que quiere en lugar de sostener su incomodidad** con paciencia y lenguaje calmado; cuando eso falta, también faltan las pequeñas anclas que ordenan el día y tranquilizan al niño.
 
 La buena noticia: **el ejemplo adulto marca la diferencia,** (si nosotros apagamos el móvil antes, cenamos juntos y hablamos sobre lo que nos ha pasado durante el día, leemos en papel, salimos a dar un paseo o al parque, nos daremos cuenta de que ellos **aprenden con el ejemplo**).
 
 ## ¿Qué es la buena educación?
 
-Cuando hablamos de *“buena educación”* no estamos pensando en niños perfectos ni en padres que nunca se equivocan. Hablamos de un **rumbo**: una forma cotidiana de estar con nuestros hijos que les da seguridad, les enseña a cuidarse y a convivir. Ese rumbo se apoya en tres pilares muy sencillos de decir y muy humanos de practicar: **vínculo, hábitos y límites con sentido**.
+Cuando hablamos de “buena educación” no estamos pensando en niños perfectos ni en padres que nunca se equivocan. Hablamos de un **rumbo**: una forma cotidiana de estar con nuestros hijos que les da seguridad, les enseña a cuidarse y a convivir. Ese rumbo se apoya en tres pilares muy sencillos de decir y muy humanos de practicar: **vínculo, hábitos y límites con sentido**.
 
 1. **Vínculo: presencia, escucha y coherencia emocional**
 
-    El vínculo es ese mensaje silencioso de *“estoy contigo y eres importante para mí”*. No es estar todo el día entreteniendo, es **estar disponible**: mirar a los ojos, escuchar de verdad, validar lo que sienten y sostener cuando se desbordan. La coherencia emocional es clave: si estoy cansado, lo digo sin culpar al niño (*“necesito cinco minutos y luego jugamos”*), si me equivoco, reparo (*“te hablé mal, perdona”*). Con vínculo fuerte, los límites duelen menos y los aprendizajes calan más.
+    El vínculo es ese mensaje silencioso de “estoy contigo y eres importante para mí”. No es estar todo el día entreteniendo, es **estar disponible**: mirar a los ojos, escuchar de verdad, validar lo que sienten y sostener cuando se desbordan. La coherencia emocional es clave: si estoy cansado, lo digo sin culpar al niño (“necesito cinco minutos y luego jugamos”), si me equivoco, reparo (“te hablé mal, perdona”). Con vínculo fuerte, los límites duelen menos y los aprendizajes calan más.
 
 2. **Hábitos: horarios, sueño, alimentación, movimiento y estudio**
 
-    Los hábitos son las **vías del tren** por donde circula el día: hora de dormir, de comer, de moverse, de leer o estudiar. No buscan controlarlo todo, buscan **liberarnos de peleas** y dar previsibilidad. Dormir a su hora mejora el humor y la atención; comer sin pantallas favorece la conversación; moverse a diario descarga energía; un ratito fijo de lectura de cuentos o juegos en familia crea constancia. Los hábitos se enseñan **haciéndolos juntos** y con señales simples: pictogramas, temporizadores: *“primero jugamos, luego descansamos”*; *“saldremos al parque después de la siesta”*.
+    Los hábitos son las **vías del tren** por donde circula el día: hora de dormir, de comer, de moverse, de leer o estudiar. No buscan controlarlo todo, buscan **liberarnos de peleas** y dar previsibilidad. Dormir a su hora mejora el humor y la atención; comer sin pantallas favorece la conversación; moverse a diario descarga energía; un ratito fijo de lectura de cuentos o juegos en familia crea constancia. Los hábitos se enseñan **haciéndolos juntos** y con señales simples: pictogramas, temporizadores: “primero jugamos, luego descansamos”; “saldremos al parque después de la siesta”.
 
 3. **Límites con sentido: pocas reglas, claras y sostenidas**
 
-    Un límite con sentido **protege**: protege el descanso, la salud, la convivencia y el aprendizaje. No hace falta gritar ni chantajear (*“*si no…ya no te quiero*”*); basta con pocas reglas (mejor si están visibles), anticipadas, y si no se respetan/cumplen: **consecuencias lógicas con amor**. Ejemplos: *“*Los juguetes que no se recojan ahora se guardan hasta mañana*”*, *“*Si pegas, paramos el juego y hablamos de lo que no debes hacer*”*. El tono es amable y firme a la vez: cariño en la forma, claridad en el fondo.
+    Un límite con sentido **protege**: protege el descanso, la salud, la convivencia y el aprendizaje. No hace falta gritar ni chantajear (“si no…ya no te quiero”); basta con pocas reglas (mejor si están visibles), anticipadas, y si no se respetan/cumplen: **consecuencias lógicas con amor**. Ejemplos: “Los juguetes que no se recojan ahora se guardan hasta mañana”, “Si pegas, paramos el juego y hablamos de lo que no debes hacer”. El tono es amable y firme a la vez: cariño en la forma, claridad en el fondo.
 
 ### Educar no es mandar todo el tiempo
 
-Educar es **preparar el entorno** para que lo bueno sea fácil (rutinas claras, materiales a su altura, horarios visibles) y **sostener reglas estables** que no dependan del humor del día. Así evitamos la negociación eterna y reducimos la energía gastada en regañar. Menos *“¡hazlo ya!”* y más *“esto lo solucionamos hablando y sin pegar”*. Cuando el marco es predecible, los niños se sienten seguros y pueden concentrarse en lo importante: **crecer, aprender y disfrutar**.
+Educar es **preparar el entorno** para que lo bueno sea fácil (rutinas claras, materiales a su altura, horarios visibles) y **sostener reglas estables** que no dependan del humor del día. Así evitamos la negociación eterna y reducimos la energía gastada en regañar. Menos “¡hazlo ya!” y más “esto lo solucionamos hablando y sin pegar”. Cuando el marco es predecible, los niños se sienten seguros y pueden concentrarse en lo importante: **crecer, aprender y disfrutar**.
 
 ### Cómo se ve en la práctica (micro-ejemplos)
 
 - Vínculo: 15 minutos diarios de juego o charla 1:1, sin móvil.
 - Hábitos: rutina de noche repetida (baño → cena → cuento → dormir). Las rutinas les dan seguridad. (Sabe lo que viene después)
-- Límite con sentido: *“Hoy no hay más dulces. Mañana eliges una fruta para la merienda”*.
-- Reparación: *“Nos hemos gritado. Vamos a calmarnos y lo intentamos de nuevo”*.
+- Límite con sentido: “Hoy no hay más dulces. Mañana eliges una fruta para la merienda”.
+- Reparación: “Nos hemos gritado. Vamos a calmarnos y lo intentamos de nuevo”.
 
-La *“buena educación”* de hoy no es una lista perfecta; es un **equilibrio** que se construye con paciencia y presencia. Cuando vínculo, hábitos y límites caminan juntos, la casa se vuelve más tranquila, **la escuela se aprovecha mejor** y los niños aprenden el mensaje profundo: *“Aquí hay amor, estructura y confianza en ti”*. Y con eso, el resto aparece.
+La “buena educación” de hoy no es una lista perfecta; es un **equilibrio** que se construye con paciencia y presencia. Cuando vínculo, hábitos y límites caminan juntos, la casa se vuelve más tranquila, **la escuela se aprovecha mejor** y los niños aprenden el mensaje profundo: “Aquí hay amor, estructura y confianza en ti”. Y con eso, el resto aparece.
 
 ## Educar sin límites
 
-Alguna vez escucho a padres hablar de cómo quieren criar a sus hijos *“libres”*. Cuando avanzan más en su explicación veo que confunden la idea de libertad. Y aquí nace un error que, a la larga, puede pasar factura a todos.
+Alguna vez escucho a padres hablar de cómo quieren criar a sus hijos “libres”. Cuando avanzan más en su explicación veo que confunden la idea de libertad. Y aquí nace un error que, a la larga, puede pasar factura a todos.
 
 En mi aula los niños son libres de ir al baño cuando sienten la necesidad, o de beber agua, o de elegir rincón donde jugar, pero tenemos normas (no vamos al baño para jugar, 1 niño = 1 baño, primero juego y después guardo los juguetes,…)
 
-Educar en libertad requiere **límites claros** que den seguridad. Si no ponemos límites *“para no coartarles”*, ocurren varias cosas:
+Educar en libertad requiere **límites claros** que den seguridad. Si no ponemos límites “para no coartarles”, ocurren varias cosas:
 
-### Por qué falla criar *“sin límites”*
+### Por qué falla criar “sin límites”
 
 - **Inseguridad:** sin señales, el niño no sabe qué se espera. La libertad total se vive como **ansiedad**, no como autonomía.
-- **Aprendizaje frágil:** sin normas estables no hay hábito; cada día se *“empieza de cero”*.
+- **Aprendizaje frágil:** sin normas estables no hay hábito; cada día se “empieza de cero”.
 - **Relación tensa:** el adulto solo aparece cuando ya hay conflicto; se grita más, se disfruta menos.
 - **Autocontrol débil:** los límites externos **entrenan** los internos (esperar, tolerar frustración, terminar tareas).
 
 ### Señales típicas en casa
 
-- Negociación eterna por todo (*“cinco minutos más…”*).
+- Negociación eterna por todo (“cinco minutos más…”).
 - Sin hábitos de sueño de calidad.
-- Rabietas frecuentes ante cualquier *“no”*.
+- Rabietas frecuentes ante cualquier “no”.
 - Padres agotados, que **ceden para tener paz inmediata**… y mañana es peor.
 
 ### Lo que **sí** funciona (marco + libertad dentro)
 
-- **Pocas reglas, claras y visibles.** Ej.: *“Dormitorios sin pantallas”*, *“hablamos sin gritar”*.
+- **Pocas reglas, claras y visibles.** Ej.: “Dormitorios sin pantallas”, “hablamos sin gritar”.
 - **Consecuencias lógicas (no afectivas).** Relacionadas con el acto y reparadoras: no recoges → se guarda hasta mañana; gritas/pegas → pausa y reparar.
-- **Elección acotada.** Libertad **dentro** del límite: *“Hora de ponerse el pijama: ¿azul o rojo?”*, *“Leemos un cuento: ¿en el sofá o en tu cama?”*.
+- **Elección acotada.** Libertad **dentro** del límite: “Hora de ponerse el pijama: ¿azul o rojo?”, “Leemos un cuento: ¿en el sofá o en tu cama?”.
 - **Anticipar y sostener.** Avisos de 5 min; la regla se repite igual hoy, mañana y pasado.
-- **Vínculo primero.** Validar emoción y mantener el marco: *“Entiendo que te enfades. **Aún así**, hoy te tienes que duchar”*.
+- **Vínculo primero.** Validar emoción y mantener el marco: “Entiendo que te enfades. **Aún así**, hoy te tienes que duchar”.
 
 ### Frases modelo (amables y firmes)
 
-- *“Te quiero siempre. **Ahora** toca guardar”*.
-- *“Aquí lo hacemos **así**: primero cena, luego juego”*.
-- *“No es un castigo; es la **regla que nos cuida**”*.
-- *“Puedes elegir: ¿lo quieres hacer ahora o en 2 minutos con mi ayuda?”*
+- “Te quiero siempre. **Ahora** toca guardar”.
+- “Aquí lo hacemos **así**: primero cena, luego juego”.
+- “No es un castigo; es la **regla que nos cuida**”.
+- “Puedes elegir: ¿lo quieres hacer ahora o en 2 minutos con mi ayuda?”
 
-### Planificación de 7 días para *“pasar del caos al marco”*
+### Planificación de 7 días para “pasar del caos al marco”
 
 1. Elige **3 reglas** y ponlas en un cartel (no más).
 2. Define **una consecuencia lógica** para cada una.
 3. Quítale drama: explica brevemente y con claridad.
 4. Anticipa y usa temporizador.
 5. Ofrece siempre **dos opciones válidas**.
-6. Repara si te equivocas (*“grité; lo volveré a decir hablándote bien”*).
+6. Repara si te equivocas (“grité; lo volveré a decir hablándote bien”).
 7. Evalúa el domingo: qué funcionó / qué ajustar.
 
-**Idea clave:** Los límites no *“recortan”* la libertad; **la hacen usable**. Un niño que sabe qué esperar, duerme mejor, discute menos y **puede** concentrarse en explorar, aprender y disfrutar.
+**Idea clave:** Los límites no “recortan” la libertad; **la hacen usable**. Un niño que sabe qué esperar, duerme mejor, discute menos y **puede** concentrarse en explorar, aprender y disfrutar.
 
 > Empatía + normas claras = libertad con dirección.
 
 ## Lo que funciona en infantil
 
-Cuando hablamos de *“qué funciona”* en casa y en la escuela, no buscamos fórmulas mágicas, sino **rutinas sencillas y sostenibles** que ayuden a cada niño según su etapa.
+Cuando hablamos de “qué funciona” en casa y en la escuela, no buscamos fórmulas mágicas, sino **rutinas sencillas y sostenibles** que ayuden a cada niño según su etapa.
 
 En **Infantil (3–6)**, el mundo se entiende mejor si es visible y predecible: pictogramas, juegos con reglas simples, roles pequeños y un rincón de calma convierten el día en algo comprensible y manejable.
 
-**Lo esencial: climas predecibles, expectativas explícitas y consecuencias lógicas**. Cuando el entorno está bien preparado y el mensaje es coherente (*“aquí lo hacemos así”*), los niños se tranquilizan, saben qué se espera de ellos y pueden **poner su energía en aprender**, no en pelear por cada paso.
+**Lo esencial: climas predecibles, expectativas explícitas y consecuencias lógicas**. Cuando el entorno está bien preparado y el mensaje es coherente (“aquí lo hacemos así”), los niños se tranquilizan, saben qué se espera de ellos y pueden **poner su energía en aprender**, no en pelear por cada paso.
 
 A continuación verás cómo aterrizar esto en casa, con ejemplos claros para esta etapa:
 
@@ -129,36 +129,36 @@ A continuación verás cómo aterrizar esto en casa, con ejemplos claros para es
 - **Cómo hacerlo en casa:** pega entre 5 y 8 pictogramas (despertar → baño → desayuno → vestirse → cole… noche: recoger → cena → dientes → cuento → dormir). Puede ser una secuencia para la mañana, y otra al volver del colegio.
 ![](blog/pictogramas.png)
 - **Ejemplo:**
-    - Antes de desayunar, señalas el pictograma: *“Ahora toca ducha y luego desayuno”* (mejor si eligen la ropa el día anterior).
-    - Si se distrae: *“¿Qué dice nuestra tira? **Recoger**. Vamos, yo guardo los peluches y tú los coches”*.
+    - Antes de desayunar, señalas el pictograma: “Ahora toca ducha y luego desayuno” (mejor si eligen la ropa el día anterior).
+    - Si se distrae: “¿Qué dice nuestra tira? **Recoger**. Vamos, yo guardo los peluches y tú los coches”.
 
 ### Juego con reglas simples
 
 - **Qué es:** juegos que entrenan esperar turno, parar, contar.
-- **En casa (10–15 min):** *“Semáforo”* (verde: moverse; rojo: quietos), *“Estatuas musicales”*, *“Simón dice”* con 2 pasos, juegos de cartas, memories, dominós…
-- **Frase útil:** *“Jugamos 10 minutos. **Si se enciende el rojo, todos congelados**”*.
+- **En casa (10–15 min):** “Semáforo” (verde: moverse; rojo: quietos), “Estatuas musicales”, “Simón dice” con 2 pasos, juegos de cartas, memories, dominós…
+- **Frase útil:** “Jugamos 10 minutos. **Si se enciende el rojo, todos congelados**”.
 
 ### Roles/encargos
 
 - **Qué es:** pequeñas responsabilidades diarias.
-- **Ejemplos:** *“Inspector de plantas”* (regar con vasito), *“Ayudante de mesa”* (servilletas y pan), *“Guardia de mochilas”*.
+- **Ejemplos:** “Inspector de plantas” (regar con vasito), “Ayudante de mesa” (servilletas y pan), “Guardia de mochilas”.
 - **Truco:** credencial colgante con dibujo del rol.
 
 ### Semáforo de conducta
 
 - **Qué es:** panel con verde/amarillo/rojo para regularse.
 - **Uso:**
-    - ::🟢:: Verde: *“lo haces tú solo”*
-    - ::🟡:: Amarillo: *“te recuerdo los pasos”*
-    - ::🔴:: Rojo: *“lo hacemos juntos”*
+    - ::🟢:: Verde: “lo haces tú solo”
+    - ::🟡:: Amarillo: “te recuerdo los pasos”
+    - ::🔴:: Rojo: “lo hacemos juntos”
 - **Objetivo:** pasar de rojo → amarillo → verde a lo largo de la semana.
 
-El refuerzo positivo es nuestro mejor aliado: *“me gusta mucho cuando me dices las cosas sin llorar”*.* Le da pistas al niño de por dónde sí es.
+El refuerzo positivo es nuestro mejor aliado: “me gusta mucho cuando me dices las cosas sin llorar”. Le da pistas al niño de por dónde sí es.
 
 ### Rincón de la calma
 
 - **Qué es:** un espacio pequeño con cojín, tarjetas de respiración, juguetes blanditos/sensoriales, como el bote de la calma.
-- **Frase modelo:** *“Veo que estás enfadado. Vamos 2 minutos al rincón y luego seguimos”*.
+- **Frase modelo:** “Veo que estás enfadado. Vamos 2 minutos al rincón y luego seguimos”.
 
 **Mini-plan 2 semanas (Infantil):**
 
@@ -171,8 +171,8 @@ El refuerzo positivo es nuestro mejor aliado: *“me gusta mucho cuando me dices
 - Que tu hijo **sepa qué viene después** (menos peleas, más autonomía).
 - Que asuma **una responsabilidad sencilla** cada día (rol).
 
-> ::svg:ditto:: Los niños hacen lo mejor que pueden ::svg:ditto::
-> <cite>Jesper Juul</cite>
+> Los niños hacen lo mejor que pueden
+> @@Jesper Juul@@
 
 Démosles un marco donde **puedan** hacerlo: previsibilidad, afecto y coherencia. Paso a paso, sin culpas y con constancia amable, la casa recupera el ritmo y el aula se convierte, otra vez, en un lugar para **aprender y disfrutar**.
 
@@ -199,15 +199,15 @@ De 0 a 6 años: ¿cuánto tiempo se aconseja su uso? → **0 minutos**
 
     - Cartel en la nevera con 4 líneas: **dónde**, **cuándo**, **cuánto**, **qué**.
     - Cesta de dispositivos en la entrada; cargadores fuera de las habitaciones, (para todos los componentes de la familia, recuerden que papá y mamá educan con el ejemplo).
-    - Si se incumple: **consecuencia lógica** (*“mañana no hay turno de pantalla”*, en referencia a ver la TV).
+    - Si se incumple: **consecuencia lógica** (“mañana no hay turno de pantalla”, en referencia a ver la TV).
 
-### Dormir a su hora (el sueño es *“fertilizante”* del aprendizaje)
+### Dormir a su hora (el sueño es “fertilizante” del aprendizaje)
 
 - ::favorite:: **Qué hacer esta semana:**
 
     - Hora fija para **empezar rutina** (baño → cena → cuento → dormir).
     - **Pantallas: 0** por la noche; atenuar luces (luces rojas) y ruido; adelantar 15–30 min la hora de ir a la cama si hay despertares en mitad del sueño.
-    - Ritual de cierre: *“tres cosas buenas del día”*.
+    - Ritual de cierre: “tres cosas buenas del día”.
 
 - ::favorite:: **Señales de que vamos bien:** se duerme antes, menos irritabilidad matinal, más atención al empezar el cole.
 
@@ -229,10 +229,10 @@ De 0 a 6 años: ¿cuánto tiempo se aconseja su uso? → **0 minutos**
 - ::favorite:: **Cómo empezar:**
 
 - Quitar pantallas de la mesa; **turno de palabra** (la cuchara de la palabra: cada uno cuenta algo del día, pasa la cuchara cuando acaba de hablar).
-- **Roles**: *“ayudante de agua”*, *“servidor de ensalada”*.
-- Mini-ritual: gracias por algo concreto (*“gracias por poner la mesa”*).
+- **Roles**: “ayudante de agua”, “servidor de ensalada”.
+- Mini-ritual: gracias por algo concreto (“gracias por poner la mesa”).
 
-- ::favorite:: **Si protestan:** *“En esta casa, **comemos sin pantallas**. Después de cenar, elegimos un juego: *“veo-veo”*, *“La oca”*...
+- ::favorite:: **Si protestan:** “En esta casa, **comemos sin pantallas**”. Después de cenar, elegimos un juego: “veo-veo”, “La oca”...
 
 ### Límites amables y firmes (pocas reglas, claras y sostenidas)
 
@@ -245,16 +245,16 @@ De 0 a 6 años: ¿cuánto tiempo se aconseja su uso? → **0 minutos**
 
 - ::favorite:: **Cómo aplico sin gritar:**
 
-    - Anticipo: *“En 5 minutos guardamos”*.
-    - Enuncio la regla: *“Aquí lo hacemos así…”*.
-    - **Consecuencia lógica** y **reparación**: *“Hoy las piezas no se recogieron, se guardan hasta mañana. Mañana jugamos juntos”*.
+    - Anticipo: “En 5 minutos guardamos”.
+    - Enuncio la regla: “Aquí lo hacemos así…”.
+    - **Consecuencia lógica** y **reparación**: “Hoy las piezas no se recogieron, se guardan hasta mañana. Mañana jugamos juntos”.
 
 ---
 
 **Para empezar hoy (mini-plan de 7 días)**
 {.h5}
 
-- **Día 1:** cartel *“Plan digital”* y cesta de dispositivos.
+- **Día 1:** cartel “Plan digital” y cesta de dispositivos.
 - **Día 2:** marca hora de inicio de rutina de noche; elige entre dos cuentos.
 - **Día 3:** camino activo al cole (un tramo).
 - **Día 4:** cena sin pantallas + turno de palabra.
@@ -272,24 +272,24 @@ La Idea con fuerza de la que partiremos es cambiar el rumbo, no es buscar culpab
 
 1. **Reconocer (sin juicio):**
 
-    *“Se nos hizo tarde para acostar a los niños y esta mañana estamos todos cansados”*.
+    “Se nos hizo tarde para acostar a los niños y esta mañana estamos todos cansados”.
 
 2. **Acordar (claro y visible):**
 
-    Una regla, un lugar, un horario. Cartel en la nevera. *Ej.:* *“Dormitorios sin pantallas. Cargadores en el salón. Por la noche”*.
+    Una regla, un lugar, un horario. Cartel en la nevera. *Ej.:* “Dormitorios sin pantallas. Cargadores en el salón. Por la noche”.
 
 3. **Sostener (con calma, sin chantajes y con consecuencias lógicas):**
 
     Repite la regla sin discutir; aplica la consecuencia relacionada y repara.
 
-    *Ej.:* *“Hoy no se respetó la tarea de poner la mesa; mañana vuelve a ser tu turno y lo ampliamos el viernes”*.
+    *Ej.:* “Hoy no se respetó la tarea de poner la mesa; mañana vuelve a ser tu turno y lo ampliamos el viernes”.
 
 
 ### Cuando hay **recaídas** (las habrá)
 
-1. **Pausa y reset:** *“Nos hemos desviado. Volvemos al plan”*.
+1. **Pausa y reset:** “Nos hemos desviado. Volvemos al plan”.
 2. **Micro-ajuste:** reduce la meta (de 45 a 30 min; de 5 normas a 3).
-3. **Reparación breve:** *“Ayer me enfadé y grité. Lo siento; hoy lo haré distinto”*.
+3. **Reparación breve:** “Ayer me enfadé y grité. Lo siento; hoy lo haré distinto”.
 4. **Ancla visual:** temporizador, checklist, credenciales de roles.
 
 ### Señales de que conviene **pedir ayuda** (pediatría/orientación/psicología)
@@ -302,7 +302,7 @@ La Idea con fuerza de la que partiremos es cambiar el rumbo, no es buscar culpab
 
 ## Cierre **esperanzador**
 
-La escuela no es una *“jaula que domestica”*; es un **lugar de cultura, hábitos, encuentro y pertenencia**. Cuando familia y centro **remamos en la misma dirección** —presencia, rutinas sensatas y límites con sentido— **los resultados llegan**: niños que entran al colegio con menos sueño y mejor humor, librando menos batallas, y con más ganas de compartir y aprender. Y sobre todo, con la seguridad de sentirse escuchados y valorados. Mirando con admiración al adulto que le acompaña con respeto y paciencia, que le habla con amor y empatía, y que entiende que está aprendiendo a ser persona y a relacionarse con el mundo y sus iguales.
+La escuela no es una “jaula que domestica”; es un **lugar de cultura, hábitos, encuentro y pertenencia**. Cuando familia y centro **remamos en la misma dirección** —presencia, rutinas sensatas y límites con sentido— **los resultados llegan**: niños que entran al colegio con menos sueño y mejor humor, librando menos batallas, y con más ganas de compartir y aprender. Y sobre todo, con la seguridad de sentirse escuchados y valorados. Mirando con admiración al adulto que le acompaña con respeto y paciencia, que le habla con amor y empatía, y que entiende que está aprendiendo a ser persona y a relacionarse con el mundo y sus iguales.
 
 Sostener unas pocas reglas claras en casa **no es controlar,** es **cuidar.**
 
@@ -323,7 +323,7 @@ No buscamos perfección, buscamos **constancia amable**: repetir lo importante h
 
 ---
 
-> ::svg:ditto:: Donde va la atención, fluye la activación neuronal y crecen las conexiones ::svg:ditto::
-> <cite>Daniel J. Siegel</cite>
+> Donde va la atención, fluye la activación neuronal y crecen las conexiones
+> @@Daniel J. Siegel@@
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

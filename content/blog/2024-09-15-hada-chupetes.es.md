@@ -56,7 +56,7 @@ A partir de los **12-18 meses**, el bebé ya ha adquirido las principales utili
     1. Primera estrategia: **«convencerlo» de que es mayor**. Bueno, con un poco de «teatro»: hacer una especie de ceremonia de despedida del chupete. Primero explicádselo y poner una fecha con algo de antelación, unos días o unas pocas semanas,… (a los niños les gusta saber que va pasar). Que vuestro hijo pinte una cajita para poner los chupetes, que los ponga dentro, y se hace un **ritual de despedida**,… y se tira a la basura, o se la lleva alguien (los Reyes Magos,…). **Usad la imaginación, pensad que le puede resultar convincente a vuestro hijo**. Cuando pida el chupete (por hábito), recordadle la ceremonia de despedida, que ya es mayor,…
     2. Segunda estrategia: **cortar los chupetes**. Cortar un poco la punta del chupete y cada día ir cortando un poquito más. Cuando pida chupete le dais el chupete cortado. Si protesta de que está roto, le dais otro igualmente cortado,… **La clave es hacer como si no os dieseis cuenta de que los chupetes están cortados**. Si pregunta porque están rotos hay que decirle, que como ya tiene dientes los va rompiendo él sin darse cuenta,…
 
-<cite>(Mateos, J. 2022 [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/))</cite>
+@@(Mateos, J. 2022 [Uso del chupete: Opinión de una logopeda](https://jennifermateoslogopedia.es/uso-del-chupete-opinion-de-una-logopeda/))@@
 
 {{% / bg %}}
 
@@ -86,7 +86,7 @@ El enfoque Montessori favorece una **transición gradual al quitar el chupete**.
 
 El refuerzo positivo es una parte importante del método Montessori. Celebra los pequeños logros y avances de tu hijo en el proceso de dejar el chupete. Reconocer y elogiar sus esfuerzos aumenta su autoestima y motivación para continuar avanzando. Evita castigar o mostrar frustración ante retrocesos, y mantén una actitud comprensiva y alentadora.
 
-> ::svg:ditto:: El refuerzo positivo mejor que el negativo.  ::svg:ditto::
+> El refuerzo positivo mejor que el negativo.
 
 #### Ser paciente y flexible
 
@@ -96,7 +96,7 @@ Cada niño es diferente y el proceso de dejar el chupete puede variar. Es fundam
 
 Quitar el chupete al estilo Montessori es un **proceso que respeta el ritmo y las necesidades del niño**. Siguiendo estos principios y técnicas, puedes ayudar a tu hijo a dejar el chupete de manera natural y sin estrés. Recuerda que la paciencia y la comprensión son fundamentales para apoyar a tu hijo en este importante hito de su desarrollo.
 
-<cite>(Bonamint 2024 [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html))</cite>
+@@(Bonamint 2024 [Cómo quitar el chupete al estilo Montessori](https://bonamint.com/blog-montessori/post/quitar-chupete-montessori.html))@@
 
 ---
 
@@ -104,11 +104,11 @@ Si acabamos de comenzar las clases y el niño está pasando por su periodo de ad
 
 Aquí siempre digo un consejito a papás y mamás, si los niños no piden el chupete o el biberón, mejor no se lo ofrezcáis. 
 
-Cuando escribía este artículo me encontré con una publicación de <cite>**Mario Alonso Puig**</cite> que os quiero compartir:
+Cuando escribía este artículo me encontré con una publicación de @@**Mario Alonso Puig**@@ que os quiero compartir:
 
-> ::svg:ditto:: Cuando tratamos bien a alguien, cuando la queremos, esa persona libera una hormona llamada oxitocina que protege el corazón, el sistema cardiovascular y mejora el funcionamiento del sistema inmune. Además, si esa persona siente algún tipo de dolor, ya sea físico o mental, ese dolor se reduce gracias a la liberación de péptidos opiáceos endógenos. Es decir, el propio cerebro libera un potentísimo analgésico capaz de reducir el dolor, a veces a niveles inimaginables.
+> Cuando tratamos bien a alguien, cuando la queremos, esa persona libera una hormona llamada oxitocina que protege el corazón, el sistema cardiovascular y mejora el funcionamiento del sistema inmune. Además, si esa persona siente algún tipo de dolor, ya sea físico o mental, ese dolor se reduce gracias a la liberación de péptidos opiáceos endógenos. Es decir, el propio cerebro libera un potentísimo analgésico capaz de reducir el dolor, a veces a niveles inimaginables.
 > 
-> Si sentimos que importamos a los demás, que no les somos indiferentes, se alargan los telómeros, que están en los extremos de los cromosomas y predicen la longevidad de una persona ::svg:ditto::
+> Si sentimos que importamos a los demás, que no les somos indiferentes, se alargan los telómeros, que están en los extremos de los cromosomas y predicen la longevidad de una persona
 
 Me gustaría, desde este humilde blog, ofrecer una pequeña reflexión al respecto, porque siempre hay alternativas a la que creemos que es la única manera de hacer las cosas. Si podemos quitar el chupete, el biberón o el pañal a un niño desde el amor y el respeto, todos salimos ganando. 
 
@@ -128,8 +128,8 @@ Podéis dejar el chupete en una cajita junto a la mesita con una nota para el ha
 
 ---
 
-> ::svg:ditto:: Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil ::svg:ditto::
-> <cite>Albert Einstein</cite>
+> Todos somos genios. Pero si juzgas a un pez por su habilidad de escalar un árbol, vivirá su vida entera creyendo que es un inútil
+> @@Albert Einstein@@
 
 ## ::menu_book:: Reseña bibliográfica
 

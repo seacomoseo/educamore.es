@@ -45,7 +45,7 @@ Por lo tanto, el pie funciona fantásticamente cuando mantiene su **forma anató
 
 De igual forma, la falta de estímulos mecánicos en conjunto con el uso continuo de zapatos rígidos podría contribuir a que se pierda el tono de los tejidos que conforman el arco plantar, produciendo la condición conocida como **pie plano**. Básicamente las estructuras se vuelven laxas y el pie pierde su forma de arco, colapsando hacia abajo.
 
-<cite>(Vivar, P y Tarí, J. 2023 pp. 206-214)</cite>
+@@(Vivar, P y Tarí, J. 2023 pp. 206-214)@@
 
 {{% / bg %}}
 
@@ -66,7 +66,7 @@ Lo que no sabía el bueno de Richard era que en 1965 estaba sentando las bases d
 
 Nuestro cuerpo funciona como un conductor natural que necesita del contacto de nuestros pies descalzos sobre la tierra para equilibrar su carga electromagnética gracias a la de la Tierra.
 
-<cite>(Valenzuela, A. 2023, pp 310, 312)</cite>
+@@(Valenzuela, A. 2023, pp 310, 312)@@
 
 {{% / bg %}}
 
@@ -142,7 +142,7 @@ Matteo Tavera (1969), en su libro **La mission sacrée** ofrece una variedad de 
 - Utiliza el tronco de un árbol para apoyarte en él y robarle parte de su electricidad para beneficio de tu salud.
 - Bañarte, sobre todo en el agua del mar (por las sales), un lago o un río, es sumamente beneficioso. Si puedes, camina descalzo por estas aguas. Si ya lo has hecho, habrás comprobado los beneficios que genera para tu sistema nervioso, tu sueño, tu apetito y tu actitud. Cuando estás vinculado a la Tierra y participas en los intercambios de electricidad, empiezas a sentirte como un ser humano otra vez”.
 
-<cite>(Ober, Clinton; Sinatra, Stephen T. y Zucker, Martin, 2022, pp 26-44)</cite>
+@@(Ober, Clinton; Sinatra, Stephen T. y Zucker, Martin, 2022, pp 26-44)@@
 
 {{% / bg %}}
 
@@ -179,7 +179,7 @@ Un efecto secundario de la biofobia social y cultural es el llamado “**analfab
 
 La hipótesis del déficit de naturaleza empieza a calar entre los profesionales de la pedagogía, la psicología y la pediatría; muchos de los cuales están tomando conciencia de las posibilidades, tanto preventivas como terapéuticas, de los entornos naturales”. 
 
-<cite>(Freire, H. 2020, pp 42-46)</cite>
+@@(Freire, H. 2020, pp 42-46)@@
 
 {{% / bg %}}
 
@@ -195,16 +195,16 @@ Eso sí, proteger los entornos en pro de la salud de la naturaleza es tarea de t
 
 🙏🏽 Gracias por leer hasta el final. 
 
-> ::svg:ditto:: ¿Qué sería la vida si no tuviéramos el valor de intentar cosas nuevas? ::svg:ditto::
-> <cite>Vincent Van Gogh</cite>
+> ¿Qué sería la vida si no tuviéramos el valor de intentar cosas nuevas?
+> @@Vincent Van Gogh@@
 
 ## ::menu_book:: Reseña bibliográfica
 
-- ::book_2::  Vivar, P y Tarí, J. (2023) “*PNM. PROGRAMACIÓN NEUROMOTRIZ. DESCUBRE CÓMO LA FISIOLOGÍA AFECTA A LA PSICOLOGÍA”,* España. Lunwerg Editores. 206-214
-- ::book_2::  Ober, Clinton; Sinatra, Stephen T. y Zucker, Martin, (2022) “*EARTHING, CON LOS PIES DESCALZOS. CONÉCTATE A LA TIERRA Y TE SENTIRÁS MEJOR*”  España. Editorial Sirio. 26-44
-- ::book_2::  Valenzuela, A. (2023) “*ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”. Alienta Editorial, pp 310, 312\
-- ::book_2::  Freire, H. (2020) “*PATIOS VIVOS PARA RENATURALIZAR LA ESCUELA“*. España. Editorial Octaedro, pp42-46
-- ::image:: [Foto principal](https://unsplash.com/es/fotos/bebe-acostado-sobre-tela-blanca-MB9sdDfZMSg)
+- ::book_2::  Vivar, P y Tarí, J. (2023) “PNM. PROGRAMACIÓN NEUROMOTRIZ. DESCUBRE CÓMO LA FISIOLOGÍA AFECTA A LA PSICOLOGÍA”, España. Lunwerg Editores. 206-214.
+- ::book_2::  Ober, Clinton; Sinatra, Stephen T. y Zucker, Martin, (2022) “EARTHING, CON LOS PIES DESCALZOS. CONÉCTATE A LA TIERRA Y TE SENTIRÁS MEJOR”  España. Editorial Sirio. 26-44.
+- ::book_2::  Valenzuela, A. (2023) “ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA”. Alienta Editorial, pp 310, 312.
+- ::book_2::  Freire, H. (2020) “PATIOS VIVOS PARA RENATURALIZAR LA ESCUELA“. España. Editorial Octaedro, pp42-46.
+- ::image:: [Foto principal](https://unsplash.com/es/fotos/bebe-acostado-sobre-tela-blanca-MB9sdDfZMSg).
 
 {{% bg white %}}
 

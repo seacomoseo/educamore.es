@@ -30,8 +30,8 @@ Si hablamos de “nativo digital” debemos hablar de Mark Prensky, que en 2001 
 
 Si naciste antes de esa era, eres “inmigrante digital”.
 
-> ::svg:ditto:: A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado. ::svg:ditto::
-> <cite>Catherine L’Ecuyer</cite>
+> A pesar de su popularidad, ese concepto fue puesto en cuestión en varios estudios desde 2008. Concretamente, el informe The Google generation: the information behaviour of the researcger of the future, publicado en 2011 por un grupo de académicos (Rowlands et al., 2008), estima que el concepto nativo digital está sobrevalorado.
+> @@Catherine L’Ecuyer@@
 
 Está claro que la tecnología tiene un impacto en los niños. Y muy pocos padres se informan realmente sobre ese impacto, sobre las consecuencias.
 
@@ -49,7 +49,7 @@ En resumen, el uso de smartphones debe ser controlado en esta etapa temprana. Au
 
 {{% bg white %}}
 
-*“Menores de edad, no de derechos digitales”* (Así titula el eslogan de la campaña de Unicef España y la Fundación Atresmedia), y parece que si nos hablan de derechos, lo tienen todo ganado. Pero hay una cuestión muy importante que debemos poner sobre la mesa, y es que **un niño de edad infantil no tiene la madurez para hacer un uso responsable de las tecnologías** ni de las pantallas. En cierto modo, es como darle un cuchillo y esperar que no se corte. 
+“Menores de edad, no de derechos digitales” (Así titula el eslogan de la campaña de Unicef España y la Fundación Atresmedia), y parece que si nos hablan de derechos, lo tienen todo ganado. Pero hay una cuestión muy importante que debemos poner sobre la mesa, y es que **un niño de edad infantil no tiene la madurez para hacer un uso responsable de las tecnologías** ni de las pantallas. En cierto modo, es como darle un cuchillo y esperar que no se corte. 
 
 Aquí lo fácil es hacer lo que hace la mayoría, dejarle el móvil al niño. Lo cómodo es ponerlos delante de una pantalla para que los hipnotice, para que no se muevan, para que no molesten. Mientras papá y mamá comen “tranquilos”, su hijo pasa de un vídeo a otro sin control ni explicación de lo que está viendo. Con los anuncios pertinentes que no se pueden “saltar”, sean los que sean. Los raros aquí, la minoría, son los adultos que deciden no comprar un móvil a sus hijos hasta la mayoría de edad, o los que no conceden minutos como premios consumiendo pantallas a los hijos pequeños si hacen tal cosa…
 
@@ -73,7 +73,7 @@ Te lo recuerdo, la vista. Si ahora tu hijo tiene 3 o 4 años, el sentido que sig
 
 Los músculos ciliares (músculos que permiten adaptar la visión) del cristalino del ojo, alrededor de los 7 años, favorecen la visión lejana. Esto se traduce en que la mayoría de los niños no están físicamente preparados para enfocar los ojos cerca. Además el ojo necesita tener una buena humectación y oxigenación. Deben ir ganando en flexibilidad muscular, rango de movilidad…Cosas que sucederán poco a poco, y por lo que no es bueno que tu hijo mire una pantalla pequeña y luminosa. Otra consecuencia preocupante relacionada con la salud visual es el aumento alarmante de niños con miopía a partir de los 10 o 12 años.
 
-(Chubarovsky, T. citando a Carla Hannaford en “*Aprender moviendo el cuerpo”*, editorial Pax México, en su capítulo dedicado a la visión)
+(Chubarovsky, T. citando a Carla Hannaford en “Aprender moviendo el cuerpo”, editorial Pax México, en su capítulo dedicado a la visión)
 
 {{% / bg %}}
 
@@ -104,7 +104,7 @@ Cuando te quejes de que tu hijo “no para”, detente y reflexiona, probablemen
 - ::link::  [¿Quiénes son los nativos digitales?](https://www.ui1.es/blog-ui1/quienes-son-los-nativos-digitales)
 - ::link::  [El camino de los derechos de la Infancia no ha terminado…](https://www.unicef.es/infancia-tecnologia/menores-con-derechos-digitales)
 - ::link::  Chubarovsky, (2023) [El aburrimiento es la ventana de la creatividad.](https://tamarachubarovsky.com/mi-hijo-se-aburre)
-- ::book_2::  L´Ecuyer, C. (2013) *“EDUCAR EN EL ASOMBRO”* Plataforma Actual.
+- ::book_2::  L´Ecuyer, C. (2013) “EDUCAR EN EL ASOMBRO” Plataforma Actual.
 - ::image:: [Unsplash. Imagen](https://unsplash.com/es/fotos/persona-sosteniendo-un-telefono-inteligente-por-la-noche-lTUyP3RaLpw)
 
 {{% bg white %}}
@@ -116,7 +116,7 @@ Cuando te quejes de que tu hijo “no para”, detente y reflexiona, probablemen
 
 {{% / bg %}}
 
-> ::svg:ditto:: “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón” ::svg:ditto::
-> <cite>Maria Montessori</cite>
+> “Siembra en los niños ideas buenas aunque no las entiendan... Los años se encargarán de descifrarlas en su entendimiento y de hacerlas florecer en su corazón”
+> @@Maria Montessori@@
 
 🙏🏽 Gracias por tu compromiso en el bienestar de tus hijos.

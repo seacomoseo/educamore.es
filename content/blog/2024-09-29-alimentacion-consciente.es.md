@@ -51,7 +51,7 @@ Por tanto, no cabe duda de que tanto en individuos sanos como en personas con pr
 
 Seamos el ejemplo para nuestros pequeños.
 
-<cite>Arrollo Fernández A. (2022). [Alimentación consciente: por qué es importante concentrarnos en lo que comemos y cómo lo comemos](https://theconversation.com/alimentacion-consciente-por-que-es-importante-concentrarnos-en-lo-que-comemos-y-como-lo-comemos-184883). The conversation.</cite>
+@@Arrollo Fernández A. (2022). [Alimentación consciente: por qué es importante concentrarnos en lo que comemos y cómo lo comemos](https://theconversation.com/alimentacion-consciente-por-que-es-importante-concentrarnos-en-lo-que-comemos-y-como-lo-comemos-184883). The conversation.@@
 
 {{% / bg %}}
 
@@ -69,7 +69,7 @@ Por todos estos beneficios es importante promover que la lactancia materna se in
 
 Otro dato importante es que la leche materna cambia de sabor según lo que ingiere la madre, por lo que los bebés amantados se adaptarán con mayor facilidad a los distintos sabores de los alimentos ofrecidos más adelante y, por tanto, tendrán ventaja en cuanto a la aceptación de nuevos sabores.
 
-<cite>(García-Orea, B. 2022. p 129)</cite>
+@@(García-Orea, B. 2022. p 129)@@
 
 ### Riesgos de la introducción tardía de la alimentación complementaria
 
@@ -78,7 +78,7 @@ Otro dato importante es que la leche materna cambia de sabor según lo que ingie
 - Peor aceptación de texturas y sabores
 - Alteración de las habilidades motoras orales (hablé de esto en el artículo [El hada de los chupetes](/hada-chupetes/))
 
-<cite>(García-Orea, B. 2022. p 138)</cite>
+@@(García-Orea, B. 2022. p 138)@@
 
 {{% / bg %}}
 
@@ -94,7 +94,7 @@ Esta transición o cambio en el sabor es, en definitiva, una adecuación natural
 
 Así mismo, su sabor depende en gran medida, como dije antes, de los compuestos químicos de los alimentos que la madre ingiere y que llegan hasta el niño o niña a través de la leche materna, preparando su paladar para recibir los alimentos que son parte del menú familiar.
 
-<cite>Fundación Éxito. "[¿Cómo la leche materna cambia según la edad del bebé?](https://blog.fundacionexito.org/como-la-leche-materna-cambia-segun-la-edad-del-bebe)".</cite>
+@@Fundación Éxito. "[¿Cómo la leche materna cambia según la edad del bebé?](https://blog.fundacionexito.org/como-la-leche-materna-cambia-segun-la-edad-del-bebe)".@@
 
 {{% / bg %}}
 
@@ -141,7 +141,7 @@ No existen directrices precisas sobre cuándo iniciar el método BLW. Comienza c
 - No apresures ni obligues a tu bebé a comer. Tu bebé es responsable de su alimentación.
 - Mantente cerca para garantizar su seguridad y fomentar su independencia.
 
-<cite>Blanca García-Orea: [Baby-Led Weaning](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)</cite>
+@@Blanca García-Orea: [Baby-Led Weaning](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)@@
 
 {{% / bg %}}
 
@@ -153,11 +153,11 @@ Igual sorprenda que, a estas alturas de la escolarización, os hable de lactanci
 
 Con los niños no todo se consigue a la primera, obvio que van a preferir unos alientos a otros, pero está en nuestra mano dedicar tiempo a educarles en el proceso de la alimentación sana, por la salud de toda la familia. **La mejor educación es el ejemplo**. Y por supuesto que todos tenemos algún alimento que no nos gusta o que nos gusta menos, pero al menos deberíamos probar cosas nuevas (sabores, texturas) Lo importante no es que se coma todo el plato, lo importante es que la oferta sea amplia y al menos le demos la oportunidad de ofrecérselo y que lo pueda probar. 
 
-Y nunca, bajo ningún concepto, obligar a un niño a comer, o recurrir al chantaje o a la amenaza (”si no te lo comes no hay helado”, “si no te lo comes todo no vamos al cumpleaños de Eloy”) A los adultos nadie nos dice cuánta cantidad nos debemos comer ni nos amenazan si no nos comemos todo lo que nos han echado en el plato.
+Y nunca, bajo ningún concepto, obligar a un niño a comer, o recurrir al chantaje o a la amenaza (“si no te lo comes no hay helado”, “si no te lo comes todo no vamos al cumpleaños de Eloy”) A los adultos nadie nos dice cuánta cantidad nos debemos comer ni nos amenazan si no nos comemos todo lo que nos han echado en el plato.
 
 Y en cuanto al tema de enmascarar la comida, Paula Bosch, pediatra de PNI, dice:
 
-> ::svg:ditto:: Si le tenemos que enmascarar un brócoli a un niño para que se lo coma, no le estamos ofreciendo un alimento real; se lo damos rebozado, empanado, le ponemos tantas cosas, que no puede descubrir el sabor natural del alimento ::svg:ditto::
+> Si le tenemos que enmascarar un brócoli a un niño para que se lo coma, no le estamos ofreciendo un alimento real; se lo damos rebozado, empanado, le ponemos tantas cosas, que no puede descubrir el sabor natural del alimento
 
 ### Azúcar
 
@@ -173,7 +173,7 @@ Galletas con actimel, magdalena procesada con zumo, batido de chocolate con tort
 
 Hay un ingrediente esencial en la educación alimenticia: lo que no le ofrezcas a tu hijo en la mesa, difícilmente se lo va a comer. Por eso siempre recomiendo ponerle al niño en edad escolar varias cositas para tomar, si una de ellas es fruta, es ideal, al final acabará probándola. Pero si todos los días lleva galletas, se va a acostumbrar al azúcar, en lugar de al sabor de la fruta (fructosa), y el azúcar es adictivo. Tenemos unas bacterias en el cuerpo que se alimentan de él, y son las que nos piden azúcar a todas horas, cuanto más azúcar tomamos, más azúcar nos piden.
 
-> ::svg:ditto:: **El azúcar es la droga de los niños.** ::svg:ditto::
+> **El azúcar es la droga de los niños.**
 
 {{% bg white %}}
 
@@ -185,7 +185,7 @@ El bombardeo de publicidad convirtió en normal que un niño se comiera un choco
 El gran mérito de la industria ha sido convertir en dogma que los hidratos de carbono deben ser la base de la alimentación a la vez que asociaban el término “hidrato de carbono” con ultaprocesados de alta carga glucémica. Galletas, bollos, cereales de desayuno o snacks de todo tipo se han introducido en la vida diaria poco a poco hasta que su consumo se ha normalizado.
 La comida real que contiene carbohidratos es la verdura, la fruta, la miel, los cereales, los tubérculos y las legumbres.
 
-<cite>(Valenzuela, A. 2022. p 216)</cite>
+@@(Valenzuela, A. 2022. p 216)@@
 
 {{% / bg %}}
 
@@ -206,7 +206,7 @@ He aquí los problemas más comunes relacionados con la ingesta de azúcar:
 - Disminución de la sensibilidad a la insulina o diabetes
 - …
 
-<cite>(García-Orea, B. 2022. p 165)</cite>
+@@(García-Orea, B. 2022. p 165)@@
 
 {{% / bg %}}
 
@@ -229,24 +229,24 @@ Cada color representa una familia diferente de **compuestos curativos**. Dado qu
 - Azul/morado: arándanos, moras, uvas, ciruelas, berenjenas, versiones moradas de patatay boniato, col, zanahorias, coliflor.
 - Blanco/tostado: cacao, coco, café, ajo, hummus, cebolla, cebolleta, chucrut, puerro, setas, coliflor, frutos secos, semillas, tahini, legumbres.
 
-<cite>(Valenzuela, A. 2022. p 180-182)</cite>
+@@(Valenzuela, A. 2022. p 180-182)@@
 
 {{% / bg %}}
 
 🙏🏽 Gracias por leer hasta el final.
 
-> ::svg:ditto:: El límite no es el cielo. El límite es la mente ::svg:ditto::
-> <cite>Wim Hof, conocido como Iceman</cite>
+> El límite no es el cielo. El límite es la mente
+> @@Wim Hof, conocido como Iceman@@
 
 ## ::menu_book:: Reseña bibliográfica
 
-- ::book_2:: García-Orea, B. (2022) “DIME QUÉ COMO AHORA. MEJORA TU MICROBIOTA, TUS DIGESTIONES Y TU ENERGÍA”. Grijalbo, Barcelona. 129, 138, 164, 165
-- ::book_2:: Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES” Alienta editorial, Barcelona. 212, 222, 223, 224
-- ::book_2:: Valenzuela, A. (2023) “ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA*”.* Alienta Editorial, Barcelona. 180, 181, 182, 206, 216
+- ::book_2:: García-Orea, B. (2022) “DIME QUÉ COMO AHORA. MEJORA TU MICROBIOTA, TUS DIGESTIONES Y TU ENERGÍA”. Grijalbo, Barcelona. 129, 138, 164, 165.
+- ::book_2:: Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES” Alienta editorial, Barcelona. 212, 222, 223, 224.
+- ::book_2:: Valenzuela, A. (2023) “ACTIVA TUS MITOCONDRIAS. EL SECRETO PARA UNA VIDA MÁS LONGEVA”. Alienta Editorial, Barcelona. 180, 181, 182, 206, 216.
 - ::link:: [Alimentación consciente: por qué es importante concentrarnos en lo que comemos y cómo lo comemos](https://theconversation.com/alimentacion-consciente-por-que-es-importante-concentrarnos-en-lo-que-comemos-y-como-lo-comemos-184883).
 - ::link:: [¿Cómo la leche materna cambia según la edad del bebé?](https://blog.fundacionexito.org/como-la-leche-materna-cambia-segun-la-edad-del-bebe).
-- ::link:: [Baby-Led Weaning: guía para ayudar a tu bebé a descubrir y disfrutar la comida](https://www.nestlebebe.es/articulo/blw-baby-led-weaning)
-- ::link:: [Foto principal](https://www.pexels.com/es-es/foto/calma-a-pequenos-hermanos-etnicos-comiendo-deliciosos-espaguetis-durante-el-almuerzo-en-casa-5692230/)
+- ::link:: [Baby-Led Weaning: guía para ayudar a tu bebé a descubrir y disfrutar la comida](https://www.nestlebebe.es/articulo/blw-baby-led-weaning).
+- ::link:: [Foto principal](https://www.pexels.com/es-es/foto/calma-a-pequenos-hermanos-etnicos-comiendo-deliciosos-espaguetis-durante-el-almuerzo-en-casa-5692230/).
 
 {{% bg white %}}
 

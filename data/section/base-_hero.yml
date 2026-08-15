@@ -16,7 +16,6 @@ boxes:
   - type: time
   - type: tax
     tax: category
-- if: image
+- if: img
   get:
-  - from: img
-    to: img
+  - to: img

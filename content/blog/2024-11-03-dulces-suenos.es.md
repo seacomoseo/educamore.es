@@ -31,7 +31,7 @@ Para ayudar a nuestros hijos a dormir mejor, **es fundamental establecer y segu
 
 Ciertos aceites esenciales, como la lavanda, el azahar, la corteza de mandarina, el mirto y la mejorana, pueden ser útiles debido a sus propiedades relajantes, equilibradoras y capaces de reducir el estrés, la tensión y la excitabilidad del sistema nervioso.
 
-<cite>(Saíz, M., (Julio de 2024) *“Dormir bien durante la infancia con remedios naturales”.* *La opinión del especialista.* Revista Bioeco Actual, Nº 125*,* página 29)</cite>
+@@(Saíz, M., (Julio de 2024) “Dormir bien durante la infancia con remedios naturales”. La opinión del especialista. *Revista Bioeco Actual*, Nº 125, página 29)@@
 
 {{% / bg %}}
 
@@ -111,14 +111,14 @@ Establecer una rutina con los más pequeños de la casa es sumamente importante,
 
 🙏🏽 Gracias por leer hasta el final. Gracias por prestarte este momento de atención.
 
-> ::svg:ditto:: La mejor manera de predecir el futuro es crearlo ::svg:ditto::
-> <cite>Abraham Lincoln</cite>
+> La mejor manera de predecir el futuro es crearlo
+> @@Abraham Lincoln@@
 
 ## ::menu_book:: Reseña bibliográfica
 
-- ::book_2::  Maribel Saíz Cayuela, Licencida en Ciencias Biológicas, PGD Dietética y Nutrición. Revista Bioeco Actual, Nº 125, página 29 (Julio de 2024) “*Dormir bien durante la infancia con remedios naturales*”.
-- ::book_2::  Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES*”.* Alienta Editorial, Barcelona. 134-153
-- ::image:: [Foto principal](https://unsplash.com/es/fotos/un-gato-con-una-moneda-en-la-cabeza-JPDOnLXXW1k)
+- ::book_2::  Maribel Saíz Cayuela, Licencida en Ciencias Biológicas, PGD Dietética y Nutrición. Revista Bioeco Actual, Nº 125, página 29 (Julio de 2024) “Dormir bien durante la infancia con remedios naturales”.
+- ::book_2::  Valenzuela, A. (2022) “HIJOS DE LA ADVERSIDAD. CÓMO FORTALECER TU SALUD A TRAVÉS DE HÁBITOS ANCESTRALES”. Alienta Editorial, Barcelona. 134-153.
+- ::image:: [Foto principal](https://unsplash.com/es/fotos/un-gato-con-una-moneda-en-la-cabeza-JPDOnLXXW1k).
 
 {{% bg white %}}
 

@@ -65,8 +65,8 @@ Para proteger el bienestar de los niños y mantener un entorno escolar saludable
 - **Comunicación con el centro educativo:** Informar al colegio sobre el estado de salud del niño, respetando sus protocolos y evitando presionar para que asista a clase cuando no se encuentra en condiciones óptimas.
 - **Fomentar el cuidado y el respeto propio:** Enseñar a los niños, de manera adecuada a su edad, la importancia de escuchar a su cuerpo y descansar cuando es necesario. La escucha y el respeto a nuestro propio cuerpo deben ser factores a educar desde la primera infancia.
 
-> ::svg:ditto:: No hay atajos en el camino hacia la sanación; cada proceso debe transcurrir a su propio ritmo ::svg:ditto::
-> <cite>Frase anónima</cite>
+> No hay atajos en el camino hacia la sanación; cada proceso debe transcurrir a su propio ritmo
+> @@Frase anónima@@
 
 ## ::sports_score:: Conclusión
 
@@ -79,10 +79,10 @@ Respetar el proceso natural de la enfermedad en niños de 3 años es fundamental
 - ::link:: **MedlinePlus (biblioteca nacional de medicina de EEUU)**
     **Fiebre en niños** Este recurso es una fuente confiable para obtener información sobre el manejo de la fiebre, explicando la importancia de permitir que el organismo combata la enfermedad de forma natural sin recurrir de inmediato a medicamentos que enmascaren los síntomas. [Más información](https://medlineplus.gov/fever.html).
 - ::book_2:: **Artículo Académico**
-    **Schabmann, D., et al. (2010). *"Manejo de la fiebre en la infancia: una revisión sistemática."* Pediatrics, 125(3), e467-e473.** Este artículo revisa de manera sistemática las prácticas de manejo de la fiebre en la infancia, destacando la importancia de no enmascarar innecesariamente los síntomas para permitir que el organismo desarrolle su respuesta inmunitaria natural.
+    **Schabmann, D., et al. (2010). "Manejo de la fiebre en la infancia: una revisión sistemática." Pediatrics, 125(3), e467-e473.** Este artículo revisa de manera sistemática las prácticas de manejo de la fiebre en la infancia, destacando la importancia de no enmascarar innecesariamente los síntomas para permitir que el organismo desarrolle su respuesta inmunitaria natural.
 
-- ::book_2:: **Cuento:** Tolosa Sisteré, M. y Colectivo Ellas Educan, *"LA VIDA SECRETA DE LOS VIRUS".* Zahorí Books
-- ::book_2:: **Cuento:** López, M. pediatra, *"NOA Y LOS MOCOS".* Beascoa
+- ::book_2:: **Cuento:** Tolosa Sisteré, M. y Colectivo Ellas Educan, "LA VIDA SECRETA DE LOS VIRUS". Zahorí Books
+- ::book_2:: **Cuento:** López, M. pediatra, "NOA Y LOS MOCOS". Beascoa
 - ::image:: Unsplash. [Imagen](https://unsplash.com/es/fotos/mujer-en-camisa-floral-blanca-y-negra-acostada-en-el-sofa-negro-lgWqGhqSr0g).
 
 {{% bg white %}}
@@ -95,7 +95,7 @@ Respetar el proceso natural de la enfermedad en niños de 3 años es fundamental
 
 {{% / bg %}}
 
-> ::svg:ditto:: Cuida tu cuerpo, es el único lugar que tienes para vivir ::svg:ditto::
-> <cite>Jim Rohn</cite>
+> Cuida tu cuerpo, es el único lugar que tienes para vivir
+> @@Jim Rohn@@
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.

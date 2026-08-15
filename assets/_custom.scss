@@ -114,21 +114,27 @@
 
 // BLOG
 
-// blockquote
-.md blockquote:not(.quotes, .dittos) {
-  padding-inline: 0;
-  &:before,
-  &:after {
+.md:not(#aux) {
+  // quotes
+  blockquote,
+  q {
+    &:not(.quotes, .aquotes) {
+      &:before { content: "”"; }
+      &:after  { content: "“"; }
+    }
+  }
+  q {
+    @include mixins.font-quotes;
+    color: var(--sub);
+  }
+  // cite
+  blockquote cite:before {
     content: none;
   }
-}
-// cite
-.md blockquote cite:before {
-  content: none;
-}
-// copiright
-#cc svg {
-  opacity: 1;
+  // copiright
+  #cc svg {
+    opacity: 1;
+  }
 }
 // fix alert in terrores-nocturnos
 #terrores-nocturnos + p + .alert:not(#aux) {

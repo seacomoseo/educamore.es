@@ -16,13 +16,13 @@ toc: true
 
 Todo tiene un final, todo se acaba...
 
-Hablar de la muerte con los más pequeños sigue siendo, para muchos adultos, un terreno incómodo que preferimos rodear antes que transitar. Sin embargo, la muerte es tan parte de la vida como el nacimiento y negar su presencia solo aumenta el misterio y el miedo que la rodean. Desde las primeras preguntas ---*"¿Por qué ya no viene el abuelo?"*--- hasta las dudas existenciales de la adolescencia, los niños construyen su propia idea de la finitud apoyándose en las reacciones y explicaciones de quienes les cuidamos.
+Hablar de la muerte con los más pequeños sigue siendo, para muchos adultos, un terreno incómodo que preferimos rodear antes que transitar. Sin embargo, la muerte es tan parte de la vida como el nacimiento y negar su presencia solo aumenta el misterio y el miedo que la rodean. Desde las primeras preguntas ---"¿Por qué ya no viene el abuelo?"--- hasta las dudas existenciales de la adolescencia, los niños construyen su propia idea de la finitud apoyándose en las reacciones y explicaciones de quienes les cuidamos.
 
 Este artículo pretende un doble propósito: ofrecer a padres y docentes claves basadas en la evidencia para acompañar el duelo infantil, y proporcionar a los más pequeños unos relatos que transformen la pérdida en algo comprensible y lleno de significado. Abordaremos cómo responder a sus preguntas con honestidad y ternura, y qué recursos narrativos facilitan la gestión emocional en la infancia. Porque al dar palabras, rituales y tiempo al duelo, no solo protegemos a los niños del sufrimiento innecesario: también les enseñamos que el amor persiste más allá de la ausencia.
 
 ## La muerte: cuando el adiós duele
 
-*"Mamá, ¿tú te vas a morir?"*
+"Mamá, ¿tú te vas a morir?"
 
 Sabemos que la curiosidad de los niños en infinita. El tema de la muerte les suscita mucho interés y les lleva a hacerse (y hacernos) muchas preguntas, porque los adultos tendemos a dar pocas explicaciones, a veces, por no saber qué decirles.
 
@@ -32,9 +32,9 @@ Los menores perciben la inquietud que la muerte provoca en los adultos y, al not
 
 **La muerte es un hecho ineludible que forma parte de la vida**.
 
-La muerte genera gran ansiedad y, para protegernos del dolor, los adultos tendemos a retrasar las explicaciones o a suavizarlas. Sin embargo, cada etapa evolutiva plantea preguntas concretas que necesitan respuestas claras y ajustadas a la edad. Cuando los niños perciben nuestra angustia, pueden dejar de preguntar: entienden que *"si a mamá o papá le cambia la cara, debe de ser algo muy malo de lo que no se habla"*. Ese silencio hace que completen los datos sueltos que oyen con fantasías propias, construyendo ideas confusas o distorsionadas sobre la muerte. Y no queremos que nuestros pequeños se asienten sobre ideas tergiversadas de la muerte, por eso es esencial ofrecer explicaciones sencillas, veraces y coherentes con su nivel de desarrollo, de modo que el miedo se transforme en comprensión y la imaginación no llene los vacíos con temores aún mayores.
+La muerte genera gran ansiedad y, para protegernos del dolor, los adultos tendemos a retrasar las explicaciones o a suavizarlas. Sin embargo, cada etapa evolutiva plantea preguntas concretas que necesitan respuestas claras y ajustadas a la edad. Cuando los niños perciben nuestra angustia, pueden dejar de preguntar: entienden que "si a mamá o papá le cambia la cara, debe de ser algo muy malo de lo que no se habla". Ese silencio hace que completen los datos sueltos que oyen con fantasías propias, construyendo ideas confusas o distorsionadas sobre la muerte. Y no queremos que nuestros pequeños se asienten sobre ideas tergiversadas de la muerte, por eso es esencial ofrecer explicaciones sencillas, veraces y coherentes con su nivel de desarrollo, de modo que el miedo se transforme en comprensión y la imaginación no llene los vacíos con temores aún mayores.
 
-Reflexionar sobre la muerte y las pérdidas que conlleva nos provoca tristeza, y con frecuencia intentamos proteger a los niños de esa sensación. Cuando ocurre un fallecimiento y estamos angustiados, sentimos que no tenemos respuestas adecuadas para sus dudas; nuestras explicaciones se ven impregnadas de nuestro propio temor y preferimos evitarlas. Suponemos que ocultarles la muerte, a los difuntos y todo lo que los rodea los librará del miedo y la inquietud. Creemos, de forma equivocada, que exponerles a la "dureza" de la muerte podría causarles un trauma. Por eso nos apoyamos en excusas como *"es muy pequeño"*, *"no lo entenderá"* o *"puede ser traumático"*, olvidando que la muerte es tan real como la vida y que, tarde o temprano, tendrán que afrontarla.
+Reflexionar sobre la muerte y las pérdidas que conlleva nos provoca tristeza, y con frecuencia intentamos proteger a los niños de esa sensación. Cuando ocurre un fallecimiento y estamos angustiados, sentimos que no tenemos respuestas adecuadas para sus dudas; nuestras explicaciones se ven impregnadas de nuestro propio temor y preferimos evitarlas. Suponemos que ocultarles la muerte, a los difuntos y todo lo que los rodea los librará del miedo y la inquietud. Creemos, de forma equivocada, que exponerles a la "dureza" de la muerte podría causarles un trauma. Por eso nos apoyamos en excusas como "es muy pequeño", "no lo entenderá" o "puede ser traumático", olvidando que la muerte es tan real como la vida y que, tarde o temprano, tendrán que afrontarla.
 
 ## Los principales problemas al abordar el tema de la muerte con los niños
 
@@ -92,11 +92,11 @@ Lo más recomendable es usar un lenguaje claro, directo y concreto; se trata de 
 
 El pensamiento mágico infantil hace que si le hablamos con metáforas y eufemismos, se los tomen al pie de la letra, así que descartaremos frases como:
 
-- *"El abuelo está en un lugar mejor"*
-- *"Se ha ido"*
-- *"Nos cuida desde el cielo"*
+- "El abuelo está en un lugar mejor"
+- "Se ha ido"
+- "Nos cuida desde el cielo"
 
-La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando cada duda para que no crezcan sus miedos ni se confundan. Si no sabemos algo, lo más sensato es reconocérselo: *"No lo sé, no puedo contestarte a cosas que yo tampoco sé"*, en vez dar explicaciones imaginarias o incluso contradictorias.
+La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando cada duda para que no crezcan sus miedos ni se confundan. Si no sabemos algo, lo más sensato es reconocérselo: "No lo sé, no puedo contestarte a cosas que yo tampoco sé", en vez dar explicaciones imaginarias o incluso contradictorias.
 
 #### Niños de 3 a 6 años
 
@@ -110,7 +110,7 @@ La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando
 - ::close:: **Qué complica**
 
     - Emplear metáforas o eufemismos.
-    - Decir frases como: *"Duerme para siempre"* o "*Nos cuida desde el cielo"*.
+    - Decir frases como: "Duerme para siempre" o "Nos cuida desde el cielo".
     - Dar explicaciones largas, técnicas o científicas.
 
 #### Niños de 6 a 10 años
@@ -134,7 +134,7 @@ La mejor respuesta es siempre la que se da con honestidad y sencillez; aclarando
 
 ## Las 5 fases del duelo: la teoría de Elisabeth Kübler-Ross
 
-La psiquiatra suiza Elisabeth Kübler-Ross publicó en 1969 el libro *"On death and dying"* ("Sobre la muerte y el morir"), en el que describió por primera vez las 5 fases del duelo. Para ello se basó en su trabajo con pacientes terminales en la Universidad de Chicago.
+La psiquiatra suiza Elisabeth Kübler-Ross publicó en 1969 el libro "On death and dying" ("Sobre la muerte y el morir"), en el que describió por primera vez las 5 fases del duelo. Para ello se basó en su trabajo con pacientes terminales en la Universidad de Chicago.
 
 **El modelo de Kübler-Ross divide el duelo en 5 etapas** que tienen lugar de forma sucesiva; no obstante, años después insistió en que el proceso de duelo no es tan lineal y rígido.
 
@@ -176,42 +176,42 @@ Consulta con un psicólogo si te cuesta la aceptación de la pérdida.
 
 **Para niños de entre 3 y 6 años:**
 
-- ::🦊:: *"El árbol de los recuerdos"* -- Britta Teckentrup. Nubeocho ediciones.
+- ::🦊:: "El árbol de los recuerdos" -- Britta Teckentrup. Nubeocho ediciones.
     - ::✦:: Trata la muerte de un zorro anciano y cómo sus amigos plantan un árbol con sus recuerdos.
     - ::✦:: Muy visual, con tono amoroso y positivo.
-- ::🦆:: *"El pato, la muerte y el tulipán"* -- Wolf Erlbruch. Barbara Fiore Editora.
+- ::🦆:: "El pato, la muerte y el tulipán" -- Wolf Erlbruch. Barbara Fiore Editora.
     - ::✦:: Un cuento sencillo donde un pato dialoga con la muerte.
     - ::✦:: La muerte aparece como una figura calmada, sin miedo ni dolor.
     - ::✦:: Estilo directo, filosófico, pero muy accesible.
-- ::🌌:: *"¿Dónde está el abuelo?"* -- Toti Martínez de Lezea.
+- ::🌌:: "¿Dónde está el abuelo?" -- Toti Martínez de Lezea.
     - ::✦:: Ayuda a comprender el fallecimiento de un ser querido.
     - ::✦:: Ideal si el niño ha perdido a un familiar.
-- ::🧸:: *"Siempre te querré"* -- Robert Munsch. Andana Editorial.
+- ::🧸:: "Siempre te querré" -- Robert Munsch. Andana Editorial.
     - ::✦:: No trata directamente la muerte, pero sí el amor incondicional y el paso del tiempo.
     - ::✦:: Muy útil como base emocional para hablar de pérdidas.
-- ::🦉:: *"La abuela necesita besitos"* -- Ana Bergua.
+- ::🦉:: "La abuela necesita besitos" -- Ana Bergua.
     - ::✦:: Trata el Alzheimer, la vejez y el vínculo afectivo con ternura.
     - ::✦:: Puede servir para explicar el deterioro y la pérdida de los abuelos.
-- ::🐢:: *"Siempre te querré"* -- Debi Gliori.
+- ::🐢:: "Siempre te querré" -- Debi Gliori.
     - ::✦:: Aborda la seguridad emocional: el amor que permanece incluso cuando alguien ya no está.
     - ::✦:: Muy adecuado como cuento de contención afectiva.
 
 **Para niños de entre 4 y 10 años:**
 
-- ::🐞:: *"Vacío"* (Anna Llenas, 2015), Barbara Fiore. ([casadellibro.com](https://www.casadellibro.com/libro-vacio/9788415208723/2741192?srsltid=AfmBOoqlW4bsfJTRI_r93jTNbUOBYH9V3ou3U5hzFEzaxtsyK2zoraFF&utm_source=chatgpt.com))
+- ::🐞:: "Vacío" (Anna Llenas, 2015), Barbara Fiore. ([casadellibro.com](https://www.casadellibro.com/libro-vacio/9788415208723/2741192?srsltid=AfmBOoqlW4bsfJTRI_r93jTNbUOBYH9V3ou3U5hzFEzaxtsyK2zoraFF&utm_source=chatgpt.com))
     - ::✦:: Explora el sentimiento de "agujero" interior y la resiliencia. \
     (Es uno de mis preferidos, recomendado para todas las edades)
-- ::🦊:: *"Para siempre"* (*Always and Forever*) (Alan Durant & Debi Gliori, 2004) Harcourt. ([amazon.com](https://www.amazon.com/Always-Forever-Alan-Durant/dp/015216636X?utm_source=chatgpt.com))
+- ::🦊:: "Para siempre" (*Always and Forever*) (Alan Durant & Debi Gliori, 2004) Harcourt. ([amazon.com](https://www.amazon.com/Always-Forever-Alan-Durant/dp/015216636X?utm_source=chatgpt.com))
     - ::✦:: Destaca el recuerdo compartido como forma de continuidad.
-- ::👵:: *"La Abuela Durmiente"* (*Always and Forever*) -- Roberto Parmeggiani y Joao Vaz de Carvalho.
+- ::👵:: "La Abuela Durmiente" (*Always and Forever*) -- Roberto Parmeggiani y Joao Vaz de Carvalho.
     - ::✦:: Es un emotivo álbum ilustrado perteneciente a la colección Libros para Soñar, de la editorial Kalandraka, que explica la pérdida que sufre el niño protagonista al ver cómo su abuela empieza a perder la cabeza, después queda postrada en la cama y, finalmente, fallece.
 
 ## Cierre
 
-Y al final del día, cuando las preguntas se adormecen y el corazón de un niño busca cobijo, basta con nuestra voz suave diciendo: *"Aquí estoy... y aquí seguirá el amor"*. Porque la ternura ---ese lenguaje que no necesita palabras--- cose las grietas de la pérdida y recuerda a los pequeños que, aunque alguien ya no esté, el vínculo permanece latiendo en cada recuerdo compartido, en cada risa que regresa, en cada abrazo que nos encuentra.
+Y al final del día, cuando las preguntas se adormecen y el corazón de un niño busca cobijo, basta con nuestra voz suave diciendo: "Aquí estoy... y aquí seguirá el amor". Porque la ternura ---ese lenguaje que no necesita palabras--- cose las grietas de la pérdida y recuerda a los pequeños que, aunque alguien ya no esté, el vínculo permanece latiendo en cada recuerdo compartido, en cada risa que regresa, en cada abrazo que nos encuentra.
 
-> ::svg:ditto:: Trata todo lo que tengas como si fuera una porcelana preciosa porque algún día desaparecerá ::svg:ditto::
-> <cite>Diana Bradley</cite>
+> Trata todo lo que tengas como si fuera una porcelana preciosa porque algún día desaparecerá
+> @@Diana Bradley@@
 
 ## Bibliografía
 
@@ -225,7 +225,7 @@ Y al final del día, cuando las preguntas se adormecen y el corazón de un niño
 - ::book_2:: Kübler-Ross, E. & Kessler, D. (2007). On grief and grieving: finding the meaning of grief through the five stages of loss. New York: Scribner.
 - ::image:: Unsplash. [Imagen](https://unsplash.com/es/fotos/persona-en-mascara-de-calavera-en-blanco-y-negro-sosteniendo-vela-encendida-JGYAzz2OaH0).
 
-> ::svg:ditto:: A todas esas almas que ya decidieron volar a la luz, vuestro recuerdo sigue vivo en nuestros corazones ::svg:ditto::
-> <cite>Nieves Lara</cite>
+> A todas esas almas que ya decidieron volar a la luz, vuestro recuerdo sigue vivo en nuestros corazones
+> @@Nieves Lara@@
 
 🙏🏽 Gracias por tu compromiso en el acompañamiento a tus hijos.
