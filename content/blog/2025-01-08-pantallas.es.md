@@ -3,13 +3,9 @@ slug: pantallas
 title: Pantallas
 img: /u/blog/pantallas.webp
 sum: 'Hoy quiero hablarles sobre un tema que es cada vez más relevante en la vida de nuestros pequeños: el uso de smartphones. Sabemos que estos…'
-
 date: 2025-01-08 00:00:00
-author: nieves
 category:
 - padres
-
-toc: true
 ---
 
 ## ::phone_iphone:: Dispositivos en cuarentena

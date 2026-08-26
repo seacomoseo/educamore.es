@@ -4,11 +4,8 @@ title: Cerebro en acción
 img: /u/blog/cerebro-en-accion.jpg
 sum: 'El desarrollo infantil da un salto enorme a los cuatro años. Es una etapa de expansión: el niño pasa de “descubrir el mundo” a…'
 date: 2025-10-05 00:00:00
-author: nieves
 category:
 - padres
-
-toc: true
 ---
 
 ## Funciones ejecutivas a los 4 años

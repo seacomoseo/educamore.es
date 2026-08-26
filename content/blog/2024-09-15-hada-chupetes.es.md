@@ -3,13 +3,9 @@ slug: hada-chupetes
 title: El hada de los chupetes
 img: /u/blog/hada-chupetes.webp
 sum: Los chupetes existen desde hace más de mil años y aún tienen un uso muy extendido en nuestros días porque permiten calmar y cesar el lloro del bebé o…
-
 date: 2024-09-15 00:00:00
-author: nieves
 category:
 - padres
-
-toc: true
 ---
 
 {{% bg white %}}

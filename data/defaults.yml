@@ -1,0 +1,10 @@
+- name: author
+  value: nieves
+  type: str
+  path:
+  - /blog/*
+- name: toc
+  value: 'true'
+  type: bool
+  path:
+  - /blog/*

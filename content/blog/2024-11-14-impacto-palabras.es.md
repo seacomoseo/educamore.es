@@ -3,14 +3,10 @@ slug: impacto-palabras
 title: El impacto de tus palabras
 img: /u/blog/impacto-palabras.webp
 sum: Las palabras tienen poder. Un poder transformador. Las palabras que usamos al comunicarnos hablan de cómo estamos por dentro pero también físicamente…
-
 date: 2024-11-14 00:00:00
 mod: 2024-12-14 00:00:00
-author: nieves
 category:
 - padres
-
-toc: true
 ---
 
 ## ::format_quote:: Las palabras tienen poder
