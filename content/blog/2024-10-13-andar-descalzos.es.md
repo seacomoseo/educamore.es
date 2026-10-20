@@ -216,4 +216,4 @@ Eso sí, proteger los entornos en pro de la salud de la naturaleza es tarea de t
 
 Película de 15 minutos sobre el inventor de la conexión a tierra, Clinton Ober:
 
-![16/9](https://youtu.be/g12eKsgVByQ)
+![](https://youtu.be/g12eKsgVByQ)

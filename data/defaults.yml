@@ -3,6 +3,11 @@
   type: str
   path:
   - /blog/*
+- name: seo.noindex
+  value: 'true'
+  type: bool
+  path:
+  - /category/*
 - name: toc
   value: 'true'
   type: bool

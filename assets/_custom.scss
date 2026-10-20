@@ -122,10 +122,10 @@
       &:before { content: "”"; }
       &:after  { content: "“"; }
     }
+    color: var(--sub);
   }
   q {
     @include mixins.font-quotes;
-    color: var(--sub);
   }
   // cite
   blockquote cite:before {

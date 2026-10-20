@@ -20,11 +20,11 @@ Hoy nos sentamos a tomar un café para conversar sobre ellos, descubrir en qué 
 
 ## María Montessori
 
-> *Dejad que los niños corran al aire libre cuando llueve; que caminen descalzos sobre la hierba húmeda; que griten y rían cuando el sol los despierte*
+> Dejad que los niños corran al aire libre cuando llueve; que caminen descalzos sobre la hierba húmeda; que griten y rían cuando el sol los despierte
 
 María Montessori (1870-1952) fue pedagoga, psiquiatra humanista y filósofa italiana. Creó la pedagogía o método Montessori. Escribió una tesis doctoral en psiquiatría sobre niños con necesidades educativas especiales. A partir de su experiencia en este campo, Montessori descubrió que el ámbito de los niños y niñas con diversidad funcional intelectual:
 
-> […] *tiene más que ver con el ámbito pedagógico que con el médico, y por consiguiente, con las condiciones ambientales en las que los niños crecen. Las experiencias vividas en este campo influirán de forma determinante en su método educativo*
+> […] tiene más que ver con el ámbito pedagógico que con el médico, y por consiguiente, con las condiciones ambientales en las que los niños crecen. Las experiencias vividas en este campo influirán de forma determinante en su método educativo
 > @@Santerini, 2013@@
 
 En el año 1907, la pedagoga puso en marcha la primera *Casa dei Bambini* (Casa de los niños) en un barrio desfavorecido de Roma. En estas guarderías, que acogían a niños de 3 a 6 años, Montessori propuso un nuevo modelo de educación basado en el método experimental y en la observación científica por parte del maestro, dando paso a la escuela nueva de la infancia, con los niños como centro.
@@ -186,25 +186,25 @@ Tanto Montessori como Waldorf convergen en un mismo latido: comprender que educa
 
 ### Montessori
 
-- ::book_2:: Santerini, M. (2013). **[Grandes de la educación: María Montessori](https://revistas.comillas.edu/index.php/padresymaestros/article/view/959).** *Padres y maestros / Journal of Parents and Teachers*, (349).
-- ::book_2:: ***Montessori paso a paso: vida práctica, vida sensorial*.** PATRON, I., TOINET, V. y DORANCE, S. (2019). Cotignac: Escuela Viva.
-- ::book_2:: ***Jugar y aprender con el método Montessori:** guía de actividades educativas desde los 2 a los 6 años*. BRITTON, L. (2017). Barcelona: Paidós Educación.
-- ::book_2:: ***El método de la pedagogía científica* (1909):** La obra fundacional donde María Montessori describe por primera vez el entorno preparado, las observaciones en la *Casa dei Bambini* y la invención/adaptación de los primeros materiales didácticos (como los de vida práctica y sensoriales).
-- ::book_2:: ***El manual personal de la Dra. Montessori* (1914 / *Dr. Montessori's Own Handbook*):** Una guía práctica e ilustrada en la que explica detalladamente la función y el uso de materiales como la torre rosa, los listones rojos, los cilindros y las cajas de color.
-- ::book_2:: ***La mente absorbente del niño* (1949):** Explica los fundamentos neuropsicológicos y periodos sensibles que justifican el diseño sensorial y manipulativo de estos materiales.
+- ::book_2:: Santerini, M. (2013). [Grandes de la educación: María Montessori](https://revistas.comillas.edu/index.php/padresymaestros/article/view/959). *Padres y maestros / Journal of Parents and Teachers*, (349).
+- ::book_2:: *Montessori paso a paso: vida práctica, vida sensorial*. PATRON, I., TOINET, V. y DORANCE, S. (2019). Cotignac: Escuela Viva.
+- ::book_2:: *Jugar y aprender con el método Montessori:* guía de actividades educativas desde los 2 a los 6 años*. BRITTON, L. (2017). Barcelona: Paidós Educación.
+- ::book_2:: *El método de la pedagogía científica* (1909): La obra fundacional donde María Montessori describe por primera vez el entorno preparado, las observaciones en la *Casa dei Bambini* y la invención/adaptación de los primeros materiales didácticos (como los de vida práctica y sensoriales).
+- ::book_2:: *El manual personal de la Dra. Montessori* (1914 / *Dr. Montessori's Own Handbook*): Una guía práctica e ilustrada en la que explica detalladamente la función y el uso de materiales como la torre rosa, los listones rojos, los cilindros y las cajas de color.
+- ::book_2:: *La mente absorbente del niño* (1949): Explica los fundamentos neuropsicológicos y periodos sensibles que justifican el diseño sensorial y manipulativo de estos materiales.
 
 ### Waldorf
 
-- ::book_2:: Badilla, I. (2016). **Los cuentos de hadas, una propuesta para la niñez desde la pedagogía Waldorf.** *Innovaciones educativas*, *18*(25), 55-64.
-- ::book_2:: Carlgren, F. (2020). ***Pedagogía Waldorf: Una educación hacia la libertad*.** Editorial Antroposófica.
-- ::book_2:: ***El estudio del ser humano como base de la pedagogía* (1919) / GA 293:** Ciclo de conferencias fundacionales donde Steiner sienta las bases del desarrollo infantil (septenios) y el papel del arte y los sentidos en la educación.
-- ::book_2:: ***El arte de educar desde la comprensión de la entidad humana* (1919) / GA 294:** Explica la importancia de la imitación en la primera infancia y el uso del juego no estructurado.
-- ::book_2:: ***Educación práctica del pensamiento* (1909):** Conferencia donde justifica la necesidad de materiales que estimulen la voluntad y el hacer con las manos.
-- ::book_2:: Jaffke, Freya. ***Juego de niños: El juego en la primera infancia* (Editorial Pau de Damasc):** Manual clave sobre el diseño de juguetes Waldorf, la confección de muñecas de tela, telas de juego y materiales naturales para el hogar y la escuela.
-- ::book_2:: Carlgren, Frans. ***Educar para la libertad*** (Editorial Rudolf Steiner): Panorama completo de la pedagogía Waldorf, que detalla el uso del dibujo de formas, los cuadernos de lección principal y el trabajo con las ceras y la acuarela.
-- ::book_2:: Elders, Karin & Oldfield, Lynne. ***La mesa de estación Waldorf*:** Guía práctica sobre el uso y selección de materiales estacionales para conectar al niño con los ciclos de la naturaleza.
+- ::book_2:: Badilla, I. (2016). *Los cuentos de hadas, una propuesta para la niñez desde la pedagogía Waldorf*. *Innovaciones educativas*, 18 (25), 55-64.
+- ::book_2:: Carlgren, F. (2020). *Pedagogía Waldorf: Una educación hacia la libertad*. Editorial Antroposófica.
+- ::book_2:: *El estudio del ser humano como base de la pedagogía* (1919) / GA 293: Ciclo de conferencias fundacionales donde Steiner sienta las bases del desarrollo infantil (septenios) y el papel del arte y los sentidos en la educación.
+- ::book_2:: *El arte de educar desde la comprensión de la entidad humana* (1919) / GA 294: Explica la importancia de la imitación en la primera infancia y el uso del juego no estructurado.
+- ::book_2:: *Educación práctica del pensamiento* (1909): Conferencia donde justifica la necesidad de materiales que estimulen la voluntad y el hacer con las manos.
+- ::book_2:: Jaffke, Freya. *Juego de niños: El juego en la primera infancia* (Editorial Pau de Damasc): Manual clave sobre el diseño de juguetes Waldorf, la confección de muñecas de tela, telas de juego y materiales naturales para el hogar y la escuela.
+- ::book_2:: Carlgren, Frans. *Educar para la libertad* (Editorial Rudolf Steiner): Panorama completo de la pedagogía Waldorf, que detalla el uso del dibujo de formas, los cuadernos de lección principal y el trabajo con las ceras y la acuarela.
+- ::book_2:: Elders, Karin & Oldfield, Lynne. *La mesa de estación Waldorf*: Guía práctica sobre el uso y selección de materiales estacionales para conectar al niño con los ciclos de la naturaleza.
 
-> *La educación es el arte de ayudar a cada individuo a manifestar lo mejor de sí mismo*
+> La educación es el arte de ayudar a cada individuo a manifestar lo mejor de sí mismo
 > @@Rudolf Steiner@@
 
 🙏🏽 Gracias por prestarte este momento de atención.

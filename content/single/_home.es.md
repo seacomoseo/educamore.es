@@ -43,9 +43,12 @@ org:
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.0786701,37.9690631]}'
-    url: null
-  areas: []
+    url: https://maps.app.goo.gl/N9h6hzQJCDQFQVQS8
+  areas:
+  - Murcia
+  - España
+  - Internacional
   when: []
-  prices: null
+  prices: €
   services: []
 ---

@@ -260,4 +260,4 @@ Cada color representa una familia diferente de **compuestos curativos**. Dado qu
 
 🎙️ Microbiota y alimentación en niños, entrevista a **Paula Bosch** (**Regenera Health**):
 
-![16/9](https://youtu.be/BD33uxIy5fo)
+![](https://youtu.be/BD33uxIy5fo)

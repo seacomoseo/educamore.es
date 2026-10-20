@@ -68,7 +68,7 @@ El Mapa de la Conciencia de Hawkins presenta diferentes niveles energéticos que
 
 Un aspecto clave de esta escala es el nivel 200, que marca la división entre los niveles de "fuerza" y los niveles de "poder". Los niveles por debajo de 200 corresponden a expresiones destructivas de fuerza, que a largo plazo pueden perjudicar la vida de una persona, mientras que los niveles superiores a 200 se asocian con expresiones constructivas de poder.
 
-![El mapa de la conciencia](blog/mapa-conciencia.webp)
+![El mapa de la conciencia](/u/blog/mapa-conciencia.webp)
 
 *[Descubre tu nivel energético de consciencia](https://saludkoru.com/test/descubre-tu-nivel-energetico-de-consciencia/). Por **Ser de Luz** (noviembre 2022) Salud Koru.*
 {.align-center}

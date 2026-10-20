@@ -124,7 +124,7 @@ A continuación verás cómo aterrizar esto en casa, con ejemplos claros para es
 
 - **Qué es:** una tira con pictogramas o dibujos que muestran el orden del día.
 - **Cómo hacerlo en casa:** pega entre 5 y 8 pictogramas (despertar → baño → desayuno → vestirse → cole… noche: recoger → cena → dientes → cuento → dormir). Puede ser una secuencia para la mañana, y otra al volver del colegio.
-![](blog/pictogramas.png)
+![](/u/blog/pictogramas.png)
 - **Ejemplo:**
     - Antes de desayunar, señalas el pictograma: “Ahora toca ducha y luego desayuno” (mejor si eligen la ropa el día anterior).
     - Si se distrae: “¿Qué dice nuestra tira? **Recoger**. Vamos, yo guardo los peluches y tú los coches”.
