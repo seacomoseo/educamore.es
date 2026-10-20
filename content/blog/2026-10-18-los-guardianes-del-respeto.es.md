@@ -96,7 +96,7 @@ Fomentan la independencia, la coordinación motora fina y gruesa, la concentraci
 
 Ayudan a educar y refinar los sentidos (vista, tacto, oído, gusto, olfato y percepción esteognóstica).
 
-- ::deployed_code:: Torre rosa: 10 cubos de madera rosa que varían de 1 cm³ a 10 cm³ para explorar el volumen.
+- ::deployed_code:: Torre rosa: 10 cubos de madera rosa que varían de 1 cm a 10 cm para explorar el volumen.
 - ::stairs:: Escalera marrón: 10 prismas rectangulares marrón para trabajar el grosor y la dimensión.
 - ::straighten:: Listones rojos: 10 listones para trabajar la longitud y preparar para la matemática.
 - ::extension:: Cilindros con y sin botón: Bloques con encajes para explorar la altura, el diámetro y la prensión en pinza.
@@ -186,6 +186,7 @@ Tanto Montessori como Waldorf convergen en un mismo latido: comprender que educa
 
 ### Montessori
 
+- ::book_2:: Santerini, M. (2013). **[Grandes de la educación: María Montessori](https://revistas.comillas.edu/index.php/padresymaestros/article/view/959).** *Padres y maestros / Journal of Parents and Teachers*, (349).
 - ::book_2:: ***Montessori paso a paso: vida práctica, vida sensorial*.** PATRON, I., TOINET, V. y DORANCE, S. (2019). Cotignac: Escuela Viva.
 - ::book_2:: ***Jugar y aprender con el método Montessori:** guía de actividades educativas desde los 2 a los 6 años*. BRITTON, L. (2017). Barcelona: Paidós Educación.
 - ::book_2:: ***El método de la pedagogía científica* (1909):** La obra fundacional donde María Montessori describe por primera vez el entorno preparado, las observaciones en la *Casa dei Bambini* y la invención/adaptación de los primeros materiales didácticos (como los de vida práctica y sensoriales).
