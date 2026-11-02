@@ -52,6 +52,34 @@ boxes:
         Descubre "Pata de canguro" y redescubre el placer de aprender.
 
         [[::touch_app:: ¡Lo quiero!]](https://www.unoeditorial.com/libros/pata-de-canguro/)
+  - box:
+      align_y: center
+      align: left
+      gap_ny: 2
+    boxes:
+    - fit: 0.4
+      fit_vs: 1
+      img: /u/mahelet-portada.webp
+      hover: /u/mahelet-contraportada.webp
+      alt: Portada del cuento 'Mahelet' de Nieves Lara
+      hover_alt: Contraportada del cuento 'Mahelet' de Nieves Lara
+      url: mailto:info@educamore.es?subject=Quiero%20el%20cuento%20Mahelet
+      btn: hide
+      order: 2
+      id: mahelet
+      hide_shadow: true
+    - fit: 0.4
+      fit_vs: 1
+      align_vl: right
+      title: Cuento 'Mahelet'
+      md: |
+        Mahelet es una niña india libre y valiente, que encuentra su hogar en la naturaleza: corre descalza, se esconde entre los arbustos y escucha los secretos del río.
+
+        Guiada por su abuelo Tika, el jefe de la tribu, aprende a ver el mundo de una forma especial: a respetar la tierra, a comprender a los animales y a descubrir el poder curativo de las plantas.
+
+        Pero cuando un cambio amenaza el equilibrio de su tribu, Mahelet deberá poner a prueba todo lo que ha aprendido.
+
+        [[::touch_app:: ¡Lo quiero!]](mailto:info@educamore.es?subject=Quiero%20el%20cuento%20Mahelet)
   - fit: 0.8
     ratio: 1/1
     img: /u/presentacion-pata-de-canguro-2026-10-23.webp
