@@ -35,6 +35,7 @@
     transform-style: preserve-3d;
     overflow: visible;
     animation: 6s 0s bookFloat infinite linear;
+    margin-inline: var(--align-margin);
   }
   .img:hover {
     transform: rotateY(0deg);
