@@ -75,11 +75,13 @@ boxes:
 
         Pero cuando un cambio amenaza el equilibrio de su tribu, Mahelet deberá poner a prueba todo lo que ha aprendido.
 
-        [[::touch_app:: ¡Lo quiero!]](mailto:info@educamore.es?subject=Quiero%20el%20cuento%20Mahelet)
+        [[::mail:: Pedir a Nieves]](mailto:info@educamore.es?subject=Quiero%20el%20cuento%20Mahelet)
+        [[::shopping_cart:: Comprar en Apuleyo]](https://apuleyoediciones.com/producto/mahelet/)
   - fit: 0.8
-    ratio: 1/1
-    img: /u/presentacion-pata-de-canguro-2026-10-23.webp
-    url: /u/presentacion-pata-de-canguro-2026-10-23.webp
+    ratio: 4/5
+    img: /u/presentacion-mahelet-2026-11-26.jpg
+    alt: Presentación y firma de Mahelet con Nieves Lara, 26 de noviembre, de 17:00 a 19:00, en el Lucernario de la Biblioteca Regional de Murcia
+    url: /u/presentacion-mahelet-2026-11-26.jpg
     btn: hide
   # - fit: 0.8
   #   img: /u/calendario-escolar-2025-2026.jpg

@@ -2,20 +2,14 @@
 
 ## Resumen
 
-Describe aquí qué es este proyecto, a quién se dirige y qué objetivos condicionan su contenido o diseño.
+EducAmore es la web educativa de Nieves Lara y un espacio de presentación de sus libros.
 
 ## Particularidades
 
-Enumera decisiones, restricciones o excepciones propias de este proyecto.
+- Conservar el diseño y los textos existentes en los cambios puntuales de contenido.
+- Mantener el contacto directo con Nieves para pedir sus libros. En el caso de *Mahelet*, ofrecer también el enlace de compra en Apuleyo.
+- Mostrar completos los carteles de presentación y firma de libros, sin recortar su contenido.
 
 ## Documentos disponibles
 
-Enumera los demás archivos de `dna/`, indicando brevemente qué contienen y para qué tareas son relevantes. Si no hay ninguno, indícalo expresamente.
-
-Añade únicamente los que el proyecto necesite, por ejemplo:
-
-- `copy.md`: voz, tono y vocabulario;
-- `audiencia.md`: públicos, necesidades y objeciones;
-- `identidad.md`: marca y criterios visuales;
-- `negocio.md`: oferta, prioridades y restricciones;
-- `integraciones.md`: decisiones específicas de servicios externos.
+Este índice contiene el contexto mínimo del proyecto; no hay otros documentos de ADN.
